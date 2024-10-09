@@ -1,0 +1,268 @@
+[
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "001",
+        "annotation": "Pick up the teapot",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "001",
+        "annotation": "Pour hot water from the kettle into the teapot.",
+        "start_frame_id": 100,
+        "end_frame_id": 447
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "000",
+        "annotation": "Lift the lid off the teapot.",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "001",
+        "annotation": "Pick up the kettle",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "001",
+        "annotation": "Pour hot water from the kettle into the teapot.",
+        "start_frame_id": 110,
+        "end_frame_id": 447
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "002",
+        "annotation": "Retrieve the teapot lid from where it was set aside.",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "003",
+        "annotation": "Open the tea bag box.",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "004",
+        "annotation": "Select and remove a tea bag from the box.",
+        "start_frame_id": 0,
+        "end_frame_id": 347
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "005",
+        "annotation": "Tear the tea bag wrapper.",
+        "start_frame_id": 0,
+        "end_frame_id": 258
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "006",
+        "annotation": "Hold the tea bag by the string.",
+        "start_frame_id": 0,
+        "end_frame_id": 488
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "007",
+        "annotation": "Steep the tea bag in the hot water.",
+        "start_frame_id": 0,
+        "end_frame_id": 336
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "008",
+        "annotation": "Release the tea bag.",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "009",
+        "annotation": "Place the lid back onto the teapot.",
+        "start_frame_id": 0,
+        "end_frame_id": 234
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "010",
+        "annotation": "Pick up the teapot",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "010",
+        "annotation": "Pour tea into the teacup from the teapot",
+        "start_frame_id": 170,
+        "end_frame_id": 546
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "011",
+        "annotation": "Hold the box or bottle of cream securely.",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "012",
+        "annotation": "Unscrew the cap of the cream container.",
+        "start_frame_id": 0,
+        "end_frame_id": 304
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "013",
+        "annotation": "Pour the cream into the teacup containing the steeped tea.",
+        "start_frame_id": 0,
+        "end_frame_id": 263
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "014",
+        "annotation": "Reseal the cream container by screwing the cap back on.",
+        "start_frame_id": 0,
+        "end_frame_id": 335
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "015",
+        "annotation": "Pick up the sugar canister",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "015",
+        "annotation": "Unfasten the lid of the sugar canister.",
+        "start_frame_id": 110,
+        "end_frame_id": 380
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "016",
+        "annotation": "Grasp the spoon securely.",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "017",
+        "annotation": "Scoop a spoonful of sugar with a teaspoon from the sugar canister.",
+        "start_frame_id": 0,
+        "end_frame_id": 288
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "018",
+        "annotation": "Add the sugar into the teacup.",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "019",
+        "annotation": "Stir the tea, cream, and sugar together with the teaspoon until well mixed.",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "020",
+        "annotation": "Set the teaspoon down on the clean surface.",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "021",
+        "annotation": "Pick up the lid of the sugar canister",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "021",
+        "annotation": "Fasten the lid of the sugar canister back on.",
+        "start_frame_id": 90,
+        "end_frame_id": 412
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "022",
+        "annotation": "Pick up a pre-cut lemon half and a citrus reamer.",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "023",
+        "annotation": "Extract the juice by pressing and twisting the reamer into the lemon over the teacup.",
+        "start_frame_id": 0,
+        "end_frame_id": 579
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "024",
+        "annotation": "Put down the lemon and citrus reamer once sufficient juice is extracted.",
+        "start_frame_id": 0,
+        "end_frame_id": 207
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "025",
+        "annotation": "Rotate the teacup so that its handle faces towards you",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "025",
+        "annotation": "Lift the teacup carefully by its handle.",
+        "start_frame_id": 100,
+        "end_frame_id": 232
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "026",
+        "annotation": "Take a small, careful sip of the tea.",
+        "start_frame_id": 0,
+        "end_frame_id": 262
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "027",
+        "annotation": "Repeat sipping the tea twice.",
+        "start_frame_id": 0,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "028",
+        "annotation": "Lower the teacup back onto the saucer or table gently.",
+        "start_frame_id": 0,
+        "end_frame_id": 180
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "029",
+        "annotation": "Pick up a piece of kitchen towel.",
+        "start_frame_id": 0,
+        "end_frame_id": 504
+    },
+    {
+        "scene": "2024-08-30-action-nick-tea",
+        "sequence": "030",
+        "annotation": "Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.",
+        "start_frame_id": 0,
+        "end_frame_id": 827
+    }
+]

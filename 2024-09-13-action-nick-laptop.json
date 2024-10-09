@@ -1,0 +1,289 @@
+[
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "001",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/66_Setting Up the Laptop/424.mp3\tInsert the Type-C power supply into the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "000",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/66_Setting Up the Laptop/423.mp3\tPlug the socket into the power supply.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 222
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "001",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/66_Setting Up the Laptop/424.mp3\tInsert the Type-C power supply into the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "002",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/66_Setting Up the Laptop/425.mp3\tSwitch on the socket.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "003",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/66_Setting Up the Laptop/426.mp3\tInsert the USB of the Bluetooth mouse into the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 310
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "004",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/66_Setting Up the Laptop/427.mp3\tInsert the audio cable of the headphones into the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 249
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "005",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/67_Starting the Laptop/428.mp3\tFlip open the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "006",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/67_Starting the Laptop/429.mp3\tPress and hold the power button to initiate the startup process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "007",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/67_Starting the Laptop/430.mp3\tAdjust the angle of the laptop for better viewing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 217
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "008",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/68_Logging In/431.mp3\tScan your fingerprint with the fingerprint scanner to unlock the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "009",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/68_Logging In/432.mp3\tType the password \"Brown@1764\" using the keyboard.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 410
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "010",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/68_Logging In/433.mp3\tPress 'Fn' + 'F9' to darken the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "011",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/68_Logging In/434.mp3\tPress 'Fn' + 'F10' to brighten the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 198
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "012",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/435.mp3\tUse the mouse to navigate the cursor across the screen and hover over the 'brown.doc' file.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "013",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/436.mp3\tClick the right mouse button.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "014",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/437.mp3\tMove the cursor to rename.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "015",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/438.mp3\tType on the keyboard to rename the file to 'brown.doc'.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 265
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "016",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/439.mp3\tDouble-click the icon to open the file.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "017",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/440.mp3\tClick the left mouse button to place the cursor at the beginning of the document.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 133
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "018",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/441.mp3\tUse the mouse scroll wheel to scroll to the bottom of the page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "019",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/442.mp3\tUse the cursor to select all text in the document.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 336
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "020",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/443.mp3\tPress 'Ctrl + C' to copy the contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "021",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/444.mp3\tPress 'Ctrl + V' to paste the text.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "022",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/445.mp3\tPress 'Ctrl + S' to save the document.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "023",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/69_Navigating and Editing a Document/446.mp3\tClick the 'X' to close the document.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 200
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "024",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/70_Using the Touchpad and Paint Application/447.mp3\tNavigate to the search bar with the touchpad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "025",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/70_Using the Touchpad and Paint Application/448.mp3\tUse the touchpad to move the cursor to the 'Paint' application.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "026",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/70_Using the Touchpad and Paint Application/449.mp3\tDouble-tap the touchpad to open the application.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "027",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/70_Using the Touchpad and Paint Application/450.mp3\tTap 'Select' on the option bar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "028",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/70_Using the Touchpad and Paint Application/451.mp3\tUse one finger to press the touchpad and the other to drag out a rectangular region.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "029",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/70_Using the Touchpad and Paint Application/452.mp3\tTap the 'X' icon to close the application.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "030",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/453.mp3\tPress the power button to put the laptop to sleep.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "031",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/454.mp3\tGrasp the headphones to prepare for wearing them.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "032",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/455.mp3\tPut down the headphones.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "033",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/456.mp3\tUnplug the audio cable.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "034",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/457.mp3\tDetach the USB of the mouse from the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "035",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/458.mp3\tDisconnect the Type-C side of the power cable.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "036",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/459.mp3\tSwitch off the power bar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "037",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/71_Shutting Down and Disconnecting/460.mp3\tUnplug the socket from the power bar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 208
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "038",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/72_Cleaning and Closing/461.mp3\tSwipe dust or debris off the laptop's keyboard with a brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 477
+    },
+    {
+        "scene": "2024-09-13-action-nick-laptop",
+        "sequence": "039",
+        "annotation": "audio/02_Office Working/09_Testing the laptop/72_Cleaning and Closing/462.mp3\tDust off the screen to ensure clear visibility with a brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 320
+    }
+]

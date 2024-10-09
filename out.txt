@@ -1,0 +1,16 @@
+Grasp the portable vacuum cleaner with one hand.
+60 Lift up the vacuum cleaner
+Vacuum the tabletop to remove dust and debris.
+60 Pick up the glass cleaner.
+180 Spray glass cleaner evenly across the glass surface.
+Put down the glass cleaner
+Grab the glass wiper with your dominant hand.
+Wipe the glass surface with the wiper in smooth, even strokes.
+Apply pressure with the wiper to remove smudges and streaks.
+Dry the wiper blade after each stroke with a clean cloth or paper towel.
+20 Put down the glass wiper.
+Grab a clean table cloth.
+Gently wipe the surface dry with the tablecloth to ensure a streak-free finish.
+Polish the glass surface with the table cloth using circular motions for a gleaming finish.
+220 Take a wipe out of the Windex package.
+Touch up any missed spots with the wipe as needed.

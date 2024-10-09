@@ -1,0 +1,1031 @@
+[
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "000",
+        "annotation": "Place the tablet on the bracket in landscape orientation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 129
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "001",
+        "annotation": "Adjust the angle of the bracket for comfortable viewing of the tablet screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "002",
+        "annotation": "Connect the Type-C charging cable to the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "003",
+        "annotation": "Press the power button to turn on the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "004",
+        "annotation": "Touch the touch id bar to unlock the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "005",
+        "annotation": "Swipe up from the bottom to reveal the password interface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "006",
+        "annotation": "Type the password to unlock the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 148
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "007",
+        "annotation": "Swipe left to move to the next page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "008",
+        "annotation": "Swipe right to return to the previous page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "009",
+        "annotation": "Press the volume up button to increase the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 338
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "010",
+        "annotation": "Press the volume down button to decrease the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "011",
+        "annotation": "Tap the 'Note' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 220
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "012",
+        "annotation": "Pinch to zoom out and reveal the whole note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "013",
+        "annotation": "Spread fingers to zoom in to a writable size.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "014",
+        "annotation": "Fetch the Digital Pen and prepare for writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "015",
+        "annotation": "Write \"Brown@1746\" with the digital pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 298
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "016",
+        "annotation": "Draw a star shape on the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "017",
+        "annotation": "Press the pen on the 'brush' icon to switch the writing tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "018",
+        "annotation": "Put down the digital pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "019",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "020",
+        "annotation": "Drag the 'Note' app to the dock.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 185
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "021",
+        "annotation": "Press and hold the 'Note' app on the dock.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "022",
+        "annotation": "Tap 'Remove app.'\n",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "023",
+        "annotation": "Disconnect the type-c to test the connection and disconnection process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 247
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "024",
+        "annotation": "Tap the 'Car Race' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 101
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "025",
+        "annotation": "Hold the tablet like a steering wheel to play the car racing game.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 83
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "026",
+        "annotation": "Turn the tablet left, pretending to drive.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 133
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "027",
+        "annotation": "Swerve the tablet right.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "028",
+        "annotation": "Press the honk, pretending to honk.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "029",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "030",
+        "annotation": "Rotate the tablet from landscape to portrait mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "031",
+        "annotation": "Rotate the tablet back to landscape mode\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "032",
+        "annotation": "Place the tablet back on the bracket.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 93
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "033",
+        "annotation": "Lock the tablet by pressing the locking button.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 86
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "034",
+        "annotation": "Spray screen cleaner on the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 193
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "035",
+        "annotation": "Wipe the screen clean.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 399
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "036",
+        "annotation": "Detach the phone from the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "037",
+        "annotation": "Press the power button to start the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "038",
+        "annotation": "Face the phone to use Face ID.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 87
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "039",
+        "annotation": "Swipe up to show the password screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "040",
+        "annotation": "Enter the passcode to unlock the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "041",
+        "annotation": "Press the volume up button to increase the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 228
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "042",
+        "annotation": "Press the volume down button to decrease the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "043",
+        "annotation": "Switch the silence button to toggle silent mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "044",
+        "annotation": "Swipe down to show the toolbars.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "045",
+        "annotation": "Slide up the brightness control bar to brighten the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "046",
+        "annotation": "Slide down the brightness control bar to darken the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "047",
+        "annotation": "Double click the lock button to open the Apple Wallet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "048",
+        "annotation": "Tap the phone on the quick charging station, pretending to make a payment.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "049",
+        "annotation": "Swipe left to reveal the next page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "050",
+        "annotation": "Swipe right to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 76
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "051",
+        "annotation": "Tap the 'Note' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 63
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "052",
+        "annotation": "Select the pen tool for drawing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "053",
+        "annotation": "Gesture an 'O' on the screen to draw an 'O' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 86
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "054",
+        "annotation": "Gesture a 'Z' on the screen to draw a 'Z' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "055",
+        "annotation": "Gesture an 'S' on the screen to draw an 'S' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 120
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "056",
+        "annotation": "Gesture an 'N' on the screen to draw an 'N' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "057",
+        "annotation": "Gesture a checkmark on the screen to draw a checkmark in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "058",
+        "annotation": "Use two fingers to scroll down the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "059",
+        "annotation": "Use two fingers to tap the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "060",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "061",
+        "annotation": "Tap the 'Instagram' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 81
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "062",
+        "annotation": "Press and hold the story icon to reveal the 'add to story' option.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "063",
+        "annotation": "Touch the 'add to story' option to reveal the photo deck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 87
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "064",
+        "annotation": "Scroll down the photo deck and choose a cat photo.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 412
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "065",
+        "annotation": "Spread the photo to expand it to full screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 161
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "066",
+        "annotation": "Pinch the photo to shrink it to a quarter of the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "067",
+        "annotation": "Rotate the photo clockwise.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "068",
+        "annotation": "Tap the 'text' icon to prepare for entering text.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "070",
+        "annotation": "Text \"All work and no play makes Jack a dull boy.\"\n",
+        "start_frame_id": 0,
+        "end_frame_id": 575
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "071",
+        "annotation": "Drag the text box to the right corner of the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "072",
+        "annotation": "Shake the phone to reveal the 'report a problem' page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "073",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "074",
+        "annotation": "Tap the 'keypad' icon to reveal the keypad interface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 101
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "075",
+        "annotation": "Dial '123456789*0#'\n",
+        "start_frame_id": 0,
+        "end_frame_id": 207
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "076",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 73
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "077",
+        "annotation": "Tap the 'camera' icon to reveal the camera.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 77
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "078",
+        "annotation": "Take a picture of the BRICS cameras.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 163
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "079",
+        "annotation": "Swipe the video function.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 65
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "080",
+        "annotation": "Pinch to zoom in to maintain one BRICS camera visible on the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "081",
+        "annotation": "Filming a video of 9 BRICS cameras by moving the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 447
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "082",
+        "annotation": "Tap the 'switch' icon to switch to selfie mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "083",
+        "annotation": "Take a selfie.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 62
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "084",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "085",
+        "annotation": "Bump the phone with the tablet to start the AirDrop process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "086",
+        "annotation": "Tap the 'YouTube' icon to reveal video content.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "087",
+        "annotation": "Select the first video to play.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "088",
+        "annotation": "Rotate the phone to wide-screen mode to watch the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "089",
+        "annotation": "Drag the progress bar to the end of the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "090",
+        "annotation": "Drag the progress bar to the beginning of the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "091",
+        "annotation": "Slide the volume up.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "092",
+        "annotation": "Slide the volume down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "093",
+        "annotation": "Rotate the phone to portrait mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 116
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "094",
+        "annotation": "Pause the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "095",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "096",
+        "annotation": "Tap the 'Car Race' icon to reveal the game content.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "097",
+        "annotation": "Rotate the phone to landscape mode to enjoy the game.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "098",
+        "annotation": "Use the left hand to control the car's speed and the right hand to control the direction.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 214
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "099",
+        "annotation": "Rotate the phone to portrait mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "100",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "101",
+        "annotation": "Swipe up repeatedly to close all running tasks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "102",
+        "annotation": "Click the lock button to lock the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "103",
+        "annotation": "Remove the phone case from the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 326
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "104",
+        "annotation": "Grab the microfiber cloth",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "104",
+        "annotation": "Grab the cleaning solution bottle",
+        "start_frame_id": 50,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "104",
+        "annotation": "Spray a small amount of cleaning solution onto the microfiber cloth.",
+        "start_frame_id": 90,
+        "end_frame_id": 253
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "105",
+        "annotation": "Wipe the phone case with the cloth, focusing on any dirty or smudged areas.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 514
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "106",
+        "annotation": "Use gentle circular motions to scrub stubborn stains or debris.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 323
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "107",
+        "annotation": "Use a dry part of the cloth to dry the phone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 332
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "108",
+        "annotation": "Remove the phone from the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 133
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "109",
+        "annotation": "Insert the SIM card ejector tool into the small hole on the SIM card tray.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 232
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "110",
+        "annotation": "Press gently to eject the SIM card tray.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "111",
+        "annotation": "Examine the SIM card to ensure it is properly seated and free from damage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 230
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "112",
+        "annotation": "Reinsert the SIM card tray back into the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "113",
+        "annotation": "Place the phone back on the quick charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "114",
+        "annotation": "Reattach the phone case to the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 302
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "115",
+        "annotation": "Put the phone back on the quick charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "116",
+        "annotation": "Grab the smartwatch from the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "117",
+        "annotation": "Wear the watch on the wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "118",
+        "annotation": "Flip the wrist with the watch.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "119",
+        "annotation": "Tilt the watch, facing it towards yourself.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "120",
+        "annotation": "Press and hold the digital crown to open Siri.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "121",
+        "annotation": "Press the digital crown to close Siri.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "122",
+        "annotation": "Tune the digital crown up to see the opened apps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 195
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "123",
+        "annotation": "Tune the digital crown down to see the opened apps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "124",
+        "annotation": "Press the side button twice to open Apple Pay.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "125",
+        "annotation": "Flip the wrist to pretend to make a tap payment.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "126",
+        "annotation": "Tap the screen to go back to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 61
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "127",
+        "annotation": "Tap and hold to prepare to switch screens.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "128",
+        "annotation": "Swipe left to see another screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "129",
+        "annotation": "Swipe right to see the last screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 68
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "130",
+        "annotation": "Click the digital crown to go to the menu page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "131",
+        "annotation": "Drag the activity screens to reveal different activities.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "132",
+        "annotation": "Shake your wrist twice to turn on Universal Gestures.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 77
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "133",
+        "annotation": "Pinch your thumb and index finger to move to the next item.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 82
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "134",
+        "annotation": "Double pinch to go to the previous item.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "135",
+        "annotation": "Make a fist to tap.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "136",
+        "annotation": "Make a fist twice to open the action menu.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 80
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "137",
+        "annotation": "Lift the arm to check the time.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 90
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "138",
+        "annotation": "Take off the smartwatch.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "139",
+        "annotation": "Put it back on the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 116
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "140",
+        "annotation": "Grab the earphone case to prepare for opening.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "141",
+        "annotation": "Open the earphone case to reveal the earphones.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "142",
+        "annotation": "Take the earphones out of the earphone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "143",
+        "annotation": "Place the earphones on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 80
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "144",
+        "annotation": "Insert the earphones back into the earphone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 207
+    },
+    {
+        "scene": "2024-07-01-02-action-tablet",
+        "sequence": "145",
+        "annotation": "Close the earphone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 56
+    }
+]

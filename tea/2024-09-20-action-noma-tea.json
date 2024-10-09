@@ -1,0 +1,268 @@
+[
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "001",
+        "annotation": "Open the spout of the kettle",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "001",
+        "annotation": "Pour hot water from the kettle into the teapot.",
+        "start_frame_id": 120,
+        "end_frame_id": 389
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "000",
+        "annotation": "Lift the lid off the teapot.",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "001",
+        "annotation": "Open the spout of the kettle",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "001",
+        "annotation": "Pour hot water from the kettle into the teapot.",
+        "start_frame_id": 120,
+        "end_frame_id": 389
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "002",
+        "annotation": "Retrieve the teapot lid from where it was set aside.",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "003",
+        "annotation": "Open the tea bag box.",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "004",
+        "annotation": "Select and remove a tea bag from the box.",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "005",
+        "annotation": "Tear the tea bag wrapper.",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "006",
+        "annotation": "Hold the tea bag by the string.",
+        "start_frame_id": 0,
+        "end_frame_id": 220
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "007",
+        "annotation": "Steep the tea bag in the hot water.",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "008",
+        "annotation": "Release the tea bag.",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "009",
+        "annotation": "Place the lid back onto the teapot.",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "010",
+        "annotation": "Pick up the teapot",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "010",
+        "annotation": "Pour tea from the teapot into the teacup",
+        "start_frame_id": 85,
+        "end_frame_id": 299
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "010",
+        "annotation": "Put down the teapot",
+        "start_frame_id": 300,
+        "end_frame_id": 359
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "011",
+        "annotation": "Hold the box or bottle of cream securely.",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "012",
+        "annotation": "Unscrew the cap of the cream container.",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "013",
+        "annotation": "Pour the cream into the teacup containing the steeped tea.",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "014",
+        "annotation": "Reseal the cream container by screwing the cap back on.",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "015",
+        "annotation": "Unfasten the lid of the sugar canister.",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "016",
+        "annotation": "Grasp the spoon securely.",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "017",
+        "annotation": "Scoop a spoonful of sugar with a teaspoon from the sugar canister.",
+        "start_frame_id": 0,
+        "end_frame_id": 134
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "018",
+        "annotation": "Add the sugar into the teacup.",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "019",
+        "annotation": "Stir the tea, cream, and sugar together with the teaspoon until well mixed.",
+        "start_frame_id": 0,
+        "end_frame_id": 214
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "020",
+        "annotation": "Set the teaspoon down on the clean surface.",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "022",
+        "annotation": "Retrieve the lid of the sugar canister",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "022",
+        "annotation": "Fasten the lid of the sugar canister back on.",
+        "start_frame_id": 50,
+        "end_frame_id": 215
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "023",
+        "annotation": "Pick up a pre-cut lemon half and a citrus reamer.",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "024",
+        "annotation": "Extract the juice by pressing and twisting the reamer into the lemon over the teacup.",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "025",
+        "annotation": "Take out the lemon from the citrus reamer",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "025",
+        "annotation": "Put down the citrus reamer",
+        "start_frame_id": 185,
+        "end_frame_id": 345
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "026",
+        "annotation": "Lift the teacup carefully by its handle.",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "027",
+        "annotation": "Take a small, careful sip of the tea.",
+        "start_frame_id": 0,
+        "end_frame_id": 236
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "028",
+        "annotation": "Repeat sipping the tea twice.",
+        "start_frame_id": 0,
+        "end_frame_id": 233
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "029",
+        "annotation": "Lower the teacup back onto the saucer or table gently.",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "030",
+        "annotation": "Pick up a piece of kitchen towel.",
+        "start_frame_id": 0,
+        "end_frame_id": 217
+    },
+    {
+        "scene": "2024-09-20-action-noma-tea",
+        "sequence": "031",
+        "annotation": "Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.",
+        "start_frame_id": 0,
+        "end_frame_id": 403
+    }
+]

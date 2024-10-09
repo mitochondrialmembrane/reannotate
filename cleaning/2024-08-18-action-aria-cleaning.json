@@ -1,0 +1,86 @@
+[
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "001",
+        "annotation": "Vacuum the tabletop.",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "000",
+        "annotation": "Pick up the vacuum",
+        "start_frame_id": 0,
+        "end_frame_id": 86
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "001",
+        "annotation": "Vacuum the tabletop in a straight line",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "002",
+        "annotation": "Spray glass cleaner across the surface",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "003",
+        "annotation": "Pick up the glass wiper",
+        "start_frame_id": 0,
+        "end_frame_id": 66
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "004",
+        "annotation": "Wipe the glass surface with the wiper in smooth, even strokes",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "005",
+        "annotation": "Apply pressure with the wiper to remove smudges and streaks",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "006",
+        "annotation": "Dry the wiper blade after each stroke with a clean cloth or paper towel",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "007",
+        "annotation": "Grab a clean table cloth",
+        "start_frame_id": 0,
+        "end_frame_id": 82
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "008",
+        "annotation": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "009",
+        "annotation": "Polish the glass surface with the table cloth using circular motions for a gleaming finish",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-08-18-action-aria-cleaning",
+        "sequence": "010",
+        "annotation": "Touch up any missed spots with an ammonia wipe as needed",
+        "start_frame_id": 0,
+        "end_frame_id": 82
+    }
+]

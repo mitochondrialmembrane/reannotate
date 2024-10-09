@@ -1,0 +1,275 @@
+[
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "001",
+        "annotation": "Pick up the kettle",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "001",
+        "annotation": "Pour hot water from the kettle into the teapot.",
+        "start_frame_id": 100,
+        "end_frame_id": 401
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "000",
+        "annotation": "Lift the lid off the teapot.",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "001",
+        "annotation": "Pick up the kettle",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "001",
+        "annotation": "Pour hot water from the kettle into the teapot.",
+        "start_frame_id": 120,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "001",
+        "annotation": "Put down the kettle",
+        "start_frame_id": 280,
+        "end_frame_id": 401
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "002",
+        "annotation": "Retrieve the teapot lid from where it was set aside.",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "003",
+        "annotation": "Open the tea bag box.",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "005",
+        "annotation": "Select and remove a tea bag from the box.",
+        "start_frame_id": 0,
+        "end_frame_id": 376
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "006",
+        "annotation": "Tear the tea bag wrapper.",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "007",
+        "annotation": "Hold the tea bag by the string.",
+        "start_frame_id": 0,
+        "end_frame_id": 439
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "008",
+        "annotation": "Steep the tea bag in the hot water.",
+        "start_frame_id": 0,
+        "end_frame_id": 253
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "009",
+        "annotation": "Release the tea bag.",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "010",
+        "annotation": "Place the lid back onto the teapot.",
+        "start_frame_id": 0,
+        "end_frame_id": 185
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "011",
+        "annotation": "Pick up the teapot",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "011",
+        "annotation": "Pour tea into the teacup from the teapot",
+        "start_frame_id": 110,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "011",
+        "annotation": "Put down the teapot",
+        "start_frame_id": 240,
+        "end_frame_id": 358
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "012",
+        "annotation": "Hold the box or bottle of cream securely.",
+        "start_frame_id": 0,
+        "end_frame_id": 120
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "013",
+        "annotation": "Unscrew the cap of the cream container.",
+        "start_frame_id": 0,
+        "end_frame_id": 275
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "014",
+        "annotation": "Adjust the cup position",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "014",
+        "annotation": "Pour the cream into the teacup containing the steeped tea.",
+        "start_frame_id": 80,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "015",
+        "annotation": "Reseal the cream container by screwing the cap back on.",
+        "start_frame_id": 0,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "016",
+        "annotation": "Unfasten the lid of the sugar canister.",
+        "start_frame_id": 0,
+        "end_frame_id": 290
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "017",
+        "annotation": "Grasp the spoon securely.",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "018",
+        "annotation": "Scoop a spoonful of sugar with a teaspoon from the sugar canister.",
+        "start_frame_id": 0,
+        "end_frame_id": 245
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "019",
+        "annotation": "Add the sugar into the teacup.",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "020",
+        "annotation": "Stir the tea, cream, and sugar together with the teaspoon until well mixed.",
+        "start_frame_id": 0,
+        "end_frame_id": 490
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "021",
+        "annotation": "Set the teaspoon down on the clean surface.",
+        "start_frame_id": 0,
+        "end_frame_id": 180
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "022",
+        "annotation": "Pick up the lid",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "022",
+        "annotation": "Fasten the lid of the sugar canister back on.",
+        "start_frame_id": 70,
+        "end_frame_id": 323
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "023",
+        "annotation": "Pick up a pre-cut lemon half and a citrus reamer.",
+        "start_frame_id": 0,
+        "end_frame_id": 261
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "024",
+        "annotation": "Extract the juice by pressing and twisting the reamer into the lemon over the teacup.",
+        "start_frame_id": 0,
+        "end_frame_id": 734
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "025",
+        "annotation": "Put down the lemon and citrus reamer once sufficient juice is extracted.",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "026",
+        "annotation": "Lift the teacup carefully by its handle.",
+        "start_frame_id": 0,
+        "end_frame_id": 148
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "027",
+        "annotation": "Take a small, careful sip of the tea.",
+        "start_frame_id": 0,
+        "end_frame_id": 231
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "028",
+        "annotation": "Repeat sipping the tea twice.",
+        "start_frame_id": 0,
+        "end_frame_id": 285
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "029",
+        "annotation": "Lower the teacup back onto the saucer or table gently.",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "030",
+        "annotation": "Pick up a piece of kitchen towel.",
+        "start_frame_id": 0,
+        "end_frame_id": 317
+    },
+    {
+        "scene": "2024-09-04-action-austin-tea",
+        "sequence": "031",
+        "annotation": "Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.",
+        "start_frame_id": 0,
+        "end_frame_id": 1431
+    }
+]

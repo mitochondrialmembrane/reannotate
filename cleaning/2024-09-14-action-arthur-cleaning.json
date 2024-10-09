@@ -1,0 +1,79 @@
+[
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "001",
+        "annotation": "Vacuum the glass tabletop",
+        "start_frame_id": 0,
+        "end_frame_id": 333
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "000",
+        "annotation": "Pick up the vacuum cleaner",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "001",
+        "annotation": "Vacuum the tabletop to remove dust and debris",
+        "start_frame_id": 0,
+        "end_frame_id": 333
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "002",
+        "annotation": "",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "003",
+        "annotation": "Grab the glass wiper with your dominant hand",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "004",
+        "annotation": "Wipe the glass surface with the wiper in smooth, even strokes",
+        "start_frame_id": 0,
+        "end_frame_id": 204
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "005",
+        "annotation": "Apply pressure with the wiper to remove smudges and streaks",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "006",
+        "annotation": "Dry the wiper blade after each stroke with a clean cloth or paper towel",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "007",
+        "annotation": "Grab a clean table cloth",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "009",
+        "annotation": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-09-14-action-arthur-cleaning",
+        "sequence": "010",
+        "annotation": "Grab an ammonia wipe",
+        "start_frame_id": 0,
+        "end_frame_id": 264
+    }
+]

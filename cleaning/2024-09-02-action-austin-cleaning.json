@@ -1,0 +1,114 @@
+[
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "001",
+        "annotation": "Pick up the vacuum cleaner",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "001",
+        "annotation": "Vacuum the tabletop",
+        "start_frame_id": 85,
+        "end_frame_id": 349
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "001",
+        "annotation": "Put down the vacuum cleaner",
+        "start_frame_id": 350,
+        "end_frame_id": 492
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "000",
+        "annotation": "Grasp the vacuum cleaner",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "001",
+        "annotation": "Vacuum the tabletop to remove dust and debris",
+        "start_frame_id": 0,
+        "end_frame_id": 492
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "002",
+        "annotation": "Pick up the glass cleaner",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "002",
+        "annotation": "Spray glass cleaner evenly across the glass surface",
+        "start_frame_id": 75,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "002",
+        "annotation": "Put down the glass cleaner",
+        "start_frame_id": 170,
+        "end_frame_id": 258
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "003",
+        "annotation": "Pick up the glass wiper",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "004",
+        "annotation": "Wipe the glass surface with the wiper in smooth, even strokes",
+        "start_frame_id": 0,
+        "end_frame_id": 659
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "005",
+        "annotation": "Apply pressure with the wiper to remove smudges and streaks",
+        "start_frame_id": 0,
+        "end_frame_id": 407
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "006",
+        "annotation": "Dry the wiper blade after each stroke with a clean cloth or paper towel",
+        "start_frame_id": 0,
+        "end_frame_id": 659
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "007",
+        "annotation": "Grab a clean table cloth",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "008",
+        "annotation": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish",
+        "start_frame_id": 0,
+        "end_frame_id": 578
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "009",
+        "annotation": "Polish the glass surface with the table cloth using circular motions for a gleaming finish",
+        "start_frame_id": 0,
+        "end_frame_id": 442
+    },
+    {
+        "scene": "2024-09-02-action-austin-cleaning",
+        "sequence": "010",
+        "annotation": "Grab an ammonia wipe",
+        "start_frame_id": 0,
+        "end_frame_id": 580
+    }
+]

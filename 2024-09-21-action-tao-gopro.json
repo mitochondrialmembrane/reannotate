@@ -1,0 +1,401 @@
+[
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "001",
+        "annotation": "Remove the GoPro out of the case.",
+        "start_frame_id": 0,
+        "end_frame_id": 68
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "000",
+        "annotation": "Unzip the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "001",
+        "annotation": "Remove the GoPro out of the case.",
+        "start_frame_id": 0,
+        "end_frame_id": 68
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "002",
+        "annotation": "Pull down the notch of the GoPro side lid to change the battery.",
+        "start_frame_id": 0,
+        "end_frame_id": 244
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "003",
+        "annotation": "Take the GoPro battery out of the case.",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "004",
+        "annotation": "Insert the battery into the battery slot.",
+        "start_frame_id": 0,
+        "end_frame_id": 304
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "005",
+        "annotation": "Close the battery lid.",
+        "start_frame_id": 0,
+        "end_frame_id": 197
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "006",
+        "annotation": "Press and hold the power button to turn on the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "007",
+        "annotation": "Aim the GoPro at the tree marker while looking at the screen.",
+        "start_frame_id": 0,
+        "end_frame_id": 417
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "008",
+        "annotation": "Capture the tree marker by pressing the capture button.",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "009",
+        "annotation": "Take out the selfie stick from the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "010",
+        "annotation": "Pull out the GoPro connector from the bottom of the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "011",
+        "annotation": "Insert the GoPro connector into the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 524
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "012",
+        "annotation": "Position the screw to connect the connector to the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 278
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "013",
+        "annotation": "Tighten the screw with your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 534
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "014",
+        "annotation": "Loosen the selfie stick to prepare for extending it.",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "015",
+        "annotation": "Extend the selfie stick to its longest mode.",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "016",
+        "annotation": "Tighten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "017",
+        "annotation": "Rotate the selfie stick and GoPro to ensure the lens is facing yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "018",
+        "annotation": "Loosen the selfie stick to prepare for shortening it.",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "019",
+        "annotation": "Shorten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "020",
+        "annotation": "Tighten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "021",
+        "annotation": "Unscrew the screw from the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 548
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "022",
+        "annotation": "Detach the GoPro from the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 87
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "023",
+        "annotation": "Put the selfie stick back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 262
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "024",
+        "annotation": "Take out the tripod from the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "025",
+        "annotation": "Screw the tripod into the bottom of the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 427
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "026",
+        "annotation": "Bend the tripod legs open.",
+        "start_frame_id": 0,
+        "end_frame_id": 198
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "027",
+        "annotation": "Stabilize the tripod on the table.",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "028",
+        "annotation": "Loosen the screw on the tripod.",
+        "start_frame_id": 0,
+        "end_frame_id": 305
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "029",
+        "annotation": "Rotate the GoPro to have the lens facing yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "030",
+        "annotation": "Tighten the tripod.",
+        "start_frame_id": 0,
+        "end_frame_id": 307
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "031",
+        "annotation": "Adjust the GoPro to ensure it can film yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "032",
+        "annotation": "Press the recording button to start filming.",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "033",
+        "annotation": "Make a greeting gesture.",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "034",
+        "annotation": "Snap once with your right hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 86
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "035",
+        "annotation": "Snap once with your left hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "036",
+        "annotation": "Snap once with both hands together.",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "037",
+        "annotation": "Flick all of the fingers of your right hand as if you were flicking water (no actual water).",
+        "start_frame_id": 0,
+        "end_frame_id": 120
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "038",
+        "annotation": "Flick once with your left hand in a similar motion.",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "039",
+        "annotation": "Perform a salt sprinkling motion with your right hand (no actual salt).",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "040",
+        "annotation": "Clap both hands together.",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "041",
+        "annotation": "Give a thumbs-up gesture.",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "042",
+        "annotation": "Interlock your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "043",
+        "annotation": "Cross your index and middle fingers on both hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "044",
+        "annotation": "Make a heart gesture with your hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "045",
+        "annotation": "Point to the camera.",
+        "start_frame_id": 0,
+        "end_frame_id": 81
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "046",
+        "annotation": "Make expressive gestures with your hands to convey additional meaning or emotion.",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "047",
+        "annotation": "Climbing like a monkey.",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "048",
+        "annotation": "Press the recording button to stop filming.",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "050",
+        "annotation": "Unscrew the tripod from the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 381
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "051",
+        "annotation": "Straighten the tripod legs.",
+        "start_frame_id": 0,
+        "end_frame_id": 313
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "052",
+        "annotation": "Put the tripod back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "053",
+        "annotation": "Pull down the notch of the GoPro side lid to change the battery.",
+        "start_frame_id": 0,
+        "end_frame_id": 243
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "054",
+        "annotation": "Detach the battery from the battery slot.",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "055",
+        "annotation": "Put the battery back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-09-21-action-tao-gopro",
+        "sequence": "056",
+        "annotation": "Close the battery lid.",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    }
+]

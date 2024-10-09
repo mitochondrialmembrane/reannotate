@@ -1,0 +1,401 @@
+[
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "001",
+        "annotation": "Remove the GoPro out of the case.",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "000",
+        "annotation": "Unzip the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "001",
+        "annotation": "Remove the GoPro out of the case.",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "002",
+        "annotation": "Pull down the notch of the GoPro side lid to change the battery.",
+        "start_frame_id": 0,
+        "end_frame_id": 522
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "003",
+        "annotation": "Take the GoPro battery out of the case.",
+        "start_frame_id": 0,
+        "end_frame_id": 95
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "004",
+        "annotation": "Insert the battery into the battery slot.",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "005",
+        "annotation": "Close the battery lid.",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "006",
+        "annotation": "Press and hold the power button to turn on the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "007",
+        "annotation": "Aim the GoPro at the tree marker while looking at the screen.",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "008",
+        "annotation": "Capture the tree marker by pressing the capture button.",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "009",
+        "annotation": "Take out the selfie stick from the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "010",
+        "annotation": "Pull out the GoPro connector from the bottom of the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "011",
+        "annotation": "Insert the GoPro connector into the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 424
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "012",
+        "annotation": "Position the screw to connect the connector to the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "013",
+        "annotation": "Tighten the screw with your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 672
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "014",
+        "annotation": "Loosen the selfie stick to prepare for extending it.",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "015",
+        "annotation": "Extend the selfie stick to its longest mode.",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "016",
+        "annotation": "Tighten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "017",
+        "annotation": "Rotate the selfie stick and GoPro to ensure the lens is facing yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "018",
+        "annotation": "Loosen the selfie stick to prepare for shortening it.",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "019",
+        "annotation": "Shorten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "020",
+        "annotation": "Tighten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "021",
+        "annotation": "Unscrew the screw from the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 403
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "022",
+        "annotation": "Detach the GoPro from the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "023",
+        "annotation": "Put the selfie stick back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "024",
+        "annotation": "Take out the tripod from the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "025",
+        "annotation": "Screw the tripod into the bottom of the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 606
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "026",
+        "annotation": "Bend the tripod legs open.",
+        "start_frame_id": 0,
+        "end_frame_id": 202
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "027",
+        "annotation": "Stabilize the tripod on the table.",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "028",
+        "annotation": "Loosen the screw on the tripod.",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "029",
+        "annotation": "Rotate the GoPro to have the lens facing yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 278
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "030",
+        "annotation": "Tighten the tripod.",
+        "start_frame_id": 0,
+        "end_frame_id": 265
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "031",
+        "annotation": "Adjust the GoPro to ensure it can film yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "032",
+        "annotation": "Press the recording button to start filming.",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "033",
+        "annotation": "Make a greeting gesture.",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "034",
+        "annotation": "Snap once with your right hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "035",
+        "annotation": "Snap once with your left hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "036",
+        "annotation": "Snap once with both hands together.",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "037",
+        "annotation": "Flick all of the fingers of your right hand as if you were flicking water (no actual water).",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "038",
+        "annotation": "Flick once with your left hand in a similar motion.",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "039",
+        "annotation": "Perform a salt sprinkling motion with your right hand (no actual salt).",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "040",
+        "annotation": "Clap both hands together.",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "041",
+        "annotation": "Give a thumbs-up gesture.",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "042",
+        "annotation": "Interlock your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "043",
+        "annotation": "Cross your index and middle fingers on both hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "044",
+        "annotation": "Make a heart gesture with your hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "045",
+        "annotation": "Point to the camera.",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "046",
+        "annotation": "Make expressive gestures with your hands to convey additional meaning or emotion.",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "047",
+        "annotation": "Climbing like a monkey.",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "048",
+        "annotation": "Press the recording button to stop filming.",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "049",
+        "annotation": "Unscrew the tripod from the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 363
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "050",
+        "annotation": "Straighten the tripod legs.",
+        "start_frame_id": 0,
+        "end_frame_id": 161
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "051",
+        "annotation": "Put the tripod back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "052",
+        "annotation": "Pull down the notch of the GoPro side lid to change the battery.",
+        "start_frame_id": 0,
+        "end_frame_id": 363
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "053",
+        "annotation": "Detach the battery from the battery slot.",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "054",
+        "annotation": "Put the battery back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-09-19-action-fiona-gopro",
+        "sequence": "055",
+        "annotation": "Close the battery lid.",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    }
+]

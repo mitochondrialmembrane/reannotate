@@ -1,0 +1,93 @@
+[
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "001",
+        "annotation": "Move the glass wiper",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "001",
+        "annotation": "220",
+        "start_frame_id": 120,
+        "end_frame_id": 1803
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "000",
+        "annotation": "Pick up the vacuum",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "001",
+        "annotation": "Vacuum the glass tabletop",
+        "start_frame_id": 0,
+        "end_frame_id": 1803
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "002",
+        "annotation": "Spray glass cleaner evenly across the glass surface",
+        "start_frame_id": 0,
+        "end_frame_id": 542
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "003",
+        "annotation": "Grab the glass wiper with your dominant hand",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "004",
+        "annotation": "Wipe the glass surface with the wiper in smooth, even strokes",
+        "start_frame_id": 0,
+        "end_frame_id": 702
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "005",
+        "annotation": "Apply pressure with the wiper to remove smudges and streaks",
+        "start_frame_id": 0,
+        "end_frame_id": 843
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "006",
+        "annotation": "Dry the wiper blade after each stroke with a clean cloth or paper towel",
+        "start_frame_id": 0,
+        "end_frame_id": 501
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "007",
+        "annotation": "Grab a clean table cloth",
+        "start_frame_id": 0,
+        "end_frame_id": 68
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "008",
+        "annotation": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish",
+        "start_frame_id": 0,
+        "end_frame_id": 559
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "009",
+        "annotation": "Polish the glass surface with the table cloth using circular motions for a gleaming finish",
+        "start_frame_id": 0,
+        "end_frame_id": 711
+    },
+    {
+        "scene": "2024-08-19-action-brandon-cleaning",
+        "sequence": "010",
+        "annotation": "Grab an ammonia wipe",
+        "start_frame_id": 0,
+        "end_frame_id": 341
+    }
+]
