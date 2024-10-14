@@ -11,15 +11,15 @@ from PyQt5.QtCore import QTimer, Qt
 from PyQt5.QtGui import QImage, QPixmap
 
 # file with current annotations
-TEXT_FILE_PATH = "brics-mini-annotation-gui/rao_0703/scene08.txt"
+TEXT_FILE_PATH = "brics-mini-annotation-gui/nick_0901/scene01.txt"
 # True if processing a scene#.txt file, False if processing a scripts.txt file
-PROCESSING_SCENE_TXT = False
+PROCESSING_SCENE_TXT = True
 # path to folder with videos
-VIDEO_FOLDER_PATH = "sym/2024-09-23-action-sudarshan-laptop2/mano"
+VIDEO_FOLDER_PATH = "sym/2024-08-30-action-nick-noodle/mano"
 # output json path
-OUTPUT_PATH = "2024-09-23-action-sudarshan-laptop2.json"
+OUTPUT_PATH = "noodle/2024-08-30-action-nick-noodle.json"
 # scene string for annotations in the output json
-SCENE="2024-09-23-action-sudarshan-laptop2"
+SCENE="2024-08-30-action-nick-noodle"
 # specifies the start and end video files (for folders with multiple scenes)
 # just put 0 and None otherwise 
 START=0
@@ -371,7 +371,13 @@ def load_text(path):
     if os.path.exists(path):
         with open(path, 'r') as f:
             if PROCESSING_SCENE_TXT:
-                lines = [line.split(".mp3")[1].strip() for line in f]
+                lines = []
+                for line in f:
+                    x = line.split("\t")
+                    if len(x) > 1:
+                        lines.append(x[1])
+                    else:
+                        lines.append(line)
                 return [line for line in lines]
             return [line for line in f]
     return ["None"]
