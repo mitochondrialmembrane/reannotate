@@ -1,0 +1,345 @@
+[
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "000",
+        "annotation": "Adjust the settings of the toaster",
+        "start_frame_id": 0,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "001",
+        "annotation": "Press down the toaster lever to toast the bread",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "002",
+        "annotation": "Place the toasted bread on a plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "003",
+        "annotation": "Unscrew the lid of the peanut butter jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "004",
+        "annotation": "Take out a butter knife from the knife holder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "005",
+        "annotation": "Insert the butter knife into the peanut butter jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "007",
+        "annotation": "Try to spread the peanut butter evenly on the toasted bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 243
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "008",
+        "annotation": "Insert the butter knife back into the knife holder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "009",
+        "annotation": "Grasp the can of spam on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "010",
+        "annotation": "Tear off the lid of the spam can to reveal the contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "011",
+        "annotation": "Lift the spam can above the cutting board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "012",
+        "annotation": "Upturn the spam can to release the spam onto the cutting board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 134
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "013",
+        "annotation": "Knock the bottom of the can to ensure the spam is fully released.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "014",
+        "annotation": "Grip a knife and fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "015",
+        "annotation": "Thrust the fork into the spam to stabilize it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "016",
+        "annotation": "Slice the spam into even pieces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 342
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "017",
+        "annotation": "Detach the fork from the last slice of spam.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "018",
+        "annotation": "Unwrap a piece of butter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 241
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "019",
+        "annotation": "Grasp the butter knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "020",
+        "annotation": "Slice a piece of butter with the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "021",
+        "annotation": "Place a pan on the stove.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "022",
+        "annotation": "Pretend to switch on the stove.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "023",
+        "annotation": "Adding the butter to the pan.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 145
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "024",
+        "annotation": "Spread the butter on the pan to melt it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 264
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "025",
+        "annotation": "Put down the butter knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "026",
+        "annotation": "Take out a pair of tongs from the utensil holder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "027",
+        "annotation": "Pick up a piece of spam using the tongs.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "028",
+        "annotation": "Transfer the spam to the pan with the tongs to fry.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "029",
+        "annotation": "Flip the spam with the tongs to ensure both sides are cooked.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "030",
+        "annotation": "Stack the fried spam on top of the bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "031",
+        "annotation": "Open the egg carton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "032",
+        "annotation": "Take out an egg from the carton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "033",
+        "annotation": "Move a bowl to be in front of you.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "034",
+        "annotation": "Crack the egg by tapping it against the edge of the bowl and split the shell.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "035",
+        "annotation": "Discard the eggshells into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "036",
+        "annotation": "Close the egg carton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "037",
+        "annotation": "Grab the pepper grinder",
+        "start_frame_id": 0,
+        "end_frame_id": 42
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "037",
+        "annotation": "Rotate the pepper grinder to add black pepper to the egg.\n",
+        "start_frame_id": 43,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "038",
+        "annotation": "Grab the salt shaker",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "038",
+        "annotation": "Shake the salt container to add salt to the egg.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 197
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "039",
+        "annotation": "Grab a wooden fork",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "039",
+        "annotation": "Beat the egg in the bowl with a fork, blending the yolk and white thoroughly.\n",
+        "start_frame_id": 75,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "040",
+        "annotation": "Pour the beaten egg into the heated pan.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "041",
+        "annotation": "Grasp a spatula.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "042",
+        "annotation": "Scramble the egg by moving the spatula around the pan.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 314
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "043",
+        "annotation": "Poke the egg with the spatula to test if it's cooked.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "044",
+        "annotation": "Stir-fry the egg.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 249
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "045",
+        "annotation": "Slide the cooked egg on top of the stacked bread and spam.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 194
+    },
+    {
+        "scene": "2024-09-20-action-noma-sandwhich",
+        "sequence": "046",
+        "annotation": "Put down the spatula.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    }
+]

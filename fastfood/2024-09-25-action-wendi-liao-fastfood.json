@@ -1,0 +1,450 @@
+[
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "001",
+        "annotation": "Take out all the food items and utensils from the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 300
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "000",
+        "annotation": "Open the paper bag by separating the top flaps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "001",
+        "annotation": "Take out all the food items and utensils from the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 300
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "002",
+        "annotation": "Reposition the utensils in front of you.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 318
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "003",
+        "annotation": "Set up the food items in a reachable area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 288
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "004",
+        "annotation": "Pick up the hand sanitizer bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "004",
+        "annotation": "Uncap the hand sanitizer bottle.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 268
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "005",
+        "annotation": "Apply a generous amount of sanitizer to your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 324
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "006",
+        "annotation": "Cap the hand sanitizer bottle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "007",
+        "annotation": "Put the sanitizer bottle down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "008",
+        "annotation": "Rub your hands together to sanitize them thoroughly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "009",
+        "annotation": "Hold the can of soda.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "010",
+        "annotation": "Pull the ring tab to open the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 212
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "011",
+        "annotation": "Insert a straw into the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "012",
+        "annotation": "Drink from the soda with the straw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "013",
+        "annotation": "Put the soda can down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "014",
+        "annotation": "Unwrap the burger and set the paper wrapper aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 230
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "015",
+        "annotation": "Deliver the burger to your mouth and take one or several bites.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "016",
+        "annotation": "Put the burger back on the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "017",
+        "annotation": "Pick up the ketchup",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "017",
+        "annotation": "Squeeze some ketchup out from the ketchup bottle onto the plate.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "018",
+        "annotation": "Grip a fry with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "019",
+        "annotation": "Dip the fry into the ketchup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "020",
+        "annotation": "Deliver the fry to your mouth and eat it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "021",
+        "annotation": "Sprinkle any remaining salt on your fingers over the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "022",
+        "annotation": "Peel off the lid of the dipping sauce container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 280
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "023",
+        "annotation": "Grasp a piece of fried chicken thigh.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "024",
+        "annotation": "Dip the fried chicken thigh into the dipping sauce.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 145
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "025",
+        "annotation": "Rotate the chicken thigh as you eat it to get all sides.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "026",
+        "annotation": "Pick up one piece of napkin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "027",
+        "annotation": "Unfold the napkin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "028",
+        "annotation": "Wipe any crumbs or spills off the table with a napkin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "029",
+        "annotation": "Scrunch the napkin into a ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "030",
+        "annotation": "Drop the napkin ball into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "031",
+        "annotation": "Grasp the jar containing the pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "032",
+        "annotation": "Pinch the rubber band around the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 261
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "033",
+        "annotation": "Stretch the rubber band and slide it off the jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "034",
+        "annotation": "Remove the cloth covering the jar to reveal the pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "035",
+        "annotation": "Hold the pudding jar over a plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 120
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "036",
+        "annotation": "Invert the pudding jar to dump the pudding onto the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "037",
+        "annotation": "Shake the jar to ensure all the pudding is transferred to the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "038",
+        "annotation": "Scoop with a spoon to ensure all the puddings are transferred.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 222
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "039",
+        "annotation": "Put down the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "040",
+        "annotation": "Grip the pudding spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "041",
+        "annotation": "Scoop a piece of pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "042",
+        "annotation": "Deliver the pudding to your mouth and eat it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "043",
+        "annotation": "Put down the pudding spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "044",
+        "annotation": "Cover the remaining pudding with the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "045",
+        "annotation": "Flip the pudding jar and plate to transfer the remaining pudding back into the jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "046",
+        "annotation": "Lift the piece of cloth off the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 93
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "047",
+        "annotation": "Cover the pudding jar with the cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "048",
+        "annotation": "Grip the rubber band.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 95
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "049",
+        "annotation": "Bind the pudding jar with the rubber band.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "050",
+        "annotation": "Put the pudding jar back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "051",
+        "annotation": "Gather the remaining chicken thigh and fries back into the food box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "052",
+        "annotation": "Wrap the remaining burger with the paper wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 360
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "053",
+        "annotation": "Close the burger box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 145
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "054",
+        "annotation": "Pull out the straw from the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 102
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "055",
+        "annotation": "Wedge the used straw into the soda can opening.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "056",
+        "annotation": "Gather the remaining food items and place them back into the paper bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 598
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "057",
+        "annotation": "Fold the top of the paper bag to close it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "058",
+        "annotation": "Grab the hand sanitizer",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "058",
+        "annotation": "Uncap the hand sanitizer",
+        "start_frame_id": 50,
+        "end_frame_id": 82
+    },
+    {
+        "scene": "2024-09-25-action-wendi-liao-fastfood",
+        "sequence": "058",
+        "annotation": "Squeeze hand sanitizer onto your hands",
+        "start_frame_id": 83,
+        "end_frame_id": 179
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "062",
+        "annotation": "Untwist the metal twist tie to unseal the bread bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 646
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "061",
+        "annotation": "Take out a slice of bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 264
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "062",
+        "annotation": "Twist the metal twist tie to reseal the bread bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 646
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "063",
+        "annotation": "Insert the bread slice into the toaster.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "064",
+        "annotation": "Tune the temperature of the toaster by rotating the knob to the highest degree.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "065",
+        "annotation": "Press the toaster lever to start toasting the bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "066",
+        "annotation": "Place the toasted bread on a plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "067",
+        "annotation": "Grab the peanut butter jar",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "067",
+        "annotation": "Unscrew the lid of the peanut butter jar.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 307
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "068",
+        "annotation": "Take out a butter knife from the knife holder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "069",
+        "annotation": "Insert the butter knife into the peanut butter jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "070",
+        "annotation": "Try to spread the peanut butter evenly on the toasted bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 739
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "071",
+        "annotation": "Wipe the jam spatula clean with a kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 591
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "072",
+        "annotation": "Insert the butter knife back into the knife holder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "073",
+        "annotation": "Grasp the can of spam on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 120
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "074",
+        "annotation": "Tear off the lid of the spam can to reveal the contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 345
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "075",
+        "annotation": "Lift the spam can above the cutting board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "076",
+        "annotation": "Upturn the spam can to release the spam onto the cutting board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "077",
+        "annotation": "Knock the bottom of the can to ensure the spam is fully released.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 204
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "078",
+        "annotation": "Grip a knife and fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "079",
+        "annotation": "Thrust the fork into the spam to stabilize it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "080",
+        "annotation": "Slice the spam into even pieces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 465
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "081",
+        "annotation": "Detach the fork from the last slice of spam.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "082",
+        "annotation": "Unwrap a piece of butter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 290
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "083",
+        "annotation": "Grasp the butter knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "084",
+        "annotation": "Slice a piece of butter with the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 363
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "085",
+        "annotation": "Place a pan on the stove.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "086",
+        "annotation": "Pretend to switch on the stove.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "087",
+        "annotation": "Adding the butter to the pan.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "088",
+        "annotation": "Spread the butter on the pan to melt it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 516
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "089",
+        "annotation": "Put down the butter knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "090",
+        "annotation": "Take out a pair of tongs from the utensil holder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 297
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "091",
+        "annotation": "Pick up a piece of spam using the tongs.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 361
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "092",
+        "annotation": "Transfer the spam to the pan with the tongs to fry.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "093",
+        "annotation": "Flip the spam with the tongs to ensure both sides are cooked.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 208
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "094",
+        "annotation": "Stack the fried spam on top of the bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 744
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "095",
+        "annotation": "Open the egg carton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 193
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "096",
+        "annotation": "Take out an egg from the carton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "097",
+        "annotation": "Move a bowl to be in front of you.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "098",
+        "annotation": "Crack the egg by tapping it against the edge of the bowl and split the shell.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "099",
+        "annotation": "Discard the eggshells into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "100",
+        "annotation": "Close the egg carton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "101",
+        "annotation": "Rotate the pepper grinder to add black pepper to the egg.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 385
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "102",
+        "annotation": "Shake the salt container to add salt to the egg.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 270
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "103",
+        "annotation": "Beat the egg in the bowl with a fork, blending the yolk and white thoroughly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 685
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "104",
+        "annotation": "Pour the beaten egg into the heated pan.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 242
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "105",
+        "annotation": "Grasp a spatula.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "106",
+        "annotation": "Scramble the egg by moving the spatula around the pan.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 804
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "107",
+        "annotation": "Poke the egg with the spatula to test if it's cooked.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "108",
+        "annotation": "Stir-fry the egg.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 402
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "109",
+        "annotation": "Slide the cooked egg on top of the stacked bread and spam.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 321
+    },
+    {
+        "scene": "2024-09-04-action-austin-sandwich",
+        "sequence": "110",
+        "annotation": "Put down the spatula.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    }
+]
