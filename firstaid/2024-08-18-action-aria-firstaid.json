@@ -1,0 +1,240 @@
+[
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "000",
+        "annotation": "Unzip the first aid kit to access the necessary supplies.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "000",
+        "annotation": "Open the first aid kit",
+        "start_frame_id": 150,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "001",
+        "annotation": "Grab an ice pad from the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 82
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "002",
+        "annotation": "Wrap the ice pad in a paper towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 303
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "003",
+        "annotation": "Apply the ice pad gently to the back of the hand to reduce swelling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "004",
+        "annotation": "Hold the ice pad in place for 5 seconds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "005",
+        "annotation": "Remove the ice pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "006",
+        "annotation": "Take out an iodophor swab from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "007",
+        "annotation": "Slide the iodophor swab out of the plastic wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 268
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "008",
+        "annotation": "Break the end of the iodophor swab letting the iodophor flow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "009",
+        "annotation": "Use the iodophor swab to clean the wound on the back of the hand with gentle strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "010",
+        "annotation": "Grab an adhesive bandage from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 77
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "011",
+        "annotation": "Peel the wrapper off the adhesive bandage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 357
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "012",
+        "annotation": "Place the bandage over the cleaned wound on the back of the hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 375
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "013",
+        "annotation": "Secure the bandage by pressing down the adhesive edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "014",
+        "annotation": "Take out a wipe pad and a tweezer from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "015",
+        "annotation": "Open the wipe pad packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "016",
+        "annotation": "Grip the wipe pad with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "017",
+        "annotation": "Wipe the wound on the wrist thoroughly to clean it with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "018",
+        "annotation": "Take out a gauze swab from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "019",
+        "annotation": "Open the gauze swab wrapper",
+        "start_frame_id": 0,
+        "end_frame_id": 426
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "020",
+        "annotation": "Grip the wipe pad with the tweezer",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "021",
+        "annotation": "Wipe the wound on the wrist thoroughly to clean it with the tweezer",
+        "start_frame_id": 0,
+        "end_frame_id": 102
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "022",
+        "annotation": "Wipe the wound on the wrist thoroughly to clean it with the tweezer",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "023",
+        "annotation": "Grip the gauze swab with the tweezer",
+        "start_frame_id": 0,
+        "end_frame_id": 391
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "024",
+        "annotation": "Further clean the wound on the wrist with the gauze swab",
+        "start_frame_id": 0,
+        "end_frame_id": 51
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "025",
+        "annotation": "Grab adhesive tape from the kit",
+        "start_frame_id": 0,
+        "end_frame_id": 449
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "026",
+        "annotation": "Tear off a suitable length of adhesive tape",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "027",
+        "annotation": "Secure the end of the PBT bandage with the adhesive tape",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "028",
+        "annotation": "Collect all used wrappers from the table",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "029",
+        "annotation": "Dispose the wrappers in the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "030",
+        "annotation": "Put everything back in the first aid kit",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "031",
+        "annotation": "Close the first aid kit",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-08-18-action-aria-firstaid",
+        "sequence": "031",
+        "annotation": "Zip the first aid kit",
+        "start_frame_id": 60,
+        "end_frame_id": 266
+    }
+]

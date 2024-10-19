@@ -1,0 +1,219 @@
+[
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "000",
+        "annotation": "Unzip the first aid kit to access the necessary supplies.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 214
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "000",
+        "annotation": "Open the first aid kit",
+        "start_frame_id": 215,
+        "end_frame_id": 315
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "001",
+        "annotation": "Grab an ice pad from the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 185
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "002",
+        "annotation": "Wrap the ice pad in a paper towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 407
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "003",
+        "annotation": "Apply the ice pad gently to the back of the hand to reduce swelling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "004",
+        "annotation": "Hold the ice pad in place for 5 seconds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "005",
+        "annotation": "Remove the ice pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "006",
+        "annotation": "Take out an iodophor swab from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 317
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "007",
+        "annotation": "Slide the iodophor swab out of the plastic wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 330
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "008",
+        "annotation": "Break the end of the iodophor swab letting the iodophor flow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 338
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "009",
+        "annotation": "Use the iodophor swab to clean the wound on the back of the hand with gentle strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "010",
+        "annotation": "Grab an adhesive bandage from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "011",
+        "annotation": "Peel the wrapper off the adhesive bandage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 380
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "012",
+        "annotation": "Peel the cover off of the bandage",
+        "start_frame_id": 0,
+        "end_frame_id": 349
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "012",
+        "annotation": "Place the bandage over the cleaned wound on the back of the hand.\n",
+        "start_frame_id": 350,
+        "end_frame_id": 713
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "013",
+        "annotation": "Secure the bandage by pressing down the adhesive edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 281
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "016",
+        "annotation": "Open the wipe pad wrapper",
+        "start_frame_id": 0,
+        "end_frame_id": 262
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "017",
+        "annotation": "Grip the wipe pad with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "018",
+        "annotation": "Wipe the wound on the wrist thoroughly to clean it with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 261
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "019",
+        "annotation": "Take out a gauze swab from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 231
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "020",
+        "annotation": "Grip the gauze swab with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 358
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "021",
+        "annotation": "Further clean the wound on the wrist with the gauze swab.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 425
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "022",
+        "annotation": "Grab a PBT bandage from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "023",
+        "annotation": "Wrap the PBT bandage around the wrist for two complete loops.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 684
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "024",
+        "annotation": "Grab adhesive tape from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "025",
+        "annotation": "Tear off a suitable length of adhesive tape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 241
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "026",
+        "annotation": "Secure the end of the PBT bandage with the adhesive tape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "027",
+        "annotation": "Collect all used wrappers from the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 446
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "028",
+        "annotation": "Dispose the wrappers in the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "029",
+        "annotation": "Put everything back in the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 422
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-firstaid",
+        "sequence": "030",
+        "annotation": "Close the first aid kit",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    }
+]

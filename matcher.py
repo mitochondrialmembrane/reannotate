@@ -11,15 +11,15 @@ from PyQt5.QtCore import QTimer, Qt
 from PyQt5.QtGui import QImage, QPixmap
 
 # file with current annotations
-TEXT_FILE_PATH = "brics-mini-annotation-gui/xiaoyan_0920/scene05.txt"
+TEXT_FILE_PATH = "brics-mini-annotation-gui/aria_0819/scene23.txt"
 # True if processing a scene#.txt file, False if processing a scripts.txt file
 PROCESSING_SCENE_TXT = True
 # path to folder with videos
-VIDEO_FOLDER_PATH = "brics-mini/2024-09-21-action-tao-baking/mano"
+VIDEO_FOLDER_PATH = "brics-mini/2024-08-18-action-aria-firstaid/mano"
 # output json path
-OUTPUT_PATH = "matcher/baking/2024-09-21-action-tao-baking.json"
+OUTPUT_PATH = "matcher/firstaid/2024-08-18-action-aria-firstaid.json"
 # scene string for annotations in the output json
-SCENE="2024-09-21-action-tao-baking"
+SCENE="2024-08-18-action-aria-firstaid"
 # specifies the start and end video files (for folders with multiple scenes)
 # just put 0 and None otherwise 
 START=0

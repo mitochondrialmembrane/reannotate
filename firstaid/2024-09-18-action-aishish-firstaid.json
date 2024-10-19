@@ -1,0 +1,226 @@
+[
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "001",
+        "annotation": "Grab an ice pad from the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "000",
+        "annotation": "Unzip the first aid kit to access the necessary supplies.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "001",
+        "annotation": "Open the first aid kit",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "001",
+        "annotation": "Grab an ice pad from the first aid kit.\n",
+        "start_frame_id": 50,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "002",
+        "annotation": "Wrap the ice pad in a paper towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "003",
+        "annotation": "Apply the ice pad gently to the back of the hand to reduce swelling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "004",
+        "annotation": "Hold the ice pad in place for 5 seconds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "005",
+        "annotation": "Remove the ice pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 83
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "006",
+        "annotation": "Take out an iodophor swab from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "007",
+        "annotation": "Slide the iodophor swab out of the plastic wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "008",
+        "annotation": "Break the end of the iodophor swab letting the iodophor flow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 308
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "009",
+        "annotation": "Use the iodophor swab to clean the wound on the back of the hand with gentle strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "010",
+        "annotation": "Grab an adhesive bandage from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "011",
+        "annotation": "Peel the wrapper off the adhesive bandage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 338
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "012",
+        "annotation": "Place the bandage over the cleaned wound on the back of the hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "013",
+        "annotation": "Secure the bandage by pressing down the adhesive edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 134
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "014",
+        "annotation": "Take out a wipe pad and a tweezer from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "015",
+        "annotation": "Open the wipe pad packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "016",
+        "annotation": "Grip the wipe pad with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 101
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "017",
+        "annotation": "Wipe the wound on the wrist thoroughly to clean it with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "018",
+        "annotation": "Take out a gauze swab from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "019",
+        "annotation": "Grip the gauze swab with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "020",
+        "annotation": "Further clean the wound on the wrist with the gauze swab.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "021",
+        "annotation": "Grab a PBT bandage from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "022",
+        "annotation": "Wrap the PBT bandage around the wrist for two complete loops.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 463
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "023",
+        "annotation": "Grab adhesive tape from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "024",
+        "annotation": "Tear off a suitable length of adhesive tape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 285
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "025",
+        "annotation": "Secure the end of the PBT bandage with the adhesive tape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "026",
+        "annotation": "Collect all used wrappers from the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 299
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "027",
+        "annotation": "Dispose the wrappers in the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "028",
+        "annotation": "Put everything back in the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 222
+    },
+    {
+        "scene": "2024-09-18-action-aishish-firstaid",
+        "sequence": "029",
+        "annotation": "Close the first aid kit",
+        "start_frame_id": 0,
+        "end_frame_id": 44
+    }
+]

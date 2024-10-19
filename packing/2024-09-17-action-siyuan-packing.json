@@ -1,0 +1,450 @@
+[
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "001",
+        "annotation": "Unbuckle the stripe belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "000",
+        "annotation": "Unzip the main compartment of the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 297
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "001",
+        "annotation": "Unbuckle the stripe belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "002",
+        "annotation": "Lift everything out of the main compartment of the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 613
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "003",
+        "annotation": "Unzip the side compartment of the gym bag",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "003",
+        "annotation": "Remove shoes from the side compartment of the gym bag.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "004",
+        "annotation": "Uncap the shoe polish bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "004",
+        "annotation": "Pick up a cloth",
+        "start_frame_id": 106,
+        "end_frame_id": 134
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "004",
+        "annotation": "Apply shoe polish to a cloth.\n",
+        "start_frame_id": 135,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "004",
+        "annotation": "Put down the shoe polish bottle and cloth",
+        "start_frame_id": 210,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "005",
+        "annotation": "Shine shoes with the cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 395
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "006",
+        "annotation": "Buff shoes with a clean cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 423
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "007",
+        "annotation": "Untie shoelaces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 698
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "008",
+        "annotation": "Unfold the T-shirt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 325
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "009",
+        "annotation": "Examine the stained area closely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "010",
+        "annotation": "Hold the stain removing pen firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 81
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "011",
+        "annotation": "Uncap the pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "012",
+        "annotation": "Rub the tip of the pen gently over the stain in small, circular motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "013",
+        "annotation": "Cap the stain removal pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "014",
+        "annotation": "Set the pen aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 101
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "015",
+        "annotation": "Rub the stained area in a circular motion with your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 238
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "016",
+        "annotation": "Pick up the clothes brush",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "016",
+        "annotation": "Scrub the T-shirt with a clothes brush.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "016",
+        "annotation": "Put down the clothes brush",
+        "start_frame_id": 190,
+        "end_frame_id": 236
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "017",
+        "annotation": "Wring out the excess solution.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 233
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "018",
+        "annotation": "Lay the T-shirt flat",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "018",
+        "annotation": "Grab the iron",
+        "start_frame_id": 180,
+        "end_frame_id": 204
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "018",
+        "annotation": "Iron the T-shirt.\n",
+        "start_frame_id": 205,
+        "end_frame_id": 379
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "018",
+        "annotation": "Put down the iron",
+        "start_frame_id": 380,
+        "end_frame_id": 440
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "019",
+        "annotation": "Unbutton the shirt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 630
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "020",
+        "annotation": "Set the clothes aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "021",
+        "annotation": "Push the socks to the side",
+        "start_frame_id": 0,
+        "end_frame_id": 29
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "021",
+        "annotation": "Slide the umbrella out of its cover\n",
+        "start_frame_id": 30,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "022",
+        "annotation": "Unclasp the umbrella.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "023",
+        "annotation": "Untie the tie.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "024",
+        "annotation": "Grab the socks",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "024",
+        "annotation": "Unfold the socks.\n",
+        "start_frame_id": 50,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "024",
+        "annotation": "Put down the socks",
+        "start_frame_id": 127,
+        "end_frame_id": 217
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "025",
+        "annotation": "Unfold the pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "026",
+        "annotation": "Unbuckle the belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "027",
+        "annotation": "Unthread the belt by sliding the loose end of the belt out of the belt loops on the pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 438
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "028",
+        "annotation": "Roll the belt for storage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 374
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "028",
+        "annotation": "Put down the rolled belt",
+        "start_frame_id": 375,
+        "end_frame_id": 434
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "029",
+        "annotation": "Unbutton pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "030",
+        "annotation": "Unzip pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "031",
+        "annotation": "Zip up the pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "032",
+        "annotation": "Button up the pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "033",
+        "annotation": "Unroll the belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 232
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "034",
+        "annotation": "Thread the belt into the pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 793
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "035",
+        "annotation": "Buckle the belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 429
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "036",
+        "annotation": "Tuck the loose end into the belt keeper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "037",
+        "annotation": "Fold pants in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 347
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "038",
+        "annotation": "Fold socks in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 241
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "039",
+        "annotation": "Tie the tie in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 285
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "040",
+        "annotation": "Secure the umbrella with a strap.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 259
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "041",
+        "annotation": "Slide the umbrella into its cover.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 684
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "042",
+        "annotation": "Button up the T-shirt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1228
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "043",
+        "annotation": "Fold the T-shirt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 416
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "044",
+        "annotation": "Tie shoelaces in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 312
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "045",
+        "annotation": "Place the shoes in the side compartment of the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 200
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "046",
+        "annotation": "Place folded clothes in the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 324
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "047",
+        "annotation": "Adjust items for a snug fit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "048",
+        "annotation": "Zip the main compartment of the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 261
+    },
+    {
+        "scene": "2024-09-17-action-siyuan-packing",
+        "sequence": "049",
+        "annotation": "Buckle the belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    }
+]

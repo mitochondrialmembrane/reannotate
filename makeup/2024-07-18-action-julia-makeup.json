@@ -1,0 +1,688 @@
+[
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "001",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "000",
+        "annotation": "Grab a cotton pad",
+        "start_frame_id": 0,
+        "end_frame_id": 349
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "000",
+        "annotation": "Pour a small amount of toner onto a cotton pad.\n",
+        "start_frame_id": 350,
+        "end_frame_id": 525
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "001",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "002",
+        "annotation": "Dab the toner gently around your eyes and nose.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "003",
+        "annotation": "Grab the serum bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "003",
+        "annotation": "Unscrew the cap of the serum bottle",
+        "start_frame_id": 75,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "003",
+        "annotation": "Dispense a few drops of serum onto your fingertips.\n",
+        "start_frame_id": 160,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "004",
+        "annotation": "Tap the serum onto your face, focusing on areas that need extra care.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 353
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "005",
+        "annotation": "Spread the serum evenly over your face using gentle upward strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 371
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "006",
+        "annotation": "Grab the moisturizer container",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "006",
+        "annotation": "Unscrew the cap of the moisturizer container",
+        "start_frame_id": 100,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "006",
+        "annotation": "Put down the moisturizer container",
+        "start_frame_id": 270,
+        "end_frame_id": 329
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "006",
+        "annotation": "Scoop a small amount of moisturizer from the container.\n",
+        "start_frame_id": 330,
+        "end_frame_id": 412
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "007",
+        "annotation": "Dot the moisturizer onto your forehead, cheeks, nose, and chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 496
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "008",
+        "annotation": "Rub the moisturizer into your skin using upward and outward motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 833
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "009",
+        "annotation": "Smooth your skin with the moisturizer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 616
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "010",
+        "annotation": "Pump a small amount of foundation onto the back of your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 321
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "011",
+        "annotation": "Grab a makeup sponge",
+        "start_frame_id": 0,
+        "end_frame_id": 725
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "012",
+        "annotation": "Dab the foundation onto your face using a makeup sponge",
+        "start_frame_id": 0,
+        "end_frame_id": 696
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "013",
+        "annotation": "Grab the powder container",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "013",
+        "annotation": "Unscrew the cap of the powder container",
+        "start_frame_id": 85,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "013",
+        "annotation": "Scoop a small amount of loose powder onto a powder pad.\n",
+        "start_frame_id": 170,
+        "end_frame_id": 338
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "014",
+        "annotation": "Pat the powder pad onto your face, focusing on areas that tend to get oily.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 523
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "015",
+        "annotation": "Press the powder into your skin gently to set the foundation and concealer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 959
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "016",
+        "annotation": "Grab the powder brush",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "016",
+        "annotation": "Dust off any excess powder with a powder brush.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 364
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "017",
+        "annotation": "Swirl a blush brush in the blush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "018",
+        "annotation": "Tap off any excess blush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 217
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "019",
+        "annotation": "Sweep the blush onto the apples of your cheeks in an upward motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 402
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "020",
+        "annotation": "Grab the tweezers",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "020",
+        "annotation": "Remove a pair of fake eyelashes from the tray using tweezers.\n",
+        "start_frame_id": 125,
+        "end_frame_id": 532
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "021",
+        "annotation": "Grab the eyelash glue tube",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "021",
+        "annotation": "Unscrew the cap of the eyelash tube",
+        "start_frame_id": 90,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "021",
+        "annotation": "Apply a layer of eyelash glue to the base of the fake eyelashes.\n",
+        "start_frame_id": 255,
+        "end_frame_id": 1886
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "022",
+        "annotation": "Position the fake eyelashes as close to your natural lash line as possible using tweezers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 759
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "023",
+        "annotation": "Press the fake eyelashes gently onto your eyelid to secure them.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 391
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "024",
+        "annotation": "Open the eyeshadow box",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "024",
+        "annotation": "Pick up the eyeshadow brush",
+        "start_frame_id": 120,
+        "end_frame_id": 289
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "024",
+        "annotation": "Dip an eyeshadow brush into the eyeshadow.\n",
+        "start_frame_id": 290,
+        "end_frame_id": 391
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "025",
+        "annotation": "Tap off any excess eyeshadow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 161
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "026",
+        "annotation": "Sweep the eyeshadow across your eyelids.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 474
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "027",
+        "annotation": "Blend the eyeshadow into the crease for a seamless look.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 493
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "028",
+        "annotation": "Grab the eyeliner",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "028",
+        "annotation": "Draw a line along your upper lash line with the eyeliner.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 419
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "029",
+        "annotation": "Extend the line slightly past the outer corner of your eye for a winged effect.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 321
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "030",
+        "annotation": "Grab the mascara tube",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "030",
+        "annotation": "Twist the mascara wand out of the tube.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "031",
+        "annotation": "Wiggle the wand at the base of your lashes and sweep upwards to coat each lash.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 346
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "032",
+        "annotation": "Grab a spoolie brush",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "032",
+        "annotation": "Brush your eyebrows with a spoolie brush.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 442
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "033",
+        "annotation": "Grab the eyebrow pencil",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "033",
+        "annotation": "Fill in any sparse areas with an eyebrow pencil",
+        "start_frame_id": 85,
+        "end_frame_id": 575
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "034",
+        "annotation": "Pick up the lipstick tube.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "035",
+        "annotation": "Twist the lipstick tube to reveal the product.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "036",
+        "annotation": "Apply the lipstick to your lips, starting from the center and moving outwards.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 961
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "037",
+        "annotation": "Cap the lipstick tube",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "037",
+        "annotation": "Put down the lipstick tube.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "038",
+        "annotation": "Blot your lips with a tissue to remove any excess product.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1002
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "039",
+        "annotation": "Grab the nail buffer",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "039",
+        "annotation": "Buff the surface of your nails to smooth out any ridges with the nail buffer.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 449
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "040",
+        "annotation": "Grab the nail polish bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "040",
+        "annotation": "Shake the nail polish bottle to mix the contents.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "041",
+        "annotation": "Unscrew the nail polish cap and remove the brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "042",
+        "annotation": "Paint each nail with the brush, starting from the base and moving towards the tip.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1130
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "043",
+        "annotation": "Display the polished nails.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "044",
+        "annotation": "Pick up one earring with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 134
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "045",
+        "annotation": "Insert the earring post through your right earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 500
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "046",
+        "annotation": "Pick up the other earring with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "047",
+        "annotation": "Insert the earring post through your left earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 472
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "048",
+        "annotation": "Hold the necklace with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 242
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "049",
+        "annotation": "Clasp the necklace around your neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1126
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "050",
+        "annotation": "Pick up the bracelet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "051",
+        "annotation": "Wrap the bracelet around your wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "052",
+        "annotation": "Clasp the bracelet securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 399
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "053",
+        "annotation": "Pick up the ring",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "053",
+        "annotation": "Slide the ring onto your finger.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 192
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "054",
+        "annotation": "Grab the tweezers",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "054",
+        "annotation": "Pluck off the fake eyelashes.\n",
+        "start_frame_id": 85,
+        "end_frame_id": 687
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "055",
+        "annotation": "Grab a cotton pad",
+        "start_frame_id": 0,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "055",
+        "annotation": "Uncap the makeup remover bottle",
+        "start_frame_id": 210,
+        "end_frame_id": 439
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "055",
+        "annotation": "Dispense makeup remover onto a cotton pad.\n",
+        "start_frame_id": 440,
+        "end_frame_id": 692
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "056",
+        "annotation": "Wipe the cotton pad over your face to remove makeup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2399
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "057",
+        "annotation": "Pick up the cotton swab",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "057",
+        "annotation": "Dip the cotton swab into the makeup remover.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 379
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "058",
+        "annotation": "Swab your eyelid with a cotton swab to clean up any excess eyeshadow or fallout.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1680
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "059",
+        "annotation": "Pretend wetting your hands with lukewarm water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "060",
+        "annotation": "Apply a small amount of facial cleanser to your fingertips.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "061",
+        "annotation": "Lather the cleanser in your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "062",
+        "annotation": "Massage the cleanser onto your face in circular motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 499
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "063",
+        "annotation": "Pretend rinse your face with water to remove the cleanser.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 372
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "064",
+        "annotation": "Grab a cotton pad",
+        "start_frame_id": 0,
+        "end_frame_id": 289
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "064",
+        "annotation": "Pour a small amount of toner onto a cotton pad.\n",
+        "start_frame_id": 290,
+        "end_frame_id": 502
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "065",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 467
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "066",
+        "annotation": "Pick up the night cream container",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "066",
+        "annotation": "Unscrew the cap of the night cream container",
+        "start_frame_id": 75,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "066",
+        "annotation": "Scoop a small amount of night cream from the container.\n",
+        "start_frame_id": 220,
+        "end_frame_id": 383
+    },
+    {
+        "scene": "2024-07-18-action-julia-makeup",
+        "sequence": "067",
+        "annotation": "Dot the cream onto your forehead, cheeks, nose, and chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 340
+    }
+]
