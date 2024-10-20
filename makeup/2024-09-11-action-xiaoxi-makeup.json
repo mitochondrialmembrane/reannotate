@@ -1,0 +1,513 @@
+[
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "001",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 259
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "000",
+        "annotation": "Pour a small amount of toner onto a cotton pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "001",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 259
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "002",
+        "annotation": "Dab the toner gently around your eyes and nose.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 197
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "004",
+        "annotation": "Unscrew the cap of the serum bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "004",
+        "annotation": "Dispense a few drops of serum onto your fingertips.\n",
+        "start_frame_id": 140,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "005",
+        "annotation": "Tap the serum onto your face, focusing on areas that need extra care.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 620
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "006",
+        "annotation": "Spread the serum evenly over your face using gentle upward strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 275
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "007",
+        "annotation": "Uncap the moisturizer container",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "007",
+        "annotation": "Scoop a small amount of moisturizer from the container.\n",
+        "start_frame_id": 120,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "008",
+        "annotation": "Dot the moisturizer onto your forehead, cheeks, nose, and chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 330
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "009",
+        "annotation": "Rub the moisturizer into your skin using upward and outward motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 312
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "010",
+        "annotation": "Smooth your skin with the moisturizer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 359
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "011",
+        "annotation": "Pump a small amount of foundation onto the back of your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "012",
+        "annotation": "Grab the makeup sponge",
+        "start_frame_id": 0,
+        "end_frame_id": 62
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "012",
+        "annotation": "Dab the foundation onto your face using a makeup sponge",
+        "start_frame_id": 63,
+        "end_frame_id": 1088
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "013",
+        "annotation": "Blend the foundation evenly over your face, paying attention to the hairline and jawline.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 726
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "014",
+        "annotation": "Uncap the powder container",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "014",
+        "annotation": "Scoop a small amount of loose powder onto a powder pad.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 229
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "015",
+        "annotation": "Pat the powder pad onto your face, focusing on areas that tend to get oily.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 451
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "016",
+        "annotation": "Press the powder into your skin gently to set the foundation and concealer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 280
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "017",
+        "annotation": "Dust off any excess powder with a powder brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 267
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "018",
+        "annotation": "Swirl a blush brush in the blush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "019",
+        "annotation": "Tap off any excess blush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "020",
+        "annotation": "Sweep the blush onto the apples of your cheeks in an upward motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "021",
+        "annotation": "Remove a pair of fake eyelashes from the tray using tweezers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "022",
+        "annotation": "Apply a layer of eyelash glue to the base of the fake eyelashes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 234
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "023",
+        "annotation": "Position the fake eyelashes as close to your natural lash line as possible using tweezers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 259
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "024",
+        "annotation": "Press the fake eyelashes gently onto your eyelid to secure them.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 215
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "025",
+        "annotation": "Dip an eyeshadow brush into the eyeshadow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "026",
+        "annotation": "Tap off any excess eyeshadow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "027",
+        "annotation": "Sweep the eyeshadow across your eyelids.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 341
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "028",
+        "annotation": "Blend the eyeshadow into the crease for a seamless look.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 500
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "029",
+        "annotation": "Draw a line along your upper lash line with the eyeliner.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 572
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "030",
+        "annotation": "Extend the line slightly past the outer corner of your eye for a winged effect.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 471
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "031",
+        "annotation": "Twist the mascara wand out of the tube.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "032",
+        "annotation": "Wiggle the wand at the base of your lashes and sweep upwards to coat each lash.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 245
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "033",
+        "annotation": "Brush your eyebrows with a spoolie brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 245
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "034",
+        "annotation": "Fill in any sparse areas with an eyebrow pencil or powder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 395
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "035",
+        "annotation": "Pick up the lipstick tube.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "036",
+        "annotation": "Twist the lipstick tube to reveal the product.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "037",
+        "annotation": "Apply the lipstick to your lips, starting from the center and moving outwards.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 663
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "038",
+        "annotation": "Put down the lipstick tube.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 101
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "039",
+        "annotation": "Blot your lips with a tissue to remove any excess product.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 577
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "040",
+        "annotation": "Buff the surface of your nails to smooth out any ridges with the nail buffer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 278
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "041",
+        "annotation": "Shake the nail polish bottle to mix the contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "042",
+        "annotation": "Unscrew the nail polish cap and remove the brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "043",
+        "annotation": "Paint each nail with the brush, starting from the base and moving towards the tip.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 296
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "044",
+        "annotation": "Display the polished nails.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 120
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "045",
+        "annotation": "Pick up one earring with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "046",
+        "annotation": "Insert the earring post through your right earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 243
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "047",
+        "annotation": "Pick up the other earring with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "048",
+        "annotation": "Insert the earring post through your left earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 256
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "049",
+        "annotation": "Hold the necklace with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "050",
+        "annotation": "Clasp the necklace around your neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 195
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "051",
+        "annotation": "Pick up the bracelet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "052",
+        "annotation": "Wrap the bracelet around your wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 236
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "053",
+        "annotation": "Clasp the bracelet securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "054",
+        "annotation": "Slide the ring onto your finger.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "055",
+        "annotation": "Pluck off the fake eyelashes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "056",
+        "annotation": "Dispense makeup remover onto a cotton pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "057",
+        "annotation": "Wipe the cotton pad over your face to remove makeup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 633
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "058",
+        "annotation": "Dip the cotton swab into the makeup remover.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "059",
+        "annotation": "Swab your eyelid with a cotton swab to clean up any excess eyeshadow or fallout.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 483
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "060",
+        "annotation": "Pretend wetting your hands with lukewarm water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 148
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "061",
+        "annotation": "Apply a small amount of facial cleanser to your fingertips.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "062",
+        "annotation": "Lather the cleanser in your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "063",
+        "annotation": "Massage the cleanser onto your face in circular motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "064",
+        "annotation": "Pretend rinse your face with water to remove the cleanser.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "065",
+        "annotation": "Pour a small amount of toner onto a cotton pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "066",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "067",
+        "annotation": "Scoop a small amount of night cream from the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 203
+    },
+    {
+        "scene": "2024-09-11-action-xiaoxi-makeup",
+        "sequence": "068",
+        "annotation": "Dot the cream onto your forehead, cheeks, nose, and chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    }
+]
