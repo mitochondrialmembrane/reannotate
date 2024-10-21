@@ -1,13 +1,6 @@
 [
     {
         "scene": "2024-07-19-action-kylie-makeup",
-        "sequence": "001",
-        "annotation": "Sweep the cotton pad across your face.\n",
-        "start_frame_id": 0,
-        "end_frame_id": 1019
-    },
-    {
-        "scene": "2024-07-19-action-kylie-makeup",
         "sequence": "000",
         "annotation": "Open the cotton pad bag",
         "start_frame_id": 0,

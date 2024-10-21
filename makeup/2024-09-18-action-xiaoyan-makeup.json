@@ -1,13 +1,6 @@
 [
     {
         "scene": "2024-09-18-action-xiaoyan-makeup",
-        "sequence": "001",
-        "annotation": "Sweep the cotton pad across your face.\n",
-        "start_frame_id": 0,
-        "end_frame_id": 418
-    },
-    {
-        "scene": "2024-09-18-action-xiaoyan-makeup",
         "sequence": "000",
         "annotation": "Pour a small amount of toner onto a cotton pad.\n",
         "start_frame_id": 0,

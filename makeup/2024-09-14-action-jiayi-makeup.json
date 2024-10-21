@@ -1,13 +1,6 @@
 [
     {
         "scene": "2024-09-11-action-xiaoxi-makeup",
-        "sequence": "001",
-        "annotation": "Sweep the cotton pad across your face.\n",
-        "start_frame_id": 0,
-        "end_frame_id": 714
-    },
-    {
-        "scene": "2024-09-11-action-xiaoxi-makeup",
         "sequence": "000",
         "annotation": "Take a cotton pad out of the bag",
         "start_frame_id": 0,

@@ -1,13 +1,6 @@
 [
     {
         "scene": "2024-07-18-action-julia-makeup",
-        "sequence": "001",
-        "annotation": "Sweep the cotton pad across your face.\n",
-        "start_frame_id": 0,
-        "end_frame_id": 196
-    },
-    {
-        "scene": "2024-07-18-action-julia-makeup",
         "sequence": "000",
         "annotation": "Grab a cotton pad",
         "start_frame_id": 0,

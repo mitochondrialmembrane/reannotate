@@ -1,13 +1,6 @@
 [
     {
         "scene": "2024-08-28-action-austin-makeup",
-        "sequence": "001",
-        "annotation": "Sweep the cotton pad across your face.\n",
-        "start_frame_id": 0,
-        "end_frame_id": 254
-    },
-    {
-        "scene": "2024-08-28-action-austin-makeup",
         "sequence": "000",
         "annotation": "Grab the toner bottle",
         "start_frame_id": 0,
