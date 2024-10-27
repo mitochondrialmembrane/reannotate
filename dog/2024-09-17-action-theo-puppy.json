@@ -1,0 +1,303 @@
+[
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "000",
+        "annotation": "Feed the puppy with treats.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "001",
+        "annotation": "Pet the puppy on the head.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "002",
+        "annotation": "Gently stroke the puppy's head and back.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 192
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "003",
+        "annotation": "Pat the puppy gently on the sides, using a soft, rhythmic patting motion with the palm of your hand to make the puppy feel loved and secure.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 421
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "004",
+        "annotation": "Scratch behind the ears and under the chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 324
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "005",
+        "annotation": "Tickle the puppy gently on its belly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "006",
+        "annotation": "Toss a toy gently near the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "007",
+        "annotation": "Clap your hands softly to praise the puppy as it brings the item back, encouraging it to chase and retrieve.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "008",
+        "annotation": "Throw another toy for the puppy to chase.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "009",
+        "annotation": "Point towards the thrown object to guide the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "010",
+        "annotation": "Grip one end of a tug toy firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "011",
+        "annotation": "Tug the toy gently, engaging the puppy in a playful tug-of-war.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 322
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "012",
+        "annotation": "Pull the toy back and forth with gentle resistance.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 337
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "013",
+        "annotation": "Swing a snack-shaped toy enticingly to catch the puppy's attention.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 331
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "014",
+        "annotation": "Hold the comb in one hand and gently run it through the puppy's fur.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 637
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "015",
+        "annotation": "Untangle any knots in the puppy's fur using the comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 636
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "016",
+        "annotation": "Brush the fur gently with smooth, even strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 776
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "017",
+        "annotation": "Pluck any loose fur or debris from the puppy's coat as you comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 677
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "018",
+        "annotation": "Shave the hair around the puppy's paws using the razor",
+        "start_frame_id": 0,
+        "end_frame_id": 750
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "019",
+        "annotation": "Shear the underbelly hair of the puppy using the razor",
+        "start_frame_id": 0,
+        "end_frame_id": 766
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "020",
+        "annotation": "Wet the puppy's fur with water using the showerhead",
+        "start_frame_id": 0,
+        "end_frame_id": 997
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "021",
+        "annotation": "Open the dog shampoo bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "021",
+        "annotation": "Apply dog shampoo to the puppy's fur",
+        "start_frame_id": 70,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "021",
+        "annotation": "Put down the shampoo bottle",
+        "start_frame_id": 160,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "021",
+        "annotation": "Apply dog shampoo and create a lather.\n",
+        "start_frame_id": 220,
+        "end_frame_id": 779
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "022",
+        "annotation": "Scrub the fur gently to clean it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 403
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "023",
+        "annotation": "Rinse off the shampoo with water using the showerhead",
+        "start_frame_id": 0,
+        "end_frame_id": 449
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "024",
+        "annotation": "Dry the puppy with a towel, gently patting and rubbing to remove excess moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 701
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "025",
+        "annotation": "Place a hat on the puppy's head for a cute accessory.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 628
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "026",
+        "annotation": "Unbuckle the collar gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "027",
+        "annotation": "Position the collar around the puppy's neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "028",
+        "annotation": "Buckle the collar securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "029",
+        "annotation": "Adjust the fit of the collar for comfort.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 567
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "030",
+        "annotation": "Hold the clothes with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "031",
+        "annotation": "Lift the puppy's front paws and guide them through the armholes of the clothes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 389
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "032",
+        "annotation": "Pull the clothes up over the puppy's body.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 443
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "033",
+        "annotation": "Adjust the fit of the clothes to ensure comfort.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 354
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "034",
+        "annotation": "Fasten the Velcro straps to secure the clothes in place.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 361
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "035",
+        "annotation": "Hold the paw gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "036",
+        "annotation": "Trim the nails carefully with nail clippers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 530
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "037",
+        "annotation": "Dab ear cleaning solution onto a rag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 202
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "038",
+        "annotation": "Clean the outer ears gently with the rag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 417
+    },
+    {
+        "scene": "2024-09-17-action-theo-puppy",
+        "sequence": "039",
+        "annotation": "Apply dog toothpaste to a toothbrush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "001",
+        "annotation": "Unpack the bag of soil from its packaging to get ready for filling the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 698
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "000",
+        "annotation": "Pick up the shovel",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "001",
+        "annotation": "Move the soil bag in front of you",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "001",
+        "annotation": "Grasp the shovel.\n",
+        "start_frame_id": 180,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "001",
+        "annotation": "Scoop soil from the bag and hold it in the shovel.\n",
+        "start_frame_id": 240,
+        "end_frame_id": 698
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "002",
+        "annotation": "Transfer the soil to the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 260
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "003",
+        "annotation": "Break apart any large clumps in the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 290
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "004",
+        "annotation": "Fill the pot halfway with potting soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1473
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "005",
+        "annotation": "Put down the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "006",
+        "annotation": "Grab the transplant tool",
+        "start_frame_id": 0,
+        "end_frame_id": 64
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "006",
+        "annotation": "Insert the transplant tool into the soil to prepare a hole for transplanting.\n",
+        "start_frame_id": 65,
+        "end_frame_id": 406
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "007",
+        "annotation": "Remove the transplant tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 129
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "008",
+        "annotation": "Ease the plant out of its nursery container, supporting the root ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 338
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "009",
+        "annotation": "Place the plant in the soil-filled pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 329
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "010",
+        "annotation": "Pick up the shovel",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "010",
+        "annotation": "Scoop additional soil around the plant in the pot.\n",
+        "start_frame_id": 75,
+        "end_frame_id": 1149
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "011",
+        "annotation": "Fill the whole pot by repeatedly scooping the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1186
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "012",
+        "annotation": "Hold the base of the plant to keep it steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 260
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "013",
+        "annotation": "Press the soil down to eliminate air pockets.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 363
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "014",
+        "annotation": "Penetrate the soil with your fingers to create a loose layer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "015",
+        "annotation": "Grab the rake",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "015",
+        "annotation": "Aerate the soil with the rake.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 428
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "016",
+        "annotation": "Grab the watering bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "016",
+        "annotation": "Squeeze the watering bottle to water the plant.\n",
+        "start_frame_id": 50,
+        "end_frame_id": 244
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "016",
+        "annotation": "Put down the watering bottle",
+        "start_frame_id": 245,
+        "end_frame_id": 341
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "017",
+        "annotation": "Scatter mulch over the soil to retain moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 578
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "018",
+        "annotation": "Distribute the mulch with your hands to even it out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 264
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "019",
+        "annotation": "Straighten the plant to ensure it is upright.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "020",
+        "annotation": "Grab the air dust blower",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "020",
+        "annotation": "Pump the air dust blower to blow away dust on leaves.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 424
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "020",
+        "annotation": "Put down the air dust blower",
+        "start_frame_id": 425,
+        "end_frame_id": 557
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "021",
+        "annotation": "Grab the spray bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "021",
+        "annotation": "Spray the foliage of the plant evenly with the spray bottle.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 519
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "021",
+        "annotation": "Put down the spray bottle",
+        "start_frame_id": 520,
+        "end_frame_id": 639
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "022",
+        "annotation": "Grab the rake",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "022",
+        "annotation": "Dig around the plant to loosen the soil with the rake.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 364
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "023",
+        "annotation": "Ease the plant out by gently pulling on the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "024",
+        "annotation": "Uproot the plant carefully to avoid damaging the roots.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 203
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "025",
+        "annotation": "Shake the plant gently to remove excess soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 546
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "026",
+        "annotation": "Store the plant properly in the nursery container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 377
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "027",
+        "annotation": "Pick up the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "028",
+        "annotation": "Open the zip bag",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "028",
+        "annotation": "Empty all remaining soil from the pot to the zip bag.\n",
+        "start_frame_id": 185,
+        "end_frame_id": 485
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "029",
+        "annotation": "Tap the bottom of the pot to release soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 424
+    },
+    {
+        "scene": "2024-09-01-action-nick-plant",
+        "sequence": "030",
+        "annotation": "Tip the pot over to continue removing remains.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 337
+    }
+]

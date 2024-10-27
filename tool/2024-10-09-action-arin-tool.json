@@ -1,0 +1,233 @@
+[
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "001",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 658
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "000",
+        "annotation": "Position the wood over the clamp.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 852
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "001",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 658
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "002",
+        "annotation": "(Pretending) Saw back and forth along the cutting line, applying even pressure to make a straight cut.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 470
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "003",
+        "annotation": "Position the nail at any hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "004",
+        "annotation": "Pick up the hammer",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "004",
+        "annotation": "Hammer the nail into the hole using the hammer.\n",
+        "start_frame_id": 50,
+        "end_frame_id": 288
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "005",
+        "annotation": "Position another screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 358
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "006",
+        "annotation": "Select the appropriate screwdriver for the screw type.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 101
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "007",
+        "annotation": "Grasp the handle of the screwdriver with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "008",
+        "annotation": "Turn the screwdriver clockwise to drive the screw into the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 526
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "009",
+        "annotation": "Run your hands over the workbench to inspect any defects.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 345
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "010",
+        "annotation": "Hang the wrench on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "011",
+        "annotation": "Position the screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 235
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "012",
+        "annotation": "Grip the drill handle firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 116
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "013",
+        "annotation": "Pull the drill trigger to start the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "014",
+        "annotation": "Drill the screw into the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 207
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "015",
+        "annotation": "Detach the drill bit from the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "016",
+        "annotation": "Put down the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "017",
+        "annotation": "Grab the pliers to prepare for gripping the nail.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "018",
+        "annotation": "Open the pliers by pushing the handles apart.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "019",
+        "annotation": "Grip the handle of the monkey wrench",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "020",
+        "annotation": "Turn the adjustable knob to tighten the jaws.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "021",
+        "annotation": "Tighten the bolts with the monkey wrench.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 494
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "022",
+        "annotation": "Hook the monkey wrench back on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "023",
+        "annotation": "Unmount the wrench from the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "025",
+        "annotation": "Turn the wrench to unfasten the bolts.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 591
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "026",
+        "annotation": "Reposition the wrench on the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "027",
+        "annotation": "Turn the wrench to unfasten the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 917
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "028",
+        "annotation": "Mount the wrench back on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "029",
+        "annotation": "Grasp the skate tool to prepare for unscrewing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "030",
+        "annotation": "Position the skate tool on top of the other screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-10-09-action-arin-tool",
+        "sequence": "031",
+        "annotation": "Unscrew the other screw from the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 583
+    }
+]

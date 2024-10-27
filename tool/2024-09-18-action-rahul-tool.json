@@ -1,0 +1,51 @@
+[
+    {
+        "scene": "2024-09-18-action-rahul-tool",
+        "sequence": "001",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 364
+    },
+    {
+        "scene": "2024-09-18-action-rahul-tool",
+        "sequence": "000",
+        "annotation": "Position the wood over the clamp.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 429
+    },
+    {
+        "scene": "2024-09-18-action-rahul-tool",
+        "sequence": "001",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 364
+    },
+    {
+        "scene": "2024-09-18-action-rahul-tool",
+        "sequence": "002",
+        "annotation": "Pick up the saw",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-18-action-rahul-tool",
+        "sequence": "002",
+        "annotation": "Rotate the workstation",
+        "start_frame_id": 70,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-09-18-action-rahul-tool",
+        "sequence": "002",
+        "annotation": "(Pretending) Saw back and forth along the cutting line, applying even pressure to make a straight cut.\n",
+        "start_frame_id": 190,
+        "end_frame_id": 344
+    },
+    {
+        "scene": "2024-09-18-action-rahul-tool",
+        "sequence": "002",
+        "annotation": "Put down the saw",
+        "start_frame_id": 345,
+        "end_frame_id": 410
+    }
+]

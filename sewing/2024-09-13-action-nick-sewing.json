@@ -1,0 +1,121 @@
+[
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "000",
+        "annotation": "Organize the content inside the sewing kit for easy access.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 428
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "001",
+        "annotation": "Grasp the scissors for cutting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "002",
+        "annotation": "Cut the eyes, mouth and other parts aligning the cutting line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 6279
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "003",
+        "annotation": "Stick the eyes and other parts on the face of the planet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 3567
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "004",
+        "annotation": "Unwrap the thread the spool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 678
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "005",
+        "annotation": "Gently untangle any knot thread using both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 558
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "006",
+        "annotation": "Tie the thread to the needle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1932
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "007",
+        "annotation": "Sew the fabric pieces together with the needle through the holes while leaving a little space for stuffing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 3152
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "008",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 4653
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "009",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 2489
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "010",
+        "annotation": "Fill the planet with cotton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2348
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "011",
+        "annotation": "Stitch the little space together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1383
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "012",
+        "annotation": "Knot the end of the thread to secure the cottons.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1532
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "013",
+        "annotation": "Untie the thread from the needle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 581
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "014",
+        "annotation": "Puncture the used needle into the futon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 396
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "015",
+        "annotation": "Pick up the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-09-13-action-nick-sewing",
+        "sequence": "015",
+        "annotation": "Cut the excess thread with the scissors.\n",
+        "start_frame_id": 95,
+        "end_frame_id": 487
+    }
+]

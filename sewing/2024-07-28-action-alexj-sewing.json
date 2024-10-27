@@ -1,0 +1,170 @@
+[
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "000",
+        "annotation": "Organize the content inside the sewing kit for easy access.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 445
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "001",
+        "annotation": "Grasp the scissors for cutting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 105
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "002",
+        "annotation": "Cut the eyes, mouth and other parts aligning the cutting line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1041
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "003",
+        "annotation": "Stick the eyes and other parts on the face of the planet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1624
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "004",
+        "annotation": "Unwrap the thread the spool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "005",
+        "annotation": "Gently untangle any knot thread using both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "006",
+        "annotation": "Take a needle off the futon",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "007",
+        "annotation": "Tie the thread to the needle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 714
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "008",
+        "annotation": "Sew the fabric pieces together with the needle through the holes while leaving a little space for stuffing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2271
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "009",
+        "annotation": "Retie the string onto the needle",
+        "start_frame_id": 0,
+        "end_frame_id": 413
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "010",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 2334
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "011",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 3810
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "012",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 3369
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "013",
+        "annotation": "Pull on the thread to tighten the stitch",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "014",
+        "annotation": "Fill the planet with cotton",
+        "start_frame_id": 0,
+        "end_frame_id": 835
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "016",
+        "annotation": "Switch the little space in the fabric together",
+        "start_frame_id": 0,
+        "end_frame_id": 3352
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "017",
+        "annotation": "Finish stitching the little space together",
+        "start_frame_id": 0,
+        "end_frame_id": 1175
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "018",
+        "annotation": "Knot the end of the thread to secure the cotton",
+        "start_frame_id": 0,
+        "end_frame_id": 1895
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "019",
+        "annotation": "Pick up the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "019",
+        "annotation": "Cut the thread attached to the planet",
+        "start_frame_id": 60,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "019",
+        "annotation": "Put down the scissors",
+        "start_frame_id": 225,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "020",
+        "annotation": "Puncture the used needle into the futon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "021",
+        "annotation": "Pick up the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 44
+    },
+    {
+        "scene": "2024-07-28-action-alexj-sewing",
+        "sequence": "021",
+        "annotation": "Cut the excess thread with the scissors.\n",
+        "start_frame_id": 45,
+        "end_frame_id": 324
+    }
+]

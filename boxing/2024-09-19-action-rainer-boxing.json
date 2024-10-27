@@ -1,0 +1,219 @@
+[
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "000",
+        "annotation": "Grasp the pump nozzle with one hand and the boxing bag with the other.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "001",
+        "annotation": "Insert the pump nozzle into the air valve of the boxing bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "002",
+        "annotation": "Pump air into the boxing bag by pressing down on the pump handle repeatedly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 605
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "003",
+        "annotation": "Squeeze the bag with your hand to check for firmness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 221
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "004",
+        "annotation": "Inflate the boxing bag until it reaches the desired firmness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 713
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "005",
+        "annotation": "Remove the pump nozzle from the air valve once the bag is fully inflated.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "006",
+        "annotation": "Align the stand with the base, ensuring the holes for connectors are properly positioned.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "007",
+        "annotation": "Insert the stand into the aligned holes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 290
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "008",
+        "annotation": "Tighten the stand until it is securely attached to the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 242
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "009",
+        "annotation": "Attach the inflated boxing bag to the top of the stand by sliding it onto the rod.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 490
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "010",
+        "annotation": "Wrap boxing hand wraps on one hand to protect it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 734
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "011",
+        "annotation": "Unwrap the boxing hand wrap.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 452
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "012",
+        "annotation": "Position your hands to get ready for boxing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 86
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "013",
+        "annotation": "Clench your fists, keeping your thumbs outside your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "014",
+        "annotation": "Jab the boxing bag with your dominant hand, using a quick, snapping motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 75
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "015",
+        "annotation": "Follow with a cross punch using your non-dominant hand, rotating your body slightly for added power.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "016",
+        "annotation": "Deliver a hook punch by swinging your dominant hand in a horizontal arc.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "017",
+        "annotation": "Perform an uppercut by driving your fist upward from a low position.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "018",
+        "annotation": "Combine punches in sequences, such as jab-cross-hook-uppercut.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 261
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "019",
+        "annotation": "Punch the bag with controlled force for one strike.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "020",
+        "annotation": "Aim your punches at specific targets on the boxing bag to improve accuracy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 293
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "021",
+        "annotation": "Shoot quick, sharp punches at the bag in rapid succession to practice speed and precision.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 361
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "022",
+        "annotation": "Slap the sides of the bag with an open hand to vary your training technique.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 320
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "023",
+        "annotation": "Buggy",
+        "start_frame_id": 0,
+        "end_frame_id": 293
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "024",
+        "annotation": "Dodge by leaning or stepping to the side to avoid imaginary attacks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 389
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "025",
+        "annotation": "Feint by making a quick, deceptive movement to trick an imaginary opponent.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "026",
+        "annotation": "Separate the boxing bag from the stand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 327
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "027",
+        "annotation": "Press the bag to expel air, starting from the top and working your way down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1532
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "028",
+        "annotation": "Continue pressing and rolling the bag until all the air is removed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 595
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "029",
+        "annotation": "Roll the bag tightly to remove any remaining air.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 310
+    },
+    {
+        "scene": "2024-09-19-action-rainer-boxing",
+        "sequence": "030",
+        "annotation": "Unscrew the stand from the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 428
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "000",
+        "annotation": "Put down the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 56
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "000",
+        "annotation": "Organize the content inside the sewing kit for easy access.\n",
+        "start_frame_id": 57,
+        "end_frame_id": 290
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "001",
+        "annotation": "Grasp the scissors for cutting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "002",
+        "annotation": "Cut the eyes, mouth and other parts aligning the cutting line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2842
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "003",
+        "annotation": "Continue cutting out the eyes, mouth and other parts",
+        "start_frame_id": 0,
+        "end_frame_id": 2433
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "004",
+        "annotation": "Stick the eyes and other parts on the face of the planet",
+        "start_frame_id": 0,
+        "end_frame_id": 3825
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "005",
+        "annotation": "Unwrap the thread the spool",
+        "start_frame_id": 0,
+        "end_frame_id": 440
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "006",
+        "annotation": "Gently untangle any knot thread using both hands",
+        "start_frame_id": 0,
+        "end_frame_id": 440
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "007",
+        "annotation": "Take a needle from the futon",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "007",
+        "annotation": "Tie the thread to the needle",
+        "start_frame_id": 120,
+        "end_frame_id": 1093
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "008",
+        "annotation": "Pick up the fabric pieces",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "008",
+        "annotation": "Sew the fabric pieces together with the needle through the holes while leaving a little space for stuffing.\n",
+        "start_frame_id": 50,
+        "end_frame_id": 2678
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "009",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 3035
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "010",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 2899
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "011",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 2652
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "012",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 1764
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "013",
+        "annotation": "Grab the cotton bag",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "013",
+        "annotation": "Remove cotton from the cotton bag",
+        "start_frame_id": 80,
+        "end_frame_id": 379
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "013",
+        "annotation": "Fill the planet with cotton.\n",
+        "start_frame_id": 380,
+        "end_frame_id": 935
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "014",
+        "annotation": "Stitch the little space together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 3663
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "015",
+        "annotation": "Continue sewing the little space together",
+        "start_frame_id": 0,
+        "end_frame_id": 1004
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "016",
+        "annotation": "Grab the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "016",
+        "annotation": "Cut the thread off of the needle",
+        "start_frame_id": 60,
+        "end_frame_id": 435
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "017",
+        "annotation": "Puncture the used needle into the futon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "018",
+        "annotation": "Cut the excess thread with the scissors.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 362
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "019",
+        "annotation": "Pick up the yarn and the crochet hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "020",
+        "annotation": "Make a slip knot by forming a loop with the yarn. Insert the crochet hook into the loop. Pull the working yarn through the loop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 493
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "021",
+        "annotation": "Yarn over by wrapping the yarn around the hook from back to front.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 62
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "022",
+        "annotation": "Pull the yarn through the loop on the hook to create a chain stitch.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 161
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "023",
+        "annotation": "Repeat the yarn over and pull through steps to create 10 chain stitches for the foundation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 668
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "024",
+        "annotation": "Crochet a single row.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2916
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "025",
+        "annotation": "Remove the crochet hook from the yarn",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "025",
+        "annotation": "Grab the scissors",
+        "start_frame_id": 160,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "025",
+        "annotation": "Cut the yarn, leaving a tail.\n",
+        "start_frame_id": 240,
+        "end_frame_id": 304
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "025",
+        "annotation": "Put down the scissors",
+        "start_frame_id": 305,
+        "end_frame_id": 334
+    },
+    {
+        "scene": "2024-09-19-action-jiayi-sewing",
+        "sequence": "025",
+        "annotation": "Pull the cut threads apart",
+        "start_frame_id": 335,
+        "end_frame_id": 435
+    }
+]

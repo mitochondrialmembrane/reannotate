@@ -1,0 +1,275 @@
+[
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "001",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "000",
+        "annotation": "Position the wood over the clamp.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "001",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "002",
+        "annotation": "Grab the saw",
+        "start_frame_id": 0,
+        "end_frame_id": 64
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "002",
+        "annotation": "(Pretending) Saw back and forth along the cutting line, applying even pressure to make a straight cut.\n",
+        "start_frame_id": 65,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "002",
+        "annotation": "Put down the saw",
+        "start_frame_id": 165,
+        "end_frame_id": 230
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "003",
+        "annotation": "Position the nail at any hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "004",
+        "annotation": "Pick up the hammer",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "004",
+        "annotation": "Hammer the nail into the hole using the hammer.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "004",
+        "annotation": "Put down the hammer",
+        "start_frame_id": 100,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "005",
+        "annotation": "Position another screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 173
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "006",
+        "annotation": "Select the appropriate screwdriver for the screw type.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "007",
+        "annotation": "Place the screw back on the hole",
+        "start_frame_id": 0,
+        "end_frame_id": 464
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "007",
+        "annotation": "Turn the screwdriver clockwise to drive the screw into the hole.\n",
+        "start_frame_id": 465,
+        "end_frame_id": 1084
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "007",
+        "annotation": "Put down the screwdriver",
+        "start_frame_id": 1085,
+        "end_frame_id": 1150
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "008",
+        "annotation": "Run your hands over the workbench to inspect any defects.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "009",
+        "annotation": "Hang the wrench on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "010",
+        "annotation": "Position the screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 238
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "011",
+        "annotation": "Grip the drill handle firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "012",
+        "annotation": "Pull the drill trigger to start the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 90
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "013",
+        "annotation": "Drill the screw into the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "014",
+        "annotation": "Detach the drill bit from the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "015",
+        "annotation": "Put down the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "016",
+        "annotation": "Grab the pliers to prepare for gripping the nail.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 64
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "017",
+        "annotation": "Open the pliers by pushing the handles apart.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 58
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "018",
+        "annotation": "Grip the nail with the jaws of the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "019",
+        "annotation": "Pull out the nail with the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 81
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "020",
+        "annotation": "Put down the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "021",
+        "annotation": "Unhook the monkey wrench from the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "022",
+        "annotation": "Adjust the jaws of the monkey wrench to fit the size of the bolt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "023",
+        "annotation": "Tighten the bolts with the monkey wrench.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "024",
+        "annotation": "Hook the monkey wrench back on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 116
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "025",
+        "annotation": "Unmount the wrench from the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 70
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "026",
+        "annotation": "Position the wrench on the bolt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 71
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "027",
+        "annotation": "Turn the wrench to unfasten the bolts.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 580
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "028",
+        "annotation": "Reposition the wrench on the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 75
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "029",
+        "annotation": "Grasp the skate tool to prepare for unscrewing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 76
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "030",
+        "annotation": "Position the skate tool on top of the other screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 410
+    },
+    {
+        "scene": "2024-08-15-action-angela-tool",
+        "sequence": "031",
+        "annotation": "Unscrew the other screw from the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 381
+    }
+]

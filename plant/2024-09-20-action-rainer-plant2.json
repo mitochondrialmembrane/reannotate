@@ -1,0 +1,86 @@
+[
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "000",
+        "annotation": "Pick up the spray bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "000",
+        "annotation": "Spray the plant with the spray bottle",
+        "start_frame_id": 70,
+        "end_frame_id": 359
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "001",
+        "annotation": "Pick up the rake",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "001",
+        "annotation": "Dig around the plant to loosen the soil with the rake",
+        "start_frame_id": 70,
+        "end_frame_id": 330
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "002",
+        "annotation": "Ease the plant out by gently pulling on the base",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "003",
+        "annotation": "Uproot the plant carefully to avoid damaging the roots",
+        "start_frame_id": 0,
+        "end_frame_id": 116
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "004",
+        "annotation": "Shake the plant gently to remove excess soil",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "005",
+        "annotation": "Store the plant properly in the nursery container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "006",
+        "annotation": "Pick up the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "007",
+        "annotation": "Empty all remaining soil from the pot to the zip bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 394
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "008",
+        "annotation": "Tap the bottom of the pot to release soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "009",
+        "annotation": "Tip the pot over to continue removing remains.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    }
+]

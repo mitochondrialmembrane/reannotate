@@ -1,0 +1,233 @@
+[
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "000",
+        "annotation": "Attach the snap buttons at the two front corners of the replanting mat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 376
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "001",
+        "annotation": "Unzip the bag of soil",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "002",
+        "annotation": "Grasp the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "003",
+        "annotation": "Scoop soil from the bag and hold it in the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "004",
+        "annotation": "Transfer the soil to the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "005",
+        "annotation": "Break apart any large clumps in the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "006",
+        "annotation": "Fill the pot halfway with potting soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 719
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "007",
+        "annotation": "Put down the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "008",
+        "annotation": "Insert the transplant tool into the soil to prepare a hole for transplanting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "009",
+        "annotation": "Remove the transplant tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "010",
+        "annotation": "Ease the plant out of its nursery container, supporting the root ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 275
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "011",
+        "annotation": "Place the plant in the soil-filled pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "012",
+        "annotation": "Scoop additional soil around the plant in the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 585
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "013",
+        "annotation": "Fill the whole pot by repeatedly scooping the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 384
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "014",
+        "annotation": "Hold the base of the plant to keep it steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 296
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "015",
+        "annotation": "Press the soil down to eliminate air pockets.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 317
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "017",
+        "annotation": "Penetrate the soil with your fingers to create a loose layer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 262
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "018",
+        "annotation": "Aerate the soil with the rake.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 314
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "019",
+        "annotation": "Squeeze the watering bottle to water the plant.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 286
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "020",
+        "annotation": "Scatter mulch over the soil to retain moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 477
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "021",
+        "annotation": "Distribute the mulch with your hands to even it out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 327
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "022",
+        "annotation": "Straighten the plant to ensure it is upright.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "023",
+        "annotation": "Pump the air dust blower to blow away dust on leaves.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 319
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "024",
+        "annotation": "Spray the foliage of the plant evenly with the spray bottle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 233
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "025",
+        "annotation": "Dig around the plant to loosen the soil with the rake.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 332
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "026",
+        "annotation": "Shake the pot",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "027",
+        "annotation": "Uproot the plant carefully to avoid damaging the roots.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "028",
+        "annotation": "Shake the plant gently to remove excess soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "029",
+        "annotation": "Store the plant properly in the nursery container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 515
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "030",
+        "annotation": "Pick up the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "031",
+        "annotation": "Empty all remaining soil from the pot to the zip bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 958
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "032",
+        "annotation": "Tap the bottom of the pot to release soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-09-18-action-runfeng-plant",
+        "sequence": "033",
+        "annotation": "Tip the pot over to continue removing remains.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    }
+]
