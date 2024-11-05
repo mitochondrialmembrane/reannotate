@@ -1,0 +1,79 @@
+[
+    {
+        "scene": "2024-07-25",
+        "sequence": "000",
+        "annotation": "Grasp the portable vacuum cleaner with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "001",
+        "annotation": "Vacuum the tabletop to remove dust and debris.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "002",
+        "annotation": "Spray glass cleaner evenly across the glass surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "003",
+        "annotation": "Grab the glass wiper with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "004",
+        "annotation": "Wipe the glass surface with the wiper in smooth, even strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "005",
+        "annotation": "Apply pressure with the wiper to remove smudges and streaks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "006",
+        "annotation": "Dry the wiper blade after each stroke with a clean cloth or paper towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "007",
+        "annotation": "Grab a clean table cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "008",
+        "annotation": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "009",
+        "annotation": "Polish the glass surface with the table cloth using circular motions for a gleaming finish.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-25",
+        "sequence": "010",
+        "annotation": "Touch up any missed spots with an ammonia wipe as needed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

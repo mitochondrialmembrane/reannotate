@@ -1,0 +1,65 @@
+[
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "000",
+        "annotation": "Spray glass cleaner evenly across the glass surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "001",
+        "annotation": "Grab the glass wiper with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "002",
+        "annotation": "Wipe the glass surface with the wiper in smooth, even strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "003",
+        "annotation": "Apply pressure with the wiper to remove smudges and streaks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "004",
+        "annotation": "Dry the wiper blade after each stroke with a clean cloth or paper towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "005",
+        "annotation": "Grab a clean table cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "006",
+        "annotation": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "007",
+        "annotation": "Polish the glass surface with the table cloth using circular motions for a gleaming finish.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-19-action-julia-cleaning",
+        "sequence": "008",
+        "annotation": "Touch up any missed spots with an ammonia wipe as needed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

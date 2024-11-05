@@ -1,0 +1,639 @@
+[
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "000",
+        "annotation": "Grab the toner bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "000",
+        "annotation": "Uncap the toner bottle",
+        "start_frame_id": 75,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "000",
+        "annotation": "Grab a cotton pad",
+        "start_frame_id": 115,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "000",
+        "annotation": "Pour a small amount of toner onto a cotton pad.\n",
+        "start_frame_id": 190,
+        "end_frame_id": 323
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "001",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "002",
+        "annotation": "Dab the toner gently around your eyes and nose.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 374
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "003",
+        "annotation": "Unscrew the serum bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "003",
+        "annotation": "Dispense a few drops of serum onto your fingertips.\n",
+        "start_frame_id": 200,
+        "end_frame_id": 363
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "004",
+        "annotation": "Tap the serum onto your face, focusing on areas that need extra care.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 481
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "005",
+        "annotation": "Spread the serum evenly over your face using gentle upward strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 776
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "006",
+        "annotation": "Unscrew the cap of the moisturizer container",
+        "start_frame_id": 0,
+        "end_frame_id": 419
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "006",
+        "annotation": "Scoop a small amount of moisturizer from the container.\n",
+        "start_frame_id": 420,
+        "end_frame_id": 611
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "007",
+        "annotation": "Dot the moisturizer onto your forehead, cheeks, nose, and chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 370
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "008",
+        "annotation": "Cap the moisturizer container",
+        "start_frame_id": 0,
+        "end_frame_id": 365
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "009",
+        "annotation": "Rub the moisturizer into your skin using upward and outward motions",
+        "start_frame_id": 0,
+        "end_frame_id": 1214
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "010",
+        "annotation": "Smooth your skin with the moisturizer",
+        "start_frame_id": 0,
+        "end_frame_id": 719
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "011",
+        "annotation": "Pump a small amount of foundation onto the back of your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "012",
+        "annotation": "Dab the foundation onto your face using a makeup sponge or brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1514
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "013",
+        "annotation": "Blend the foundation evenly over your face, paying attention to the hairline and jawline.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1707
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "014",
+        "annotation": "Unscrew the cap of the powder container",
+        "start_frame_id": 0,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "014",
+        "annotation": "Scoop a small amount of loose powder onto a powder pad.\n",
+        "start_frame_id": 220,
+        "end_frame_id": 517
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "015",
+        "annotation": "Pat the powder pad onto your face, focusing on areas that tend to get oily.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 706
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "016",
+        "annotation": "Press the powder into your skin gently to set the foundation and concealer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 660
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "017",
+        "annotation": "Dust off any excess powder with a powder brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 360
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "018",
+        "annotation": "Swirl a blush brush in the blush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 197
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "019",
+        "annotation": "Tap off any excess blush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "020",
+        "annotation": "Sweep the blush onto the apples of your cheeks in an upward motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 343
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "021",
+        "annotation": "Remove a pair of fake eyelashes from the tray using tweezers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 300
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "022",
+        "annotation": "Grab the eyelash glue tube",
+        "start_frame_id": 0,
+        "end_frame_id": 95
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "022",
+        "annotation": "Uncap the eyelash glue tube",
+        "start_frame_id": 96,
+        "end_frame_id": 884
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "022",
+        "annotation": "Apply a layer of eyelash glue to the base of the fake eyelashes.\n",
+        "start_frame_id": 885,
+        "end_frame_id": 1189
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "023",
+        "annotation": "Cap the eyelash glue tube",
+        "start_frame_id": 0,
+        "end_frame_id": 413
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "024",
+        "annotation": "Position the fake eyelashes as close to your natural lash line as possible using tweezers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 535
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "025",
+        "annotation": "Open the eyeshadow palette",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "025",
+        "annotation": "Pick up the eyeshadow brush",
+        "start_frame_id": 120,
+        "end_frame_id": 334
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "025",
+        "annotation": "Dip an eyeshadow brush into the eyeshadow.\n",
+        "start_frame_id": 335,
+        "end_frame_id": 446
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "026",
+        "annotation": "Tap off any excess eyeshadow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "027",
+        "annotation": "Sweep the eyeshadow across your eyelids.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 355
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "028",
+        "annotation": "Blend the eyeshadow into the crease for a seamless look.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 500
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "029",
+        "annotation": "Open the eyeshadow palette",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "029",
+        "annotation": "Dip an eyeshadow brush into the eyeshadow",
+        "start_frame_id": 140,
+        "end_frame_id": 349
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "029",
+        "annotation": "Close the eyeshadow palette",
+        "start_frame_id": 350,
+        "end_frame_id": 474
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "029",
+        "annotation": "remove",
+        "start_frame_id": 475,
+        "end_frame_id": 495
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "030",
+        "annotation": "Uncap the eyeliner",
+        "start_frame_id": 0,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "030",
+        "annotation": "Draw a line along your upper lash line with the eyeliner.\n",
+        "start_frame_id": 225,
+        "end_frame_id": 684
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "031",
+        "annotation": "Extend the line slightly past the outer corner of your eye for a winged effect.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 291
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "032",
+        "annotation": "Cap the eyeliner",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "033",
+        "annotation": "Twist the mascara wand out of the tube.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "034",
+        "annotation": "Wiggle the wand at the base of your lashes and sweep upwards to coat each lash.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 667
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "035",
+        "annotation": "Cap the mascara wand",
+        "start_frame_id": 0,
+        "end_frame_id": 394
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "036",
+        "annotation": "Uncap the spoolie brush",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "036",
+        "annotation": "Brush your eyebrows with a spoolie brush.\n",
+        "start_frame_id": 125,
+        "end_frame_id": 529
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "037",
+        "annotation": "Uncap the eyebrow pencil",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "037",
+        "annotation": "Fill in any sparse areas with an eyebrow pencil or powder.\n",
+        "start_frame_id": 110,
+        "end_frame_id": 743
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "038",
+        "annotation": "Pick up the lipstick tube.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 87
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "039",
+        "annotation": "Twist the lipstick tube to reveal the product.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 238
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "040",
+        "annotation": "Apply the lipstick to your lips, starting from the center and moving outwards.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 749
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "041",
+        "annotation": "Twist to cap the lipstick tube",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "041",
+        "annotation": "Put down the lipstick tube.\n",
+        "start_frame_id": 160,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "042",
+        "annotation": "Grab a tissue",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "042",
+        "annotation": "Blot your lips with a tissue to remove any excess product.\n",
+        "start_frame_id": 160,
+        "end_frame_id": 506
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "043",
+        "annotation": "Buff the surface of your nails to smooth out any ridges with the nail buffer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1836
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "044",
+        "annotation": "Shake the nail polish bottle to mix the contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "046",
+        "annotation": "Unscrew the nail polish cap and remove the brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "047",
+        "annotation": "Paint each nail with the brush, starting from the base and moving towards the tip.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2296
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "048",
+        "annotation": "Display the polished nails.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "049",
+        "annotation": "Pick up one earring with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "050",
+        "annotation": "Insert the earring post through your right earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 550
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "051",
+        "annotation": "Pick up the other earring with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "052",
+        "annotation": "Insert the earring post through your left earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 429
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "053",
+        "annotation": "Hold the necklace with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 241
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "054",
+        "annotation": "Clasp the necklace around your neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 443
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "055",
+        "annotation": "Pick up the bracelet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 161
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "056",
+        "annotation": "Wrap the bracelet around your wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "057",
+        "annotation": "Clasp the bracelet securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 320
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "058",
+        "annotation": "Pick up the ring",
+        "start_frame_id": 0,
+        "end_frame_id": 64
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "058",
+        "annotation": "Slide the ring onto your finger.\n",
+        "start_frame_id": 65,
+        "end_frame_id": 233
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "059",
+        "annotation": "Take off the ring",
+        "start_frame_id": 0,
+        "end_frame_id": 203
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "060",
+        "annotation": "Take off the bracelet",
+        "start_frame_id": 0,
+        "end_frame_id": 418
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "061",
+        "annotation": "Pluck off the fake eyelashes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "062",
+        "annotation": "Grab a cotton pad",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "062",
+        "annotation": "Uncap the makeup remover bottle",
+        "start_frame_id": 100,
+        "end_frame_id": 305
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "062",
+        "annotation": "Dispense makeup remover onto a cotton pad.\n",
+        "start_frame_id": 306,
+        "end_frame_id": 535
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "063",
+        "annotation": "Wipe the cotton pad over your face to remove makeup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2040
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "064",
+        "annotation": "Dip the cotton swab into the makeup remover.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 281
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "065",
+        "annotation": "Swab your eyelid with a cotton swab to clean up any excess eyeshadow or fallout.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 894
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "066",
+        "annotation": "Pretend wetting your hands with lukewarm water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 295
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "067",
+        "annotation": "Apply a small amount of facial cleanser to your fingertips.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "068",
+        "annotation": "Lather the cleanser in your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "069",
+        "annotation": "Massage the cleanser onto your face in circular motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 702
+    },
+    {
+        "scene": "2024-08-28-action-austin-makeup",
+        "sequence": "070",
+        "annotation": "Pretend to rinse your face with water to remove the cleanser.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

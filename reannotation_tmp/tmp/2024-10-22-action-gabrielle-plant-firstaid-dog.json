@@ -1,0 +1,674 @@
+[
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "000",
+        "annotation": "Attach the snap buttons at the two front corners of the replanting mat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "001",
+        "annotation": "Unpack the bag of soil from its packaging to get ready for filling the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "002",
+        "annotation": "Grasp the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "003",
+        "annotation": "Scoop soil from the bag and hold it in the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "004",
+        "annotation": "Transfer the soil to the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "005",
+        "annotation": "Break apart any large clumps in the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "006",
+        "annotation": "Fill the pot halfway with potting soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "007",
+        "annotation": "Put down the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "008",
+        "annotation": "Insert the transplant tool into the soil to prepare a hole for transplanting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "009",
+        "annotation": "Remove the transplant tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "010",
+        "annotation": "Ease the plant out of its nursery container, supporting the root ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "011",
+        "annotation": "Place the plant in the soil-filled pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "012",
+        "annotation": "Scoop additional soil around the plant in the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "013",
+        "annotation": "Fill the whole pot by repeatedly scooping the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "014",
+        "annotation": "Hold the base of the plant to keep it steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "015",
+        "annotation": "Press the soil down to eliminate air pockets.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "016",
+        "annotation": "Penetrate the soil with your fingers to create a loose layer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "017",
+        "annotation": "Aerate the soil with the rake.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "018",
+        "annotation": "Squeeze the watering bottle to water the plant.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "019",
+        "annotation": "Scatter mulch over the soil to retain moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "020",
+        "annotation": "Distribute the mulch with your hands to even it out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "021",
+        "annotation": "Straighten the plant to ensure it is upright.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "022",
+        "annotation": "Pump the air dust blower to blow away dust on leaves.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "023",
+        "annotation": "Spray the foliage of the plant evenly with the spray bottle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "024",
+        "annotation": "Dig around the plant to loosen the soil with the rake.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "025",
+        "annotation": "Uproot the plant carefully to avoid damaging the roots.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "026",
+        "annotation": "Shake the plant gently to remove excess soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "027",
+        "annotation": "Store the plant properly in the nursery container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "028",
+        "annotation": "Pick up the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "029",
+        "annotation": "Empty all remaining soil from the pot to the zip bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "030",
+        "annotation": "Tap the bottom of the pot to release soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "031",
+        "annotation": "Tip the pot over to continue removing remains and put down the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "032",
+        "annotation": "Unzip the first aid kit to access the necessary supplies.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "033",
+        "annotation": "Grab an ice pad from the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "034",
+        "annotation": "Wrap the ice pad in a paper towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "035",
+        "annotation": "Apply the ice pad gently to the back of the hand to reduce swelling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "036",
+        "annotation": "Hold the ice pad in place for 5 seconds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "037",
+        "annotation": "Remove the ice pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "038",
+        "annotation": "Take out an iodophor swab from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "039",
+        "annotation": "Slide the iodophor swab out of the plastic wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "040",
+        "annotation": "Break the end of the iodophor swab letting the iodophor flow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "041",
+        "annotation": "Use the iodophor swab to clean the wound on the back of the hand with gentle strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "042",
+        "annotation": "Grab an adhesive bandage from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "043",
+        "annotation": "Peel the wrapper off the adhesive bandage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "044",
+        "annotation": "Place the bandage over the cleaned wound on the back of the hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "045",
+        "annotation": "Secure the bandage by pressing down the adhesive edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "046",
+        "annotation": "Take out a wipe pad and a tweezer from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "047",
+        "annotation": "Open the wipe pad packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "048",
+        "annotation": "Grip the wipe pad with the tweezer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "049",
+        "annotation": "Wipe the wound on the wrist thoroughly to clean it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "050",
+        "annotation": "Grab adhesive tape from the kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "051",
+        "annotation": "Tear off a suitable length of adhesive tape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "052",
+        "annotation": "Collect all used wrappers from the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "053",
+        "annotation": "Dispose the wrappers in the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "054",
+        "annotation": "Put everything back in the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "055",
+        "annotation": "Zip up the first aid kit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "056",
+        "annotation": "Feed the puppy with treats.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "057",
+        "annotation": "Pet the puppy on the head.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "058",
+        "annotation": "Gently stroke the puppy's head and back.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "059",
+        "annotation": "Pat the puppy gently on the sides, using a soft, rhythmic patting motion with the palm of your hand to make the puppy feel loved and secure.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "060",
+        "annotation": "Scratch behind the ears and under the chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "061",
+        "annotation": "Tickle the puppy gently on its belly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "062",
+        "annotation": "Toss a toy gently near the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "063",
+        "annotation": "Clap your hands softly to praise the puppy as it brings the item back, encouraging it to chase and retrieve.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "064",
+        "annotation": "Throw another toy for the puppy to chase.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "065",
+        "annotation": "Point towards the thrown object to guide the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "066",
+        "annotation": "Grip one end of a tug toy firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "067",
+        "annotation": "Tug the toy gently, engaging the puppy in a playful tug-of-war.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "068",
+        "annotation": "Pull the toy back and forth with gentle resistance.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "069",
+        "annotation": "Swing a snack-shaped toy enticingly to catch the puppy's attention.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "070",
+        "annotation": "Hold the comb in one hand and gently run it through the puppy\u2019s fur.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "071",
+        "annotation": "Untangle any knots in the puppy's fur using the comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "072",
+        "annotation": "Brush the fur gently with smooth, even strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "073",
+        "annotation": "Pluck any loose fur or debris from the puppy's coat as you comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "074",
+        "annotation": "Shave the hair around the puppy's paws carefully.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "075",
+        "annotation": "Shear the underbelly hair of the puppy gently to keep it neat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "076",
+        "annotation": "Wet the puppy's fur thoroughly with water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "077",
+        "annotation": "Apply dog shampoo and create a lather.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "078",
+        "annotation": "Scrub the fur gently to clean it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "079",
+        "annotation": "Rinse off the shampoo thoroughly with water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "080",
+        "annotation": "Dry the puppy with a towel, gently patting and rubbing to remove excess moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "081",
+        "annotation": "Place a hat on the puppy's head for a cute accessory.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "082",
+        "annotation": "Unbuckle the collar gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "083",
+        "annotation": "Position the collar around the puppy's neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "084",
+        "annotation": "Buckle the collar securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "085",
+        "annotation": "Adjust the fit of the collar for comfort.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "086",
+        "annotation": "Hold the clothes with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "087",
+        "annotation": "Lift the puppy's front paws and guide them through the armholes of the clothes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "088",
+        "annotation": "Pull the clothes up over the puppy's body.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "089",
+        "annotation": "Adjust the fit of the clothes to ensure comfort.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "090",
+        "annotation": "Hold the paw gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "091",
+        "annotation": "Trim the nails carefully with nail clippers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "092",
+        "annotation": "Dab ear cleaning solution onto a rag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "093",
+        "annotation": "Clean the outer ears gently with the rag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "094",
+        "annotation": "Apply dog toothpaste to a toothbrush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-22-action-gabrielle-plant-firstaid-dog",
+        "sequence": "095",
+        "annotation": "Brush the puppy's teeth gently, ensuring you cover all areas.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

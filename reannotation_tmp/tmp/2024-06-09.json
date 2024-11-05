@@ -1,0 +1,254 @@
+[
+    {
+        "scene": "2024-06-09",
+        "sequence": "001",
+        "annotation": "Grasp the teapot lid.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "002",
+        "annotation": "Lift the lid off the teapot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "003",
+        "annotation": "Grasp the teapot handle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "004",
+        "annotation": "Grasp the kettle bottle handle security.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "005",
+        "annotation": "Pour water from the kettle into the teapot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "006",
+        "annotation": "Retrieve the teapot lid from where it was set aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "007",
+        "annotation": "Put down the teapot lid on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "008",
+        "annotation": "Open the tea bag box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "009",
+        "annotation": "Select and remove a tea bag from the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "010",
+        "annotation": "Tear the tea bag wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "011",
+        "annotation": "Hold the tea bag by the string.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "012",
+        "annotation": "Steep the tea bag in the hot water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "013",
+        "annotation": "Place the lid back onto the teapot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "014",
+        "annotation": "Grasp the teapot handle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "015",
+        "annotation": "Pour the tea into the teacup from the kettle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "016",
+        "annotation": "Put the teapot on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "017",
+        "annotation": "Hold the box or bottle of cream securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "018",
+        "annotation": "Unscrew the cap of the cream container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "019",
+        "annotation": "Pour the cream into the teacup containing the steeped tea.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "020",
+        "annotation": "Reseal the cream container by screwing the cap back on.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "021",
+        "annotation": "Put the cream box back to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "022",
+        "annotation": "Unfasten the lid of the sugar canister.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "023",
+        "annotation": "Scoop a spoonful of sugar with a teaspoon from the sugar canister.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "024",
+        "annotation": "Stir the tea, cream, and sugar together with the teaspoon until well mixed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "025",
+        "annotation": "Set the teaspoon down on the clean surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "026",
+        "annotation": "Fasten the lid of the sugar canister back on.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "027",
+        "annotation": "Pick up a pre-cut lemon half and a citrus reamer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "028",
+        "annotation": "Extract the juice by pressing and twisting the reamer into the lemon over the teacup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "029",
+        "annotation": "Put down the lemon and citrus reamer once sufficient juice is extracted.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "030",
+        "annotation": "Lift the teacup carefully by its handle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "031",
+        "annotation": "Take a small, careful sip of the tea.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "032",
+        "annotation": "Repeat sipping the tea twice.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "033",
+        "annotation": "Lower the teacup back onto the saucer or table gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "034",
+        "annotation": "Pick up a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "035",
+        "annotation": "Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-09",
+        "sequence": "036",
+        "annotation": "Discard the used kitchen towel into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

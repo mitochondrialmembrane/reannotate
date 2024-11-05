@@ -1,0 +1,226 @@
+[
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "000",
+        "annotation": "Turn on the lamp overhead to illuminate the work area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "001",
+        "annotation": "Lay the stone block on the surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "002",
+        "annotation": "Sand the short side of the stone with sandpaper for 10 times to flatten the surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "003",
+        "annotation": "Fix the stone onto the carving bed using clamps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "004",
+        "annotation": "Tighten the clamps securely to ensure the stone is held firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "005",
+        "annotation": "Park your stone carving tools neatly beside the work area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "006",
+        "annotation": "Align a ruler along the edge of the stone with your non-dominant hand to draw the margin lines.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "007",
+        "annotation": "Grasp a marker with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "008",
+        "annotation": "Uncap the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "009",
+        "annotation": "Draw a line along the ruler\u2019s edge with a marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "010",
+        "annotation": "Rotate the stone 90 degrees to continue drawing lines along the other margins.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "011",
+        "annotation": "Align a ruler along the new edge of the stone to draw the margin lines.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "012",
+        "annotation": "Draw a line along the ruler\u2019s edge with a marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "013",
+        "annotation": "Cap the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "014",
+        "annotation": "Grasp the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "015",
+        "annotation": "Aim at the intersection of the margin lines with the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "016",
+        "annotation": "Strike the chisel at the intersection of the margin lines to knock off a small piece of the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "017",
+        "annotation": "Carve along one of the margin lines with the thinner side of the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "018",
+        "annotation": "Shave the margin of the stone with the wider side of the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "019",
+        "annotation": "Brush off the stone dust using a brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "020",
+        "annotation": "Put down the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "021",
+        "annotation": "Polish the surface of the stone with the sandpaper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "022",
+        "annotation": "Lightly loosen the clamps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "023",
+        "annotation": "Release the stone from the carving bed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "024",
+        "annotation": "Uncover the lid of the stamp pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "025",
+        "annotation": "Grasp the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "026",
+        "annotation": "Press the stone into the stamp pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "027",
+        "annotation": "Stamp the stone on the stamp paper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "028",
+        "annotation": "Put down the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "029",
+        "annotation": "Cover the stamp pad with the lid.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "030",
+        "annotation": "Sharpen the chisel with the sharpening stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-11-01-action-maxim-stone",
+        "sequence": "031",
+        "annotation": "Shut off the lamp to complete the process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

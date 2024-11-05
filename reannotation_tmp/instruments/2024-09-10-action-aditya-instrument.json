@@ -1,0 +1,695 @@
+[
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "001",
+        "annotation": "Position your fingers over the holes or keys as a starting pose.",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "000",
+        "annotation": "Grasp the flute with both hands, placing your left hand closer to the mouthpiece and your right hand near the end.",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "001",
+        "annotation": "Position your fingers over the holes or keys as a starting pose.",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "002",
+        "annotation": "Press down on the holes or keys with your fingers to change the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "003",
+        "annotation": "Release the holes or keys to return to the open note.",
+        "start_frame_id": 0,
+        "end_frame_id": 86
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "004",
+        "annotation": "Slide your fingers to different positions to play different notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "005",
+        "annotation": "Trill by rapidly alternating between two adjacent notes by quickly pressing and releasing the holes.",
+        "start_frame_id": 0,
+        "end_frame_id": 202
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "006",
+        "annotation": "Gradually speed up the alternation of the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 345
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "007",
+        "annotation": "Gradually slow down the alternation of the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "008",
+        "annotation": "Try to play a piece of music.",
+        "start_frame_id": 0,
+        "end_frame_id": 628
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "009",
+        "annotation": "Put down the flute.",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "010",
+        "annotation": "Grip the drumsticks firmly with both hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 95
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "011",
+        "annotation": "Balance the drumsticks in your hands, ensuring they are comfortable to hold.",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "012",
+        "annotation": "Poke the drum with a drumstick to test the elasticity of the drumhead.",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "013",
+        "annotation": "Raise the drumsticks above the drumhead.",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "014",
+        "annotation": "Strike the drumhead with one drumstick, then the other, in a rhythmic pattern.",
+        "start_frame_id": 0,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "015",
+        "annotation": "Tap the drumhead lightly for softer sounds.",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "016",
+        "annotation": "Pound the drumhead harder for louder sounds.",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "017",
+        "annotation": "Roll the drumsticks across the drumhead for a continuous sound.",
+        "start_frame_id": 0,
+        "end_frame_id": 257
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "018",
+        "annotation": "Rapidly alternate strikes between the two drumsticks to create a trill effect.",
+        "start_frame_id": 0,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "019",
+        "annotation": "Gradually speed up the alternation.",
+        "start_frame_id": 0,
+        "end_frame_id": 313
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "020",
+        "annotation": "Gradually slow down the alternation.",
+        "start_frame_id": 0,
+        "end_frame_id": 350
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "021",
+        "annotation": "Crescendo by gradually increasing the volume of the strikes.",
+        "start_frame_id": 0,
+        "end_frame_id": 314
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "022",
+        "annotation": "Decrescendo by gradually decreasing the volume of the strikes.",
+        "start_frame_id": 0,
+        "end_frame_id": 378
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "024",
+        "annotation": "Play a piece of music.",
+        "start_frame_id": 0,
+        "end_frame_id": 916
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "025",
+        "annotation": "Put down the drumsticks.",
+        "start_frame_id": 0,
+        "end_frame_id": 93
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "026",
+        "annotation": "Tap the drumhead lightly with your fingertips for softer sounds.",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "027",
+        "annotation": "Pound the drumhead with the palms of your hands for louder sounds.",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "028",
+        "annotation": "Alternate between tapping and pounding to create different rhythms.",
+        "start_frame_id": 0,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "029",
+        "annotation": "Grasp the body of the ukulele.",
+        "start_frame_id": 0,
+        "end_frame_id": 93
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "030",
+        "annotation": "Support the neck of the ukulele with your left hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "031",
+        "annotation": "Place your left-hand fingers on the fretboard to form chords.",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "032",
+        "annotation": "Press down on the strings with your fingertips to produce clear notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "033",
+        "annotation": "Strum the strings with your right hand, using your thumb or a pick.",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "034",
+        "annotation": "Brush your fingers lightly across the strings for a softer sound.",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "035",
+        "annotation": "Pluck individual strings with your thumb and fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "036",
+        "annotation": "Rapidly alternate between two adjacent notes to create a trill effect.",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "037",
+        "annotation": "Gradually speed up the alternation.",
+        "start_frame_id": 0,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "038",
+        "annotation": "Gradually slow down the alternation.",
+        "start_frame_id": 0,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "039",
+        "annotation": "Crescendo by gradually increasing the volume of the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 324
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "040",
+        "annotation": "Decrescendo by gradually decreasing the volume of the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "041",
+        "annotation": "Change chords by lifting your fingers off the fretboard and sliding your fingers to new positions to form different chords.",
+        "start_frame_id": 0,
+        "end_frame_id": 286
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "042",
+        "annotation": "Press down on the strings again to play the new chords.",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "043",
+        "annotation": "Play a piece of music.",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "044",
+        "annotation": "Play a piece of music",
+        "start_frame_id": 0,
+        "end_frame_id": 868
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "045",
+        "annotation": "Put down the ukulele.",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "046",
+        "annotation": "Grasp the Otamatone's stem firmly with your non-dominant hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "047",
+        "annotation": "Support the base of the Otamatone with your dominant hand, keeping it steady.",
+        "start_frame_id": 0,
+        "end_frame_id": 83
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "048",
+        "annotation": "Slide your finger along the stem while squeezing the face of the otamatone.",
+        "start_frame_id": 0,
+        "end_frame_id": 212
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "049",
+        "annotation": "Press down on the stem to ensure the note is clear and precise.",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "050",
+        "annotation": "Squeeze the cheeks of the Otamatone's face to control the volume.",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "051",
+        "annotation": "Wobble your finger back and forth on the stem while holding a note.",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "052",
+        "annotation": "Gradually speed up the wobbling.",
+        "start_frame_id": 0,
+        "end_frame_id": 157
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "053",
+        "annotation": "Gradually slow down the wobbling.",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "054",
+        "annotation": "Play a piece of music.",
+        "start_frame_id": 0,
+        "end_frame_id": 394
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "055",
+        "annotation": "Put down the Otamatone.",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "056",
+        "annotation": "Place your hands on the keyboard, with your fingers resting lightly on the keys.",
+        "start_frame_id": 0,
+        "end_frame_id": 80
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "057",
+        "annotation": "Space your fingers by spreading them comfortably across the keys.",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "058",
+        "annotation": "Press down on and hold the keys with your fingertips to play notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "059",
+        "annotation": "Release the keys to stop the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 66
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "060",
+        "annotation": "Slide your fingers to adjacent keys to play different notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "061",
+        "annotation": "Position your fingers over multiple keys to form chords.",
+        "start_frame_id": 0,
+        "end_frame_id": 215
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "062",
+        "annotation": "Press down on the keys simultaneously to play the chords.",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "063",
+        "annotation": "Coordinate your left and right hands to play a piece of music.",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "064",
+        "annotation": "Alternate between your left and right hands to create a dynamic sound.",
+        "start_frame_id": 0,
+        "end_frame_id": 216
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "065",
+        "annotation": "Turn the volume knob to adjust the overall volume.",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "066",
+        "annotation": "Play a piece of music.",
+        "start_frame_id": 0,
+        "end_frame_id": 800
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "067",
+        "annotation": "Rapidly alternate between two adjacent keys to create a trill effect.",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "068",
+        "annotation": "Gradually speed up the alternation.",
+        "start_frame_id": 0,
+        "end_frame_id": 231
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "069",
+        "annotation": "Gradually slow down the alternation.",
+        "start_frame_id": 0,
+        "end_frame_id": 277
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "070",
+        "annotation": "Crescendo by gradually increasing the volume of the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "071",
+        "annotation": "Decrescendo by gradually decreasing the volume of the notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 260
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "072",
+        "annotation": "Grasp the triangle with one hand by holding the holder at the top.",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "073",
+        "annotation": "Suspend the triangle in the air to allow it to resonate freely.",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "074",
+        "annotation": "Tap the triangle with the striker, hitting the inside of the triangle to produce a clear tone.",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "075",
+        "annotation": "Roll the striker around the edges of the triangle to create a continuous ringing sound.",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "076",
+        "annotation": "Put down the triangle.",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "077",
+        "annotation": "Position the harp on the surface, ensuring it is stable.",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "078",
+        "annotation": "Grasp the harp with both hands, placing your fingers on the strings.",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "079",
+        "annotation": "Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "080",
+        "annotation": "Slide your fingers to different strings to change notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "081",
+        "annotation": "Pluck the strings simultaneously to play the chords.",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "082",
+        "annotation": "Pluck the strings with varying pressure to control the volume. Pluck harder for louder notes and softer for quieter notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "083",
+        "annotation": "Gradually speed up your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "084",
+        "annotation": "Gradually slow down your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "085",
+        "annotation": "Crescendo by gradually increasing the volume of your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "086",
+        "annotation": "Decrescendo by gradually decreasing the volume of your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "087",
+        "annotation": "Lay the harp on the flat surface, now using it as a zither.",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "088",
+        "annotation": "Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "089",
+        "annotation": "Slide your fingers to different strings to change notes.",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "090",
+        "annotation": "Pluck the strings simultaneously to play the chords.",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "091",
+        "annotation": "Strum the strings with your fingers or a pick to produce a continuous sound.",
+        "start_frame_id": 0,
+        "end_frame_id": 194
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "092",
+        "annotation": "Brush your fingers lightly across the strings for a softer sound.",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "093",
+        "annotation": "Touch the strings lightly.",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "094",
+        "annotation": "Pluck the strings while maintaining the light touch with the left hand to produce harmonic sounds.",
+        "start_frame_id": 0,
+        "end_frame_id": 329
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "095",
+        "annotation": "Gradually speed up your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": 228
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "096",
+        "annotation": "Gradually slow down your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "097",
+        "annotation": "Crescendo by gradually increasing the volume of your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-09-10-action-aditya-instrument",
+        "sequence": "098",
+        "annotation": "Decrescendo by gradually decreasing the volume of your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

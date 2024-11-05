@@ -1,0 +1,58 @@
+[
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "000",
+        "annotation": "Pick up the yarn and the crochet hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "001",
+        "annotation": "Make a slip knot by forming a loop with the yarn. Insert the crochet hook into the loop. Pull the working yarn through the loop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "002",
+        "annotation": "Yarn over by wrapping the yarn around the hook from back to front.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "003",
+        "annotation": "Pull the yarn through the loop on the hook to create a chain stitch.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "004",
+        "annotation": "Repeat the yarn over and pull through steps to create 10 chain stitches for the foundation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "005",
+        "annotation": "Crochet a single row.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "006",
+        "annotation": "Cut the yarn, leaving a tail.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-rao-crochet",
+        "sequence": "007",
+        "annotation": "Weave in ends of yarn or thread using the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

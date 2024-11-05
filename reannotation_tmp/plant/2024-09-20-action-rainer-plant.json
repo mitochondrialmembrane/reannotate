@@ -1,0 +1,205 @@
+[
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "000",
+        "annotation": "Attach the snap buttons at the two front corners of the replanting mat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 249
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "001",
+        "annotation": "Unzip the bag of soil",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "002",
+        "annotation": "Grasp the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "003",
+        "annotation": "Scoop soil from the bag and hold it in the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "004",
+        "annotation": "Transfer the soil to the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 285
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "005",
+        "annotation": "Break apart any large clumps in the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 284
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "006",
+        "annotation": "Fill the pot halfway with potting soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 740
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "007",
+        "annotation": "Put down the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "008",
+        "annotation": "Pick up the transplant tool",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "008",
+        "annotation": "Insert the transplant tool into the soil to prepare a hole for transplanting.\n",
+        "start_frame_id": 50,
+        "end_frame_id": 235
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "009",
+        "annotation": "Remove the transplant tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "010",
+        "annotation": "Ease the plant out of its nursery container, supporting the root ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "011",
+        "annotation": "Place the plant in the soil-filled pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "012",
+        "annotation": "Pick up the shovel",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "012",
+        "annotation": "Scoop additional soil around the plant in the pot.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 422
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "013",
+        "annotation": "Fill the whole pot by repeatedly scooping the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 909
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "014",
+        "annotation": "Hold the base of the plant to keep it steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "015",
+        "annotation": "Press the soil down to eliminate air pockets.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 436
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "016",
+        "annotation": "Penetrate the soil with your fingers to create a loose layer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 493
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "017",
+        "annotation": "Pick up the rake",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "017",
+        "annotation": "Aerate the soil with the rake.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 469
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "018",
+        "annotation": "Pick up the watering bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "018",
+        "annotation": "Squeeze the watering bottle to water the plant.\n",
+        "start_frame_id": 85,
+        "end_frame_id": 389
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "019",
+        "annotation": "Pick up the mulch bag",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "019",
+        "annotation": "Scatter mulch over the soil to retain moisture.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 674
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "019",
+        "annotation": "Put down the mulch bag",
+        "start_frame_id": 675,
+        "end_frame_id": 762
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "020",
+        "annotation": "Distribute the mulch with your hands to even it out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 464
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "021",
+        "annotation": "Straighten the plant to ensure it is upright.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-09-20-action-rainer-plant",
+        "sequence": "022",
+        "annotation": "Pump the air dust blower to blow away dust on leaves.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "000",
+        "annotation": "Unknot the ribbon by gently loosening the knot with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "001",
+        "annotation": "Gently pull the ends of the ribbon to untie the bow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 276
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "002",
+        "annotation": "Unwind the ribbon from around the gift.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 386
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "003",
+        "annotation": "Wind the ribbon into a neat coil for reuse.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1754
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "004",
+        "annotation": "Peel the tape off the wrapping paper by lifting one corner and pulling gently to avoid tearing the paper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 463
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "005",
+        "annotation": "Unfold the wrapping paper by carefully spreading it out flat on a surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 468
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "006",
+        "annotation": "Set the box aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 252
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "007",
+        "annotation": "Gather the unfolded paper and roll it up for reuse.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 723
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "008",
+        "annotation": "Open the box by lifting the lid or flaps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 501
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "009",
+        "annotation": "Remove the gift from the container, placing it gently on a table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 275
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "010",
+        "annotation": "Upturn the box to access the bottom.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "011",
+        "annotation": "Unfold the box by pulling apart the flaps and flattening it out on the work surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1099
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "012",
+        "annotation": "Flatten the box by pressing it down firmly\n",
+        "start_frame_id": 0,
+        "end_frame_id": 411
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "013",
+        "annotation": "Upturn the box to make the open side face up.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 419
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "014",
+        "annotation": "Fold along all of the pre-creased lines to shape the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 704
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "015",
+        "annotation": "Interlock the flaps at the bottom to secure the structure",
+        "start_frame_id": 0,
+        "end_frame_id": 328
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "016",
+        "annotation": "Tuck the flaps into each other to secure the bottom",
+        "start_frame_id": 0,
+        "end_frame_id": 798
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "017",
+        "annotation": "Place the gift inside the assembled box, centering it for balance",
+        "start_frame_id": 0,
+        "end_frame_id": 217
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "018",
+        "annotation": "Close the lid securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1205
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "019",
+        "annotation": "Unroll the wrapping paper on a flat surface, pulling out enough to cover the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 323
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "020",
+        "annotation": "Measure the amount of wrapping paper needed with a ruler.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1257
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "021",
+        "annotation": "Use a pencil to draw cutting lines on the wrapping paper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 454
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "022",
+        "annotation": "Fold the paper along the cutting lines to create a crease.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 350
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "023",
+        "annotation": "Tear the paper along the folded lines for a straight edge.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1183
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "024",
+        "annotation": "Pick up the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "024",
+        "annotation": "Trim the paper along the drawn lines with scissors for precise edges.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 488
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "025",
+        "annotation": "Center the box on the wrapping paper",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "025",
+        "annotation": "Fold the wrapping paper around the box, making neat and crisp edges.\n",
+        "start_frame_id": 150,
+        "end_frame_id": 3244
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "026",
+        "annotation": "Move the tape dispenser forward",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "026",
+        "annotation": "Tear a piece of tape from the tape dispenser.\n",
+        "start_frame_id": 75,
+        "end_frame_id": 421
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "027",
+        "annotation": "Tape the wrapping paper in place with pieces of tape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1564
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "028",
+        "annotation": "Press the tape firmly to ensure it sticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 569
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "029",
+        "annotation": "Grasp a piece of paper and a pen to prepare for drawing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 263
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "030",
+        "annotation": "Draw a heart shape on the paper using a pencil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "031",
+        "annotation": "Cut out the heart shape with scissors, following the drawn lines carefully.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2161
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "032",
+        "annotation": "Uncap the glue stick.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "033",
+        "annotation": "Apply glue to the back of the heart cutout.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 398
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "034",
+        "annotation": "Cap the glue stick.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 325
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "035",
+        "annotation": "Attach the heart to the top of the wrapped box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "036",
+        "annotation": "Press down on the heart to ensure it adheres.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "037",
+        "annotation": "Grasp a colored marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "038",
+        "annotation": "Use the colored marker to draw symmetrical patterns on one side of the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1854
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "039",
+        "annotation": "Repeat this on each side of the box, rotating the box after completing each side ensuring the patterns mirror each other on all sides.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1904
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "040",
+        "annotation": "Put down the colored marker\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "041",
+        "annotation": "Pull the ribbon from the spool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 266
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "042",
+        "annotation": "Measure the ribbon with a ruler.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 876
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "043",
+        "annotation": "Cut the ribbon to the measured length with scissors.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 645
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "044",
+        "annotation": "Wrap the ribbon around the box, bringing the ends to the top.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 399
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "045",
+        "annotation": "Tie the ribbon into a bow, adjusting the loops and tails for an even appearance.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1403
+    },
+    {
+        "scene": "2024-09-01-action-nick-present",
+        "sequence": "046",
+        "annotation": "Knot the ribbon to make a secure tie.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

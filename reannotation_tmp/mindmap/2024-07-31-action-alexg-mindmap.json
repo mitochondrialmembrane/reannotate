@@ -1,0 +1,478 @@
+[
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "000",
+        "annotation": "Lift the blue book to sort through books on the desk.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "001",
+        "annotation": "Move the blue book and tuck it between the red book and black book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "002",
+        "annotation": "Identify key topics in the books with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "003",
+        "annotation": "Indicate the data mining book with your finger.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "004",
+        "annotation": "Grab the blue book",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "004",
+        "annotation": "Open the blue book.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "005",
+        "annotation": "Turn pages of the books to the table of contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "006",
+        "annotation": "Search through the text in the books with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "007",
+        "annotation": "Occasionally stop to focus on significant details or sections.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 449
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "008",
+        "annotation": "Grab the red book",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "008",
+        "annotation": "Open the red book to the table of contents.\n",
+        "start_frame_id": 73,
+        "end_frame_id": 383
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "009",
+        "annotation": "Tear off a sticky note from the pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "010",
+        "annotation": "Stick the sticky note to the edge of the book as a bookmark.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 145
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "011",
+        "annotation": "Compare different sources to align the information between the blue and the red book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 358
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "012",
+        "annotation": "Find the title of the second chapter of the blue book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "013",
+        "annotation": "Use your index finger to guide your reading by tracking the section subtitles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 303
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "014",
+        "annotation": "Track the flow of text with your finger to maintain focus.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 318
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "015",
+        "annotation": "Turn to page 200 of the book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 362
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "016",
+        "annotation": "Close the book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "017",
+        "annotation": "Flip to the back of the book to check the ISBN number.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 145
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "018",
+        "annotation": "Flip over the blue book",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "018",
+        "annotation": "Reopen the blue book to the bookmarked page.\n",
+        "start_frame_id": 73,
+        "end_frame_id": 296
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "019",
+        "annotation": "Move the pencil case closer to you",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "019",
+        "annotation": "Unzip the pencil case.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "020",
+        "annotation": "Take out a pencil from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "021",
+        "annotation": "Grip the pencil firmly for better control.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "022",
+        "annotation": "Circle the keyword of the first chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 449
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "023",
+        "annotation": "Note the keyword of the second chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 451
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "024",
+        "annotation": "Correct all the letters \"o\" in the chapter titles to \"u\".\n",
+        "start_frame_id": 0,
+        "end_frame_id": 403
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "025",
+        "annotation": "Return the pencil to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "026",
+        "annotation": "Take out a marker pen from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 193
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "027",
+        "annotation": "Uncap the marker pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "028",
+        "annotation": "Leave marks on the longest chapter title with the marker pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 888
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "029",
+        "annotation": "Write down the key topic of the book in one sentence.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1015
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "030",
+        "annotation": "Spin the pen in your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "031",
+        "annotation": "Cap the marker pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "032",
+        "annotation": "Return the marker pen to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 316
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "033",
+        "annotation": "Take out a highlighter from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "034",
+        "annotation": "Uncap the highlighter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "035",
+        "annotation": "Mark the keyword in the third chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 470
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "036",
+        "annotation": "Point to the keyword in the fourth chapter with the highlighter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 95
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "037",
+        "annotation": "Cap the highlighter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "038",
+        "annotation": "Return the highlighter to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "039",
+        "annotation": "Take out an eraser from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "040",
+        "annotation": "Grip the eraser firmly for effective use.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "041",
+        "annotation": "Erase the marks left on the longest chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "042",
+        "annotation": "Sweep away the eraser shavings with your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 195
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "043",
+        "annotation": "Return the eraser to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "044",
+        "annotation": "Take out a correction tape from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 284
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "045",
+        "annotation": "Stick the correction tape over the keyword noted for the second chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 161
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "046",
+        "annotation": "Return the correction tape to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "047",
+        "annotation": "Grip the notebook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "048",
+        "annotation": "Flip the notebook to a clean page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 181
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "049",
+        "annotation": "Adjust the angle or position of the notebook for comfortable writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 73
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "050",
+        "annotation": "Take out a color pen from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "051",
+        "annotation": "Uncap the color pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 83
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "052",
+        "annotation": "Grip the color pen to prepare for writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 72
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "053",
+        "annotation": "Draw star shapes at the top of the notebook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "054",
+        "annotation": "Fill the star shapes using color pens.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 631
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "055",
+        "annotation": "Illustrate the key concepts in the book with a flow chart.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 836
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "056",
+        "annotation": "Display the mind map to others.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 320
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "057",
+        "annotation": "Cap the color pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "058",
+        "annotation": "Return the color pen to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "059",
+        "annotation": "Flip the notebook back to the cover page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "060",
+        "annotation": "Close all three books.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "061",
+        "annotation": "Rearrange related books by putting them back in the bookstack.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 529
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "062",
+        "annotation": "Collect all remaining stationery back into the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-07-31-action-alexg-mindmap",
+        "sequence": "063",
+        "annotation": "Zip up the pencil case.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

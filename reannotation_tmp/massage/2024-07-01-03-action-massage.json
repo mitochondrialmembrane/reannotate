@@ -1,0 +1,338 @@
+[
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "000",
+        "annotation": "Dispense lotion onto your palms.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "001",
+        "annotation": "Spread the lotion evenly over your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 312
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "002",
+        "annotation": "Warm your palms by rubbing them together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 163
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "003",
+        "annotation": "Press your left thumb into the palm of your right hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "004",
+        "annotation": "Rub in circular motions, focusing on the center of the palm.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "005",
+        "annotation": "Press your right thumb into the palm of your left hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "006",
+        "annotation": "Rub in circular motions, covering the entire palm.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "007",
+        "annotation": "Pinch the base of the left hand fingers with your right thumb and index finger.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 394
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "008",
+        "annotation": "Slide your right thumb and index finger up the left hand fingers to the tip.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 493
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "009",
+        "annotation": "Grasp your thumb with the opposite hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "010",
+        "annotation": "Squeeze and rotate your thumb gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 238
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "011",
+        "annotation": "Flex your fingers back and forth to enhance their mobility.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "012",
+        "annotation": "Extend your fingers fully.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "013",
+        "annotation": "Clasp your hands together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 120
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "014",
+        "annotation": "Abduct (spread apart) your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 83
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "015",
+        "annotation": "Adduct (bring together) your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 90
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "016",
+        "annotation": "Bend your thumb back gently into the palm of your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "017",
+        "annotation": "Use the thumb and fingers of one hand to clamp gently around the opposite wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "018",
+        "annotation": "Squeeze and rotate your wrist gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 217
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "019",
+        "annotation": "Cover one hand with the other hand and squeeze gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "020",
+        "annotation": "Extend your left arm forward.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "021",
+        "annotation": "Pull back on your fingers with the opposite hand to stretch them.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "022",
+        "annotation": "Hold the stretch for a few seconds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "023",
+        "annotation": "Release the stretch gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "024",
+        "annotation": "Extend your right arm forward.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 87
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "025",
+        "annotation": "Pull back on your fingers with the opposite hand to stretch them.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 165
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "026",
+        "annotation": "Hold the stretch for a few seconds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "027",
+        "annotation": "Retract your hand slowly from the stretching position.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "028",
+        "annotation": "Interlock your fingers together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 83
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "029",
+        "annotation": "Crack your knuckles by gently pressing and pulling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "030",
+        "annotation": "Unclasp your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "031",
+        "annotation": "Intersect your fingers and pull gently to stretch.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 165
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "032",
+        "annotation": "Stretch your arms out in front of you.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "033",
+        "annotation": "Press your palms together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 246
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "034",
+        "annotation": "Push your hands together firmly but gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "035",
+        "annotation": "Shake your hands to relax them.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "036",
+        "annotation": "Wave your hands back and forth in the air.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "037",
+        "annotation": "Flap your hands up and down to increase blood flow.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 192
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "038",
+        "annotation": "Fling your fingers outward to release tension.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "039",
+        "annotation": "Wiggle your fingers to loosen them up.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "040",
+        "annotation": "Waggle your fingers side to side.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 289
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "041",
+        "annotation": "Swing your hands from side to side in a gentle motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 265
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "042",
+        "annotation": "Sway your hands softly from side to side.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 235
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "043",
+        "annotation": "Jerk your hands gently to relax the tendons.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "044",
+        "annotation": "Clench your fists tightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 133
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "045",
+        "annotation": "Unclench your fists slowly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "046",
+        "annotation": "Repeat the clenching and releasing several times.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 364
+    },
+    {
+        "scene": "2024-07-01-03-action-massage",
+        "sequence": "047",
+        "annotation": "Swivel your wrists in circular motions to maintain joint flexibility.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

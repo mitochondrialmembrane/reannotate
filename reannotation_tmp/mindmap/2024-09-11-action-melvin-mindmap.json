@@ -1,0 +1,457 @@
+[
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "000",
+        "annotation": "Lift the blue book to sort through books on the desk.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "001",
+        "annotation": "Move the blue book and tuck it between the red book and black book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "002",
+        "annotation": "Identify key topics in the books with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 385
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "003",
+        "annotation": "Indicate the data mining book with your finger.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "004",
+        "annotation": "Open the blue book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "005",
+        "annotation": "Turn pages of the books to the table of contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "006",
+        "annotation": "Search through the text in the books with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 195
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "007",
+        "annotation": "Occasionally stop to focus on significant details or sections.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "008",
+        "annotation": "Open the red book to the table of contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 348
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "009",
+        "annotation": "Tear off a sticky note from the pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "010",
+        "annotation": "Stick the sticky note to the edge of the book as a bookmark.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "011",
+        "annotation": "Compare different sources to align the information between the blue and the red book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 845
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "012",
+        "annotation": "Find the title of the second chapter of the blue book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 596
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "013",
+        "annotation": "Use your index finger to guide your reading by tracking the section subtitles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 315
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "014",
+        "annotation": "Track the flow of text with your finger to maintain focus.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 395
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "015",
+        "annotation": "Turn to page 200 of the book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 403
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "016",
+        "annotation": "Close the book.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 101
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "017",
+        "annotation": "Flip to the back of the book to check the ISBN number.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "018",
+        "annotation": "Reopen the blue book to the bookmarked page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 319
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "019",
+        "annotation": "Move the pencil case to be in front of you",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "019",
+        "annotation": "Unzip the pencil case.\n",
+        "start_frame_id": 95,
+        "end_frame_id": 212
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "020",
+        "annotation": "Take out a pencil from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "021",
+        "annotation": "Grip the pencil firmly for better control.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 86
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "022",
+        "annotation": "Circle the keyword of the first chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 487
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "023",
+        "annotation": "Note the keyword of the second chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 575
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "024",
+        "annotation": "Correct all the letters \"o\" in the chapter titles to \"u\".\n",
+        "start_frame_id": 0,
+        "end_frame_id": 186
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "025",
+        "annotation": "Return the pencil to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 267
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "026",
+        "annotation": "Take out a marker pen from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 392
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap",
+        "sequence": "027",
+        "annotation": "Uncap the marker pen",
+        "start_frame_id": 0,
+        "end_frame_id": 713
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "000",
+        "annotation": "Leave marks on the longest chapter title with the marker pen",
+        "start_frame_id": 0,
+        "end_frame_id": 1112
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "001",
+        "annotation": "Spin the pen in your hand",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "002",
+        "annotation": "Cap the marker pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 145
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "003",
+        "annotation": "Return the marker pen to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 71
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "004",
+        "annotation": "Take out a highlighter from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "005",
+        "annotation": "Uncap the highlighter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 80
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "006",
+        "annotation": "Grip the highlighter firmly to prepare for writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "007",
+        "annotation": "Mark the keyword in the third chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 836
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "008",
+        "annotation": "Point to the keyword in the fourth chapter with the highlighter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 425
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "009",
+        "annotation": "Cap the highlighter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "010",
+        "annotation": "Return the highlighter to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "011",
+        "annotation": "Take out an eraser from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "012",
+        "annotation": "Grip the eraser firmly for effective use.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "013",
+        "annotation": "Erase the marks left on the longest chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 686
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "014",
+        "annotation": "Sweep away the eraser shavings with your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "015",
+        "annotation": "Return the eraser to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 233
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "016",
+        "annotation": "Take out a correction tape from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "017",
+        "annotation": "Stick the correction tape over the keyword noted for the second chapter.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 944
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "018",
+        "annotation": "Return the correction tape to the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "019",
+        "annotation": "Grip the notebook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 228
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "020",
+        "annotation": "Flip the notebook to a clean page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 387
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "021",
+        "annotation": "Adjust the angle or position of the notebook for comfortable writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "022",
+        "annotation": "Take out a color pen from the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 829
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "023",
+        "annotation": "Uncap the color pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "024",
+        "annotation": "Grip the color pen to prepare for writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 95
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "025",
+        "annotation": "Draw star shapes at the top of the notebook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 357
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "026",
+        "annotation": "Fill the star shapes using color pens.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 747
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "027",
+        "annotation": "Illustrate the key concepts in the book with a flow chart.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 6319
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "028",
+        "annotation": "Display the mind map to others.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 469
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "029",
+        "annotation": "Put down the notebook",
+        "start_frame_id": 0,
+        "end_frame_id": 54
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "029",
+        "annotation": "Return the color pen to the pencil case.\n",
+        "start_frame_id": 55,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "030",
+        "annotation": "Flip the notebook back to the cover page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "031",
+        "annotation": "Close all three books.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "032",
+        "annotation": "Rearrange related books by putting them back in the bookstack.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "033",
+        "annotation": "Collect all remaining stationery back into the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-melvin-mindmap2",
+        "sequence": "034",
+        "annotation": "Zip up the pencil case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }  
+]

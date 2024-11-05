@@ -1,0 +1,387 @@
+[
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "000",
+        "annotation": "Unseal the instant noodle container by tearing the lid halfway off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "001",
+        "annotation": "Remove the veggie bag and oil packet from the container and put them on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "002",
+        "annotation": "Pick up the veggie bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "003",
+        "annotation": "Tear open the veggie bag by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "004",
+        "annotation": "Empty the veggie contents into the noodle container by shaking the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "005",
+        "annotation": "Trash the empty veggie bag into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "006",
+        "annotation": "Pinch the oil packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "007",
+        "annotation": "Tear open the oil packet by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "008",
+        "annotation": "Squeeze the oil into the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "009",
+        "annotation": "Dispose the empty oil packet into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "010",
+        "annotation": "Pull the tissue upwards out of the tissue box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "011",
+        "annotation": "Wipe the oil off your fingers with the tissue.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "012",
+        "annotation": "Throw away the used tissue into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "013",
+        "annotation": "Pour hot water into the noodle container up to the fill line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "014",
+        "annotation": "Wait for the noodles to cook for the recommended time.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "015",
+        "annotation": "Reseal the container lid to trap the heat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "016",
+        "annotation": "Hover your hand over the container to feel the temperature.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "017",
+        "annotation": "Tear the lid off the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "018",
+        "annotation": "Dispose the noodle container lid to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "019",
+        "annotation": "Grab the fork\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "020",
+        "annotation": "Submerge any floating noodles into the soup with the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "021",
+        "annotation": "Untangle the noodles with the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "022",
+        "annotation": "Stir the fork to further untangle the noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "023",
+        "annotation": "Twirl the noodles on the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "024",
+        "annotation": "Deliver the noodles to your mouth with the fork and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "025",
+        "annotation": "Shake off any remaining noodles back into the bowl\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "026",
+        "annotation": "Put the fork down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "027",
+        "annotation": "Grasp the disposable chopstick wrapper with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "028",
+        "annotation": "Tear open the wrapper by pulling apart the sealed edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "029",
+        "annotation": "Slide the chopsticks from the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "030",
+        "annotation": "Hold the chopsticks together in one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "031",
+        "annotation": "Split the chopsticks apart by gently pulling them in opposite directions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "032",
+        "annotation": "Hold the chopsticks in one hand to prepare for eating noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "033",
+        "annotation": "Lift the noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "034",
+        "annotation": "Split any entangled noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "035",
+        "annotation": "Dip the noodles back into the soup to absorb more flavor.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "036",
+        "annotation": "Deliver the noodles to your mouth with the chopsticks and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "037",
+        "annotation": "Drop any remaining noodles on the chopsticks back into the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "038",
+        "annotation": "Put the chopsticks back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "039",
+        "annotation": "Hold the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "040",
+        "annotation": "Swirl the spoon in the noodle soup to cool it slightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "041",
+        "annotation": "Skim off excess oil from the soup with the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "042",
+        "annotation": "Dispose the skimmed oil to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "043",
+        "annotation": "Spoon some noodle soup into the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "044",
+        "annotation": "Carry the soup to your mouth with the spoon and drink.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "045",
+        "annotation": "Put the spoon down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "046",
+        "annotation": "Hold the ramen container securely with two hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "047",
+        "annotation": "Tilt the container to sip the remaining soup directly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "048",
+        "annotation": "Put the container back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "049",
+        "annotation": "Tear off a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "050",
+        "annotation": "Wipe the chopsticks with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "051",
+        "annotation": "Clean the spoon with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "052",
+        "annotation": "Dry the fork with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "053",
+        "annotation": "Discard the used kitchen towels into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-23-action-arman-noodle",
+        "sequence": "054",
+        "annotation": "Tie the trash bag closed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

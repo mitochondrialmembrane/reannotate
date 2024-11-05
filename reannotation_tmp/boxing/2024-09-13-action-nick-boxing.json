@@ -1,0 +1,226 @@
+[
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "065",
+        "annotation": "Grasp the pump nozzle with one hand and the boxing bag with the other.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "066",
+        "annotation": "Insert the pump nozzle into the air valve of the boxing bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 276
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "067",
+        "annotation": "Pump air into the boxing bag by pressing down on the pump handle repeatedly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 817
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "068",
+        "annotation": "Squeeze the bag with your hand to check for firmness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "069",
+        "annotation": "Inflate the boxing bag until it reaches the desired firmness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 267
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "070",
+        "annotation": "Remove the pump nozzle from the air valve once the bag is fully inflated.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 202
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "071",
+        "annotation": "Align the stand with the base, ensuring the holes for connectors are properly positioned.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "072",
+        "annotation": "Insert the stand into the aligned holes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 588
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "073",
+        "annotation": "Tighten the stand until it is securely attached to the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 195
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "074",
+        "annotation": "Attach the inflated boxing bag to the top of the stand by sliding it onto the rod.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "075",
+        "annotation": "Wrap boxing hand wraps on one hand to protect it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1999
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "076",
+        "annotation": "Unwrap the boxing hand wrap.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 335
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "077",
+        "annotation": "Position your hands to get ready for boxing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "078",
+        "annotation": "Clench your fists, keeping your thumbs outside your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "079",
+        "annotation": "Jab the boxing bag with your dominant hand, using a quick, snapping motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "080",
+        "annotation": "Follow with a cross punch using your non-dominant hand, rotating your body slightly for added power.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "081",
+        "annotation": "Deliver a hook punch by swinging your dominant hand in a horizontal arc.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "082",
+        "annotation": "Perform an uppercut by driving your fist upward from a low position.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "083",
+        "annotation": "Combine punches in sequences, such as jab-cross-hook-uppercut.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "084",
+        "annotation": "Punch the bag with controlled force for one strike.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "085",
+        "annotation": "Aim your punches at specific targets on the boxing bag to improve accuracy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "086",
+        "annotation": "Shoot quick, sharp punches at the bag in rapid succession to practice speed and precision.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "087",
+        "annotation": "Slap the sides of the bag with an open hand to vary your training technique.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "088",
+        "annotation": "Block by raising your arms to shield your face and body from imaginary punches.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "089",
+        "annotation": "Dodge by leaning or stepping to the side to avoid imaginary attacks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 200
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "090",
+        "annotation": "Feint by making a quick, deceptive movement to trick an imaginary opponent.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "091",
+        "annotation": "Separate the boxing bag from the stand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 369
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "092",
+        "annotation": "Press the bag to expel air, starting from the top and working your way down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1340
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "093",
+        "annotation": "Continue pressing and rolling the bag until all the air is removed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 317
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "094",
+        "annotation": "Roll the bag tightly to remove any remaining air.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "095",
+        "annotation": "Unscrew the stand from the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 503
+    },
+    {
+        "scene": "2024-09-13-action-nick-mindmap-boxing",
+        "sequence": "096",
+        "annotation": "Separate the stand from the base by pulling them apart.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

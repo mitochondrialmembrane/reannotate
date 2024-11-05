@@ -1,0 +1,289 @@
+[
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "000",
+        "annotation": "Attach the snap buttons at the four corners of the replanting mat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 466
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "001",
+        "annotation": "Unpack the bag of soil from its packaging to get ready for filling the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "002",
+        "annotation": "Grasp the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "002",
+        "annotation": "Wave your other hand",
+        "start_frame_id": 120,
+        "end_frame_id": 286
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "003",
+        "annotation": "Scoop soil from the bag and hold it in the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "004",
+        "annotation": "Transfer the soil to the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "005",
+        "annotation": "Break apart any large clumps in the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "006",
+        "annotation": "Fill the pot halfway with potting soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 874
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "007",
+        "annotation": "Put down the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "008",
+        "annotation": "Grasp the transplant tool",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "008",
+        "annotation": "Insert the transplant tool into the soil to prepare a hole for transplanting.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "008",
+        "annotation": "Put down the transplant tool",
+        "start_frame_id": 240,
+        "end_frame_id": 312
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "009",
+        "annotation": "Ease the plant out of its nursery container, supporting the root ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "010",
+        "annotation": "Scoop additional soil around the plant in the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 723
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "011",
+        "annotation": "Fill the whole pot by repeatedly scooping the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 401
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "012",
+        "annotation": "Hold the base of the plant to keep it steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "013",
+        "annotation": "Press the soil down to eliminate air pockets.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "014",
+        "annotation": "Penetrate the soil with your fingers to create a loose layer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 193
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "015",
+        "annotation": "Grab the rake",
+        "start_frame_id": 0,
+        "end_frame_id": 39
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "015",
+        "annotation": "Aerate the soil with the rake",
+        "start_frame_id": 40,
+        "end_frame_id": 288
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "016",
+        "annotation": "Grab the watering bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "016",
+        "annotation": "Squeeze the watering bottle to water the plant.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "016",
+        "annotation": "Put down the watering bottle",
+        "start_frame_id": 200,
+        "end_frame_id": 241
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "017",
+        "annotation": "Scatter mulch over the soil to retain moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 489
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "018",
+        "annotation": "Distribute the mulch with your hands to even it out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "019",
+        "annotation": "Straighten the plant to ensure it is upright.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "020",
+        "annotation": "Pick up the air dust blower",
+        "start_frame_id": 0,
+        "end_frame_id": 39
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "020",
+        "annotation": "Pump the air dust blower to blow away dust on leaves.\n",
+        "start_frame_id": 40,
+        "end_frame_id": 389
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "020",
+        "annotation": "Put down the air dust blower",
+        "start_frame_id": 390,
+        "end_frame_id": 459
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "021",
+        "annotation": "Pick up the spray bottle.",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "021",
+        "annotation": "Spray the foliage of the plant evenly with the spray bottle.",
+        "start_frame_id": 80,
+        "end_frame_id": 274
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "021",
+        "annotation": "Put down the spray bottle.",
+        "start_frame_id": 275,
+        "end_frame_id": 360
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "022",
+        "annotation": "Dig around the plant to loosen the soil with the rake.",
+        "start_frame_id": 0,
+        "end_frame_id": 349
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "023",
+        "annotation": "Ease the plant out by gently pulling on the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "024",
+        "annotation": "Shake the plant gently to remove excess soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "025",
+        "annotation": "Store the plant properly in the nursery container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "026",
+        "annotation": "Pick up the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 78
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "027",
+        "annotation": "Empty all remaining soil from the pot to the zip bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "028",
+        "annotation": "Tap the bottom of the pot to release soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 148
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "029",
+        "annotation": "Tip the pot over to continue removing remains.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-07-01-02-action-plant",
+        "sequence": "030",
+        "annotation": "Put down the pot.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

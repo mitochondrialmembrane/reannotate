@@ -1,0 +1,254 @@
+[
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "000",
+        "annotation": "Twirl the noodles on the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "001",
+        "annotation": "Deliver the noodles to your mouth with the fork and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "002",
+        "annotation": "Shake off any remaining noodles back into the bowl\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "003",
+        "annotation": "Put the fork down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "004",
+        "annotation": "Grasp the disposable chopstick wrapper with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "005",
+        "annotation": "Tear open the wrapper by pulling apart the sealed edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "006",
+        "annotation": "Slide the chopsticks from the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "007",
+        "annotation": "Hold the chopsticks together in one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "008",
+        "annotation": "Split the chopsticks apart by gently pulling them in opposite directions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "009",
+        "annotation": "Hold the chopsticks in one hand to prepare for eating noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "010",
+        "annotation": "Lift the noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "011",
+        "annotation": "Split any entangled noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "012",
+        "annotation": "Dip the noodles back into the soup to absorb more flavor.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "013",
+        "annotation": "Deliver the noodles to your mouth with the chopsticks and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "014",
+        "annotation": "Drop any remaining noodles on the chopsticks back into the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "015",
+        "annotation": "Put the chopsticks back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "016",
+        "annotation": "Hold the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "017",
+        "annotation": "Swirl the spoon in the noodle soup to cool it slightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "018",
+        "annotation": "Skim off excess oil from the soup with the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "019",
+        "annotation": "Dispose the skimmed oil to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "020",
+        "annotation": "Spoon some noodle soup into the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "021",
+        "annotation": "Carry the soup to your mouth with the spoon and drink.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "022",
+        "annotation": "Put the spoon down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "023",
+        "annotation": "Hold the ramen container securely with two hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "024",
+        "annotation": "Tilt the container to sip the remaining soup directly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "025",
+        "annotation": "Put the container back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "026",
+        "annotation": "Tear off a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "027",
+        "annotation": "Wipe the chopsticks with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "028",
+        "annotation": "Clean the spoon with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "029",
+        "annotation": "Dry the fork with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "030",
+        "annotation": "Discard the used kitchen towels into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "031",
+        "annotation": "Dump the remaining noodle in the container to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "032",
+        "annotation": "Open the paper bag by separating the top flaps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "033",
+        "annotation": "Take out all the food items and utensils from the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "034",
+        "annotation": "Reposition the utensils in front of you.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-08-30-action-nick-ramen",
+        "sequence": "035",
+        "annotation": "Set up the food items in a reachable area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

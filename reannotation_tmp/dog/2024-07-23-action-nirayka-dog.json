@@ -1,0 +1,338 @@
+[
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "000",
+        "annotation": "Grab the treat bag",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "000",
+        "annotation": "Open the treat bag",
+        "start_frame_id": 80,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "000",
+        "annotation": "Grab treats",
+        "start_frame_id": 145,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "000",
+        "annotation": "Feed the puppy with treats.\n",
+        "start_frame_id": 200,
+        "end_frame_id": 396
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "001",
+        "annotation": "Pet the puppy on the head.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "002",
+        "annotation": "Gently stroke the puppy's head and back.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 311
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "003",
+        "annotation": "Pat the puppy gently on the sides, using a soft, rhythmic patting motion with the palm of your hand to make the puppy feel loved and secure.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "004",
+        "annotation": "Scratch behind the ears and under the chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "005",
+        "annotation": "Tickle the puppy gently on its belly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 194
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "006",
+        "annotation": "Toss a toy gently near the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 78
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "007",
+        "annotation": "Clap your hands softly to praise the puppy as it brings the item back, encouraging it to chase and retrieve.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "008",
+        "annotation": "Throw another toy for the puppy to chase.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 68
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "009",
+        "annotation": "Point towards the thrown object to guide the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "010",
+        "annotation": "Grip one end of a tug toy firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 56
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "011",
+        "annotation": "Tug the toy gently, engaging the puppy in a playful tug-of-war.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "012",
+        "annotation": "Pull the toy back and forth with gentle resistance.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "013",
+        "annotation": "Swing a snack-shaped toy enticingly to catch the puppy's attention.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "014",
+        "annotation": "Hold the comb in one hand and gently run it through the puppy's fur.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 278
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "015",
+        "annotation": "Untangle any knots in the puppy's fur using the comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 328
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "016",
+        "annotation": "Brush the fur gently with smooth, even strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 403
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "017",
+        "annotation": "Pluck any loose fur or debris from the puppy's coat as you comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 358
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "018",
+        "annotation": "Shave the hair around the puppy's paws carefully.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 628
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "019",
+        "annotation": "Shear the underbelly hair of the puppy gently to keep it neat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 323
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "020",
+        "annotation": "Wet the puppy's fur thoroughly with water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 503
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "021",
+        "annotation": "Squirt dog shampoo onto your hand",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "021",
+        "annotation": "Create a lather with the shampoo by rubbing your hands",
+        "start_frame_id": 100,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "021",
+        "annotation": "Apply the dog shampoo to the dog's fur",
+        "start_frame_id": 170,
+        "end_frame_id": 419
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "022",
+        "annotation": "Scrub the fur gently to clean it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "023",
+        "annotation": "Rinse off the shampoo thoroughly with water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 357
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "024",
+        "annotation": "Dry the puppy with a towel, gently patting and rubbing to remove excess moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 704
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "025",
+        "annotation": "Place a hat on the puppy's head for a cute accessory.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 410
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "026",
+        "annotation": "Unbuckle the collar gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 76
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "027",
+        "annotation": "Position the collar around the puppy's neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 76
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "028",
+        "annotation": "Buckle the collar securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "029",
+        "annotation": "Adjust the fit of the collar for comfort.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "030",
+        "annotation": "Hold the clothes with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 129
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "031",
+        "annotation": "Place the clothes on the dog's body",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "032",
+        "annotation": "Fasten the Velcro straps to secure the clothes in place.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 385
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "033",
+        "annotation": "Adjust the fit of the clothes",
+        "start_frame_id": 0,
+        "end_frame_id": 276
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "034",
+        "annotation": "Hold the paw gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 75
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "035",
+        "annotation": "Trim the nails carefully with nail clippers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "036",
+        "annotation": "Pick up the rag",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "036",
+        "annotation": "Dab ear cleaning solution onto a rag.\n",
+        "start_frame_id": 120,
+        "end_frame_id": 276
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "037",
+        "annotation": "Clean the outer ears gently with the rag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 257
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "038",
+        "annotation": "Pick up the dog toothpaste and toothbrush",
+        "start_frame_id": 0,
+        "end_frame_id": 54
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "038",
+        "annotation": "Apply dog toothpaste to a toothbrush.\n",
+        "start_frame_id": 55,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "038",
+        "annotation": "Put down the toothpaste",
+        "start_frame_id": 150,
+        "end_frame_id": 259
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-dog",
+        "sequence": "039",
+        "annotation": "Brush the puppy's teeth gently, ensuring you cover all areas.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

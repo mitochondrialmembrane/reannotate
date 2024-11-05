@@ -1,0 +1,429 @@
+[
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "001",
+        "annotation": "Open the GoPro case",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "001",
+        "annotation": "Remove the GoPro out of the case.",
+        "start_frame_id": 110,
+        "end_frame_id": 322
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "000",
+        "annotation": "Unzip the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 278
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "001",
+        "annotation": "Open the GoPro case\r",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "001",
+        "annotation": "Remove the GoPro out of the case.",
+        "start_frame_id": 110,
+        "end_frame_id": 322
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "002",
+        "annotation": "Pull down the notch of the GoPro side lid to change the battery.",
+        "start_frame_id": 0,
+        "end_frame_id": 267
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "003",
+        "annotation": "Take the GoPro battery out of the case.",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "004",
+        "annotation": "Insert the battery into the battery slot.",
+        "start_frame_id": 0,
+        "end_frame_id": 345
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "005",
+        "annotation": "Close the battery lid.",
+        "start_frame_id": 0,
+        "end_frame_id": 202
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "006",
+        "annotation": "Press and hold the power button to turn on the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "007",
+        "annotation": "Aim the GoPro at the tree marker while looking at the screen.",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "008",
+        "annotation": "Capture the tree marker by pressing the capture button.",
+        "start_frame_id": 0,
+        "end_frame_id": 270
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "009",
+        "annotation": "Take out the selfie stick from the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "010",
+        "annotation": "Pull out the GoPro connector from the bottom of the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 260
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "011",
+        "annotation": "Insert the GoPro connector into the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 419
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "012",
+        "annotation": "Position the screw to connect the connector to the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 732
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "013",
+        "annotation": "Tighten the screw with your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 514
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "014",
+        "annotation": "Loosen the selfie stick to prepare for extending it.",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "015",
+        "annotation": "Extend the selfie stick to its longest mode.",
+        "start_frame_id": 0,
+        "end_frame_id": 207
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "016",
+        "annotation": "Tighten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "017",
+        "annotation": "Rotate the selfie stick and GoPro to ensure the lens is facing yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro",
+        "sequence": "018",
+        "annotation": "Loosen the selfie stick to prepare for extending it.",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "000",
+        "annotation": "Shorten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 145
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "001",
+        "annotation": "Tighten the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "002",
+        "annotation": "Unscrew the screw from the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 862
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "003",
+        "annotation": "Detach the GoPro from the selfie stick.",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "004",
+        "annotation": "Put the selfie stick back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "005",
+        "annotation": "Take out the tripod from the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "006",
+        "annotation": "Screw the tripod into the bottom of the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 574
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "007",
+        "annotation": "Bend the tripod legs open.",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "008",
+        "annotation": "Stabilize the tripod on the table.",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "009",
+        "annotation": "Loosen the screw on the tripod.",
+        "start_frame_id": 0,
+        "end_frame_id": 268
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "010",
+        "annotation": "Rotate the GoPro to have the lens facing yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 242
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "011",
+        "annotation": "Tighten the tripod.",
+        "start_frame_id": 0,
+        "end_frame_id": 405
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "012",
+        "annotation": "Adjust the GoPro to ensure it can film yourself.",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "013",
+        "annotation": "Press the recording button to start filming.",
+        "start_frame_id": 0,
+        "end_frame_id": 198
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "014",
+        "annotation": "Make a greeting gesture.",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "015",
+        "annotation": "Snap once with your right hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "016",
+        "annotation": "Snap once with your left hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "017",
+        "annotation": "Snap once with both hands together.",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "018",
+        "annotation": "Flick all of the fingers of your right hand as if you were flicking water (no actual water).",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "019",
+        "annotation": "Flick once with your left hand in a similar motion.",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "020",
+        "annotation": "Perform a salt sprinkling motion with your right hand (no actual salt).",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "021",
+        "annotation": "Clap both hands together.",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "022",
+        "annotation": "Give a thumbs-up gesture.",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "023",
+        "annotation": "Interlock your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "024",
+        "annotation": "Cross your index and middle fingers on both hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "025",
+        "annotation": "Make a heart gesture with your hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "026",
+        "annotation": "Point to the camera.",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "027",
+        "annotation": "Make expressive gestures with your hands to convey additional meaning or emotion.",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "028",
+        "annotation": "Climbing like a monkey.",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "029",
+        "annotation": "Press the recording button to stop filming.",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "030",
+        "annotation": "Unscrew the tripod from the GoPro.",
+        "start_frame_id": 0,
+        "end_frame_id": 507
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "031",
+        "annotation": "Straighten the tripod legs.",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "032",
+        "annotation": "Put the tripod back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "033",
+        "annotation": "Pull down the notch of the GoPro side lid to change the battery.",
+        "start_frame_id": 0,
+        "end_frame_id": 310
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "034",
+        "annotation": "Detach the battery from the battery slot.",
+        "start_frame_id": 0,
+        "end_frame_id": 310
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "035",
+        "annotation": "Put the battery back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "036",
+        "annotation": "Close the battery lid.",
+        "start_frame_id": 0,
+        "end_frame_id": 286
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "037",
+        "annotation": "Put the GoPro back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-09-10-action-nick-gopro2",
+        "sequence": "038",
+        "annotation": "Put the GoPro back in the GoPro case.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "scene": "2024-07-24-action-sudarshan-laptop",
+        "sequence": "000",
+        "annotation": "Plug the socket into the power supply.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-24-action-sudarshan-laptop",
+        "sequence": "001",
+        "annotation": "Insert the Type-C power supply into the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-24-action-sudarshan-laptop",
+        "sequence": "002",
+        "annotation": "Switch on the socket.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-24-action-sudarshan-laptop",
+        "sequence": "003",
+        "annotation": "Insert the USB of the Bluetooth mouse into the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-24-action-sudarshan-laptop",
+        "sequence": "004",
+        "annotation": "Flip open the laptop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-07-24-action-sudarshan-laptop",
+        "sequence": "005",
+        "annotation": "Press and hold the power button to initiate the startup process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

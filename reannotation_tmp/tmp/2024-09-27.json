@@ -1,0 +1,233 @@
+[
+    {
+        "scene": "2024-09-27",
+        "sequence": "000",
+        "annotation": "Turn on the lamp overhead to illuminate the work area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "001",
+        "annotation": "Lay the stone block on the surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "002",
+        "annotation": "Sand the short side of the stone with sandpaper for 10 times to flatten the surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "003",
+        "annotation": "Fix the stone onto the carving bed using clamps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "004",
+        "annotation": "Tighten the clamps securely to ensure the stone is held firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "005",
+        "annotation": "Park your stone carving tools neatly beside the work area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "006",
+        "annotation": "Align a ruler along the edge of the stone with your non-dominant hand to draw the margin lines.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "007",
+        "annotation": "Grasp a marker with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "008",
+        "annotation": "Uncap the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "009",
+        "annotation": "Draw a line along the ruler\u2019s edge with a marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "010",
+        "annotation": "Rotate the stone 90 degrees to continue drawing lines along the other margins.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "011",
+        "annotation": "Align a ruler along the new edge of the stone to draw the margin lines.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "012",
+        "annotation": "Draw a line along the ruler\u2019s edge with a marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "013",
+        "annotation": "Cap the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "014",
+        "annotation": "Put down the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "015",
+        "annotation": "Grasp the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "016",
+        "annotation": "Aim at the intersection of the margin lines with the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "017",
+        "annotation": "Strike the chisel at the intersection of the margin lines to knock off a small piece of the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "018",
+        "annotation": "Carve along one of the margin lines with the thinner side of the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "019",
+        "annotation": "Shave the margin of the stone with the wider side of the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "020",
+        "annotation": "Brush off the stone dust using a brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "021",
+        "annotation": "Put down the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "022",
+        "annotation": "Polish the surface of the stone with the sandpaper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "023",
+        "annotation": "Lightly loosen the clamps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "024",
+        "annotation": "Release the stone from the carving bed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "025",
+        "annotation": "Uncover the lid of the stamp pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "026",
+        "annotation": "Grasp the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "027",
+        "annotation": "Press the stone into the stamp pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "028",
+        "annotation": "Stamp the stone on the stamp paper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "029",
+        "annotation": "Put down the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "030",
+        "annotation": "Cover the stamp pad with the lid.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "031",
+        "annotation": "Sharpen the chisel with the sharpening stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-27",
+        "sequence": "032",
+        "annotation": "Shut off the lamp to complete the process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

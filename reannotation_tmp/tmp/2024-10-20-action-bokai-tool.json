@@ -1,0 +1,254 @@
+[
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "000",
+        "annotation": "Position the wood over the clamp.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "001",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "002",
+        "annotation": "(Pretending) Saw back and forth along the cutting line, applying even pressure to make a straight cut.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "003",
+        "annotation": "Position the nail at any hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "004",
+        "annotation": "Hammer the nail into the hole using the hammer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "005",
+        "annotation": "Position another screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "006",
+        "annotation": "Grasp the handle of the screwdriver with your dominant hand and position it on the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "007",
+        "annotation": "Turn the screwdriver clockwise to drive the screw into the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "008",
+        "annotation": "Hang the wrench on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "009",
+        "annotation": "Position the screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "010",
+        "annotation": "Grip the drill handle firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "011",
+        "annotation": "Pull the drill trigger to start the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "012",
+        "annotation": "Drill the screw into the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "013",
+        "annotation": "Detach the drill bit from the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "014",
+        "annotation": "Put down the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "015",
+        "annotation": "Grab the pliers to prepare for gripping the nail.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "016",
+        "annotation": "Open the pliers by pushing the handles apart.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "017",
+        "annotation": "Grip the nail with the jaws of the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "018",
+        "annotation": "Pull out the nail with the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "019",
+        "annotation": "Put down the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "020",
+        "annotation": "Unhook the monkey wrench from the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "021",
+        "annotation": "Adjust the jaws of the monkey wrench to fit the size of the bolt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "022",
+        "annotation": "Grasp the handle of the monkey wrench.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "023",
+        "annotation": "Turn the adjustable knob to tighten the jaws.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "024",
+        "annotation": "Tighten the bolts with the monkey wrench.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "025",
+        "annotation": "Hook the monkey wrench back on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "026",
+        "annotation": "Unmount the wrench from the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "027",
+        "annotation": "Position the wrench on the bolt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "028",
+        "annotation": "Turn the wrench to unfasten the bolts.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "029",
+        "annotation": "Reposition the wrench on the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "030",
+        "annotation": "Turn the wrench to unfasten the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "031",
+        "annotation": "Mount the wrench back on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "032",
+        "annotation": "Grasp the skate tool to prepare for unscrewing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "033",
+        "annotation": "Position the skate tool on top of the other screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "034",
+        "annotation": "Unscrew the other screw from the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-10-20-action-bokai-tool",
+        "sequence": "035",
+        "annotation": "Put down the skate tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

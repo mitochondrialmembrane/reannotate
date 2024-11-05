@@ -1,0 +1,219 @@
+[
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "000",
+        "annotation": "Grasp the pump nozzle with one hand and the boxing bag with the other.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 71
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "001",
+        "annotation": "Insert the pump nozzle into the air valve of the boxing bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "002",
+        "annotation": "Pump air into the boxing bag by pressing down on the pump handle repeatedly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1352
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "003",
+        "annotation": "Squeeze the bag with your hand to check for firmness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "004",
+        "annotation": "Inflate the boxing bag until it reaches the desired firmness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 388
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "005",
+        "annotation": "Remove the pump nozzle from the air valve once the bag is fully inflated.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "006",
+        "annotation": "Grab the stand",
+        "start_frame_id": 0,
+        "end_frame_id": 49
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "006",
+        "annotation": "Align the stand with the base, ensuring the holes for connectors are properly positioned.\n",
+        "start_frame_id": 50,
+        "end_frame_id": 450
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "007",
+        "annotation": "Tighten the stand until it is securely attached to the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "008",
+        "annotation": "Attach the inflated boxing bag to the top of the stand by sliding it onto the rod.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 679
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "009",
+        "annotation": "Wrap boxing hand wraps on one hand to protect it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 606
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "010",
+        "annotation": "Unwrap the boxing hand wrap.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 350
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "011",
+        "annotation": "Position your hands to get ready for boxing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "012",
+        "annotation": "Clench your fists, keeping your thumbs outside your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 157
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "013",
+        "annotation": "Jab the boxing bag with your dominant hand, using a quick, snapping motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "014",
+        "annotation": "Follow with a cross punch using your non-dominant hand, rotating your body slightly for added power.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "015",
+        "annotation": "Buggy",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "016",
+        "annotation": "Buggy",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "017",
+        "annotation": "Buggy",
+        "start_frame_id": 0,
+        "end_frame_id": 596
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "018",
+        "annotation": "Punch the bag with controlled force for one strike.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 163
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "019",
+        "annotation": "Aim your punches at specific targets on the boxing bag to improve accuracy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 424
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "020",
+        "annotation": "Shoot quick, sharp punches at the bag in rapid succession to practice speed and precision.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "021",
+        "annotation": "Slap the sides of the bag with an open hand to vary your training technique.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 547
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "022",
+        "annotation": "Buggy",
+        "start_frame_id": 0,
+        "end_frame_id": 462
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "023",
+        "annotation": "Dodge by leaning or stepping to the side to avoid imaginary attacks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 296
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "024",
+        "annotation": "Feint by making a quick, deceptive movement to trick an imaginary opponent.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 259
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "025",
+        "annotation": "Separate the boxing bag from the stand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 342
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "026",
+        "annotation": "Press the bag to expel air, starting from the top and working your way down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1371
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "027",
+        "annotation": "Continue pressing and rolling the bag until all the air is removed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 410
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "028",
+        "annotation": "Roll the bag tightly to remove any remaining air.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 338
+    },
+    {
+        "scene": "2024-09-14-action-kobe-boxing",
+        "sequence": "029",
+        "annotation": "Unscrew the stand from the base and separate the stand from the base by pulling them apart.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

@@ -1,0 +1,814 @@
+[
+    {
+        "scene": "2024-06-12",
+        "sequence": "001",
+        "annotation": "Unseal the instant noodle container by tearing the lid halfway off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "002",
+        "annotation": "Remove the veggie bag and oil packet from the container and put them on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "003",
+        "annotation": "Pick up the veggie bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "004",
+        "annotation": "Tear open the veggie bag by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "005",
+        "annotation": "Empty the veggie contents into the noodle container by shaking the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "006",
+        "annotation": "Trash the empty veggie bag into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "007",
+        "annotation": "Pinch the oil packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "008",
+        "annotation": "Tear open the oil packet by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "009",
+        "annotation": "Squeeze the oil into the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "010",
+        "annotation": "Dispose the empty oil packet into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "011",
+        "annotation": "Pull the tissue upwards out of the tissue box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "012",
+        "annotation": "Wipe the oil off your fingers with the tissue.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "013",
+        "annotation": "Throw away the used tissue into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "014",
+        "annotation": "Hold the kettle securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "015",
+        "annotation": "Pour hot water into the noodle container up to the fill line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "016",
+        "annotation": "Reseal the container lid to trap the heat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "017",
+        "annotation": "Hover your hand over the container to feel the temperature.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "018",
+        "annotation": "Tearing the lid off the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "019",
+        "annotation": "Dispose the noodle container lid to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "020",
+        "annotation": "Submerge any floating noodles into the soup with a fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "021",
+        "annotation": "Untangle the noodles with forks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "022",
+        "annotation": "Stri the fork to further untangle the noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "023",
+        "annotation": "Tangle the noodles on the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "024",
+        "annotation": "Deliver the noodles to your mouth with the fork and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "025",
+        "annotation": "Put the fork down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "026",
+        "annotation": "Grasp the disposable chopstick wrapper with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "027",
+        "annotation": "Tear open the wrapper by pulling apart the sealed edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "028",
+        "annotation": "Sliding the chopsticks from the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "029",
+        "annotation": "Hold the chopsticks together in one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "030",
+        "annotation": "Dispose the chopsticks wrapper into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "032",
+        "annotation": "Split the chopsticks apart by gently pulling them in opposite directions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "033",
+        "annotation": "Hold the chopsticks to prepare for eating noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "034",
+        "annotation": "Lift the noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "035",
+        "annotation": "Split any entangled noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "036",
+        "annotation": "Dip the noodles back into the soup to absorb more flavor.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "037",
+        "annotation": "Deliver the noodles to your mouth with the chopsticks and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "038",
+        "annotation": "Drop any remaining noodles on the chopsticks back into the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "039",
+        "annotation": "Put the chopsticks back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "040",
+        "annotation": "Hold the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "041",
+        "annotation": "Flick the spoon in the noodle soup to cool it slightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "042",
+        "annotation": "Skim off excess oil from the soup with the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "043",
+        "annotation": "Dispose the skimmed oil to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "044",
+        "annotation": "Carry the soup to your mouth with the spoon and drink.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "045",
+        "annotation": "Put the spoon down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "046",
+        "annotation": "Hold the ramen container securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "047",
+        "annotation": "Tilt the container to sip the remaining soup directly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "048",
+        "annotation": "Put the container back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "049",
+        "annotation": "Tear off a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "050",
+        "annotation": "Wipe the chopsticks with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "051",
+        "annotation": "Clean the spoon with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "052",
+        "annotation": "Dry the fork with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "053",
+        "annotation": "Discard the used kitchen towels into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "054",
+        "annotation": "Empty the remaining contents of the container into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "055",
+        "annotation": "Open the paper bag by separating the top flaps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "056",
+        "annotation": "Take out all the food items and utensils from the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "057",
+        "annotation": "Fold the paper bag and the place is on the table\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "058",
+        "annotation": "Set up the food items in a reachable area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "059",
+        "annotation": "Uncap the hand sanitizer bottle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "060",
+        "annotation": "Apply hand sanitizers to your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "061",
+        "annotation": "Cap the hand sanitizer bottle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "062",
+        "annotation": "Put the hand sanitizer on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "063",
+        "annotation": "Rub your hands together to sanitize them thoroughly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "064",
+        "annotation": "Hold the can of soda.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "065",
+        "annotation": "Pull the ring tab to open the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "066",
+        "annotation": "Pull the ring tab off from the soda can\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "067",
+        "annotation": "Insert a straw into the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "068",
+        "annotation": "Drink the soda with the straw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "069",
+        "annotation": "Put the soda can down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "070",
+        "annotation": "Open the burger box by lifting the lid.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "071",
+        "annotation": "Unwrap the burger from the paper wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "072",
+        "annotation": "Deliver the burger to your mouth and take one or several bites.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "073",
+        "annotation": "Grasp the ketchup bottle and get ready for squeezing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "074",
+        "annotation": "Squeeze some ketchup out from the ketchup bottle onto the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "075",
+        "annotation": "Put the ketchup bottle back to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "076",
+        "annotation": "Grip a fry with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "077",
+        "annotation": "Dip the fry into the ketchup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "078",
+        "annotation": "Deliver the fry to your mouth and eat it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "079",
+        "annotation": "Sprinkle any remaining salt on your fingers over the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "080",
+        "annotation": "Peel off the lid of the dipping sauce container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "081",
+        "annotation": "Dispose the dipping sauce to the to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "082",
+        "annotation": "Grasp a piece of fried chicken thigh.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "083",
+        "annotation": "Dip the fried chicken thigh into the dipping sauce.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "084",
+        "annotation": "Rotate the chicken thigh as you eat it to get all sides.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "085",
+        "annotation": "Put the chicken thigh back to the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "087",
+        "annotation": "Unfold the napkin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "088",
+        "annotation": "Wipe any crumbs or spills off the table with a napkin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "089",
+        "annotation": "Scrunch the napkin into a ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "090",
+        "annotation": "Drop the napkin ball into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "091",
+        "annotation": "Grasp the jar containing the pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "092",
+        "annotation": "Pinch the rubber band around the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "093",
+        "annotation": "Stretch the rubber band and slide it off the jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "094",
+        "annotation": "Remove the cloth covering the jar to reveal the pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "095",
+        "annotation": "Hold the pudding jar over a plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "096",
+        "annotation": "Invert the pudding jar to dump the pudding onto the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "097",
+        "annotation": "Put the pudding jar back to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "098",
+        "annotation": "Scoop with a spoon to ensure all the puddings are transferred.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "099",
+        "annotation": "Put down the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "100",
+        "annotation": "Grip the pudding spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "101",
+        "annotation": "Scoop a piece of pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "102",
+        "annotation": "Deliver the pudding to your mouth and eat it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "103",
+        "annotation": "Put down the pudding spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "104",
+        "annotation": "Cover the remaining pudding with the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "105",
+        "annotation": "Flip the pudding jar and plate to transfer the remaining pudding back into the jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "106",
+        "annotation": "Put the plate back to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "107",
+        "annotation": "Lift the piece of cloth off the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "108",
+        "annotation": "Cover the pudding jar with the cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "109",
+        "annotation": "Grip the rubber band.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "110",
+        "annotation": "Bind the pudding jar with the rubber band.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "111",
+        "annotation": "Gather the remaining chicken thigh and fries back into the food boxes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "112",
+        "annotation": "Wrap the remaining burger with the paper wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "113",
+        "annotation": "Pull out the straw from the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "114",
+        "annotation": "Wedge the used straw into the soda can opening.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "115",
+        "annotation": "Unfold the paper bag and get it ready for holding foods.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "116",
+        "annotation": "Gather the remaining food items and place them back into the paperback\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "117",
+        "annotation": "Fold the top of the paper bag to close it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-12",
+        "sequence": "118",
+        "annotation": "Clean your hands with hand sanitizer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

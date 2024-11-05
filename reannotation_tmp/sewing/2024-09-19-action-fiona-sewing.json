@@ -1,0 +1,142 @@
+[
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "000",
+        "annotation": "Organize the content inside the sewing kit for easy access.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 361
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "001",
+        "annotation": "Grasp the scissors for cutting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "002",
+        "annotation": "Cut the eyes, mouth and other parts aligning the cutting line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 4133
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "003",
+        "annotation": "Stick the eyes and other parts on the face of the planet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2304
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "004",
+        "annotation": "Unwrap the thread the spool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 429
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "005",
+        "annotation": "Gently untangle any knot thread using both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 264
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "006",
+        "annotation": "Grab a needle from the futon",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "006",
+        "annotation": "Tie the thread to the needle.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 650
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "007",
+        "annotation": "Sew the fabric pieces together with the needle through the holes while leaving a little space for stuffing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2982
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "008",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 3118
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "009",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 3807
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "010",
+        "annotation": "Continue sewing the fabric pieces together",
+        "start_frame_id": 0,
+        "end_frame_id": 2372
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "011",
+        "annotation": "Fill the planet with cotton.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1399
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "012",
+        "annotation": "Stitch the little space together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 4352
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "013",
+        "annotation": "Continue sewing the little space together",
+        "start_frame_id": 0,
+        "end_frame_id": 1079
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "014",
+        "annotation": "Cut the thread",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "014",
+        "annotation": "Put down the scissors",
+        "start_frame_id": 85,
+        "end_frame_id": 129
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "014",
+        "annotation": "Put down the thread",
+        "start_frame_id": 130,
+        "end_frame_id": 292
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "015",
+        "annotation": "Puncture the used needle into the futon",
+        "start_frame_id": 0,
+        "end_frame_id": 160
+    },
+    {
+        "scene": "2024-09-19-action-fiona-sewing",
+        "sequence": "016",
+        "annotation": "Cut the excess thread with the scissors.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

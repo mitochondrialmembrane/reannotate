@@ -1,0 +1,1101 @@
+[
+    {
+        "scene": "2024-06-20",
+        "sequence": "000",
+        "annotation": "Pick up a thick yarn for finger knitting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "001",
+        "annotation": "Make a slip knot by forming a loop with the yarn. Insert the crochet hook into the loop. Pull the working yarn through the loop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "002",
+        "annotation": "Cast on by looping the yarn around your index and middle fingers, then over the ring and pinky fingers, forming a figure-eight pattern.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "003",
+        "annotation": "Knit by lifting the bottom loop over the top loop on each finger, starting with the pinky and moving to the index finger. Repeat lifting the bottom loop over the top loop on each finger until only one loop remains on each finger.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "004",
+        "annotation": "Cut the yarn, leaving a tail.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "005",
+        "annotation": "Pull the yarn tail through the last loop to secure the end.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "006",
+        "annotation": "Pull the knitted yarn off your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "007",
+        "annotation": "Place the tablet on the bracket.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "008",
+        "annotation": "Adjust the angle of the bracket for comfortable viewing of the tablet screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "009",
+        "annotation": "Connect the Type-C charging cable to the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "010",
+        "annotation": "Press the power button to turn on the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "011",
+        "annotation": "Touch the touch id bar to unlock the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "012",
+        "annotation": "Swipe up from the bottom to reveal the password interface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "013",
+        "annotation": "Type the password to unlock the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "014",
+        "annotation": "Swipe left to move to the next page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "015",
+        "annotation": "Swipe right to return to the previous page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "016",
+        "annotation": "Press the volume up button to increase the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "017",
+        "annotation": "Press the volume down button to decrease the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "018",
+        "annotation": "Tap the 'Note' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "019",
+        "annotation": "Pinch to zoom out and reveal the whole note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "020",
+        "annotation": "Spread fingers to zoom in to a writable size.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "021",
+        "annotation": "Fetch the Digital Pen and prepare for writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "022",
+        "annotation": "Write \"Brown@1746\" with the digital pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "023",
+        "annotation": "Draw a star shape on the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "024",
+        "annotation": "Press the pen on the 'brush' icon to switch the writing tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "025",
+        "annotation": "Put down the digital pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "026",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "027",
+        "annotation": "Drag the 'Note' app to the dock.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "028",
+        "annotation": "Press and hold the 'Note' app on the dock.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "029",
+        "annotation": "Tap 'Remove app.'\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "030",
+        "annotation": "Disconnect the peripherals to test the connection and disconnection process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "031",
+        "annotation": "Tap the 'Car Race' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "032",
+        "annotation": "Hold the tablet like a steering wheel to play the car racing game.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "033",
+        "annotation": "Turn the tablet left, pretending to drive.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "034",
+        "annotation": "Swerve the tablet right.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "035",
+        "annotation": "Press the honk, pretending to honk.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "036",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "037",
+        "annotation": "Rotate the tablet from portrait to landscape mode and vice versa.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "038",
+        "annotation": "Lock the tablet by pressing the locking button.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "039",
+        "annotation": "Spray screen cleaner on the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "040",
+        "annotation": "Wipe the screen clean.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "041",
+        "annotation": "Detach the phone from the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "042",
+        "annotation": "Press the power button to start the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "043",
+        "annotation": "Face the phone to use Face ID.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "044",
+        "annotation": "Swipe up to show the password screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "045",
+        "annotation": "Wave your hands randomly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "046",
+        "annotation": "Enter the passcode to unlock the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "047",
+        "annotation": "Press the volume up button to increase the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "048",
+        "annotation": "Press the volume down button to decrease the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "049",
+        "annotation": "Switch the silence button to toggle silent mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "051",
+        "annotation": "Wave your hands randomly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "052",
+        "annotation": "Swipe down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "053",
+        "annotation": "Swipe down to show the toolbars.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "054",
+        "annotation": "Slide up the brightness control bar to brighten the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "055",
+        "annotation": "Slide down the brightness control bar to darken the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "056",
+        "annotation": "Double click the lock button to open the Apple Wallet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "057",
+        "annotation": "Tap the phone on the quick charging station, pretending to make a payment.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "058",
+        "annotation": "Swipe left to reveal the next page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "059",
+        "annotation": "Swipe right to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "060",
+        "annotation": "Tap the 'Note' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "061",
+        "annotation": "Select the pen tool for drawing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "062",
+        "annotation": "Gesture an 'O' on the screen to draw an 'O' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "063",
+        "annotation": "Gesture a 'Z' on the screen to draw a 'Z' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "064",
+        "annotation": "Gesture an 'S' on the screen to draw an 'S' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "065",
+        "annotation": "Gesture an 'N' on the screen to draw an 'N' in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "066",
+        "annotation": "Gesture an arrow on the screen to draw a checkmark in the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "067",
+        "annotation": "Use two fingers to scroll down the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "068",
+        "annotation": "Use two fingers to tap the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "069",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "070",
+        "annotation": "Tap the 'Instagram' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "071",
+        "annotation": "Press and hold the story icon to reveal the 'add to story' option.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "072",
+        "annotation": "Touch the 'add to story' option to reveal the photo deck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "073",
+        "annotation": "Scroll down the photo deck and choose a cat photo.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "074",
+        "annotation": "Spread the photo to expand it to full screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "075",
+        "annotation": "Wave your hands randomly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "076",
+        "annotation": "Pinch the photo to shrink it to a quarter of the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "077",
+        "annotation": "Rotate the photo clockwise.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "078",
+        "annotation": "Rotate the photo counterclockwise.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "079",
+        "annotation": "Tap the 'text' icon to prepare for entering text.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "080",
+        "annotation": "Text \"All work and no play makes Jack a dull boy.\"\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "081",
+        "annotation": "Drag the text box to the right corner of the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "082",
+        "annotation": "Shake the phone to reveal the 'report a problem' page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "083",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "084",
+        "annotation": "Tap the 'keypad' icon to reveal the keypad interface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "085",
+        "annotation": "Dial '123456789*0#'\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "086",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "087",
+        "annotation": "Tap the 'camera' icon to reveal the camera.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "088",
+        "annotation": "Take a picture of the BRICS cameras.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "089",
+        "annotation": "Swipe the video function.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "090",
+        "annotation": "Pinch to zoom in to maintain one BRICS camera visible on the screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "091",
+        "annotation": "Filming a video of 9 BRICS cameras by moving the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "092",
+        "annotation": "Tap the 'switch' icon to switch to selfie mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "093",
+        "annotation": "Take a selfie.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "094",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "095",
+        "annotation": "Bump the phone with the tablet to start the AirDrop process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "096",
+        "annotation": "Tap the 'YouTube' icon to reveal video content.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "097",
+        "annotation": "Select the first video to play.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "098",
+        "annotation": "Rotate the phone to wide-screen mode to watch the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "099",
+        "annotation": "Drag the progress bar to the end of the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "100",
+        "annotation": "Drag the progress bar to the beginning of the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "101",
+        "annotation": "Slide the volume up.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "102",
+        "annotation": "Slide the volume down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "103",
+        "annotation": "Rotate the phone to portrait mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "104",
+        "annotation": "Pause the video.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "105",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "106",
+        "annotation": "Tap the 'Car Race' icon to reveal the game content.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "107",
+        "annotation": "Rotate the phone to wide-screen mode to enjoy the game.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "108",
+        "annotation": "Use the left hand to control the car's speed and the right hand to control the direction.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "109",
+        "annotation": "Rotate the phone to long-screen mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "110",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "111",
+        "annotation": "Swipe up repeatedly to close all running tasks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "112",
+        "annotation": "Click the lock button to lock the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "113",
+        "annotation": "Remove the phone case from the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "114",
+        "annotation": "Spray a small amount of cleaning solution onto a microfiber cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "115",
+        "annotation": "Wipe the phone case with the cloth, focusing on any dirty or smudged areas.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "116",
+        "annotation": "Use gentle circular motions to scrub stubborn stains or debris.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "117",
+        "annotation": "Use a dry part of the cloth to dry the phone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "118",
+        "annotation": "Insert the SIM card ejector tool into the small hole on the SIM card tray.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "119",
+        "annotation": "Press gently to eject the SIM card tray.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "120",
+        "annotation": "Pull the SIM card tray out of the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "121",
+        "annotation": "Examine the SIM card to ensure it is properly seated and free from damage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "122",
+        "annotation": "Reinsert the SIM card tray back into the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "123",
+        "annotation": "Reattach the phone case to the phone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "124",
+        "annotation": "Put the phone back on the quick charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "125",
+        "annotation": "Grab the smartwatch from the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "126",
+        "annotation": "Try to wear the watch on the wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "127",
+        "annotation": "Wear the watch on the wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "128",
+        "annotation": "Flip the wrist with the watch.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "129",
+        "annotation": "Wave your hands randomly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "130",
+        "annotation": "Tilt the watch, facing it towards yourself.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "131",
+        "annotation": "Press and hold the digital crown to open Siri.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "132",
+        "annotation": "Press the digital crown to close Siri.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "133",
+        "annotation": "Tune the digital crown up to see the opened apps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "134",
+        "annotation": "Tune the digital crown down to see the opened apps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "135",
+        "annotation": "Press the side button twice to open Apple Pay.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "137",
+        "annotation": "Flip the wrist to pretend to make a tap payment.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "138",
+        "annotation": "Tap the screen to go back to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "139",
+        "annotation": "Tap and hold to prepare to switch screens.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "140",
+        "annotation": "Swipe left to see another screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "141",
+        "annotation": "Swipe right to see the last screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "142",
+        "annotation": "Click the digital crown to go to the menu page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "143",
+        "annotation": "Drag the activity screens to reveal different activities.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "144",
+        "annotation": "Shake your wrist twice to turn on Universal Gestures.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "145",
+        "annotation": "Pinch your thumb and index finger to move to the next item.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "146",
+        "annotation": "Double pinch to go to the previous item.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "147",
+        "annotation": "Make a fist to tap.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "148",
+        "annotation": "Make a fist twice to open the action menu.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "149",
+        "annotation": "Lift the arm to check the time.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "150",
+        "annotation": "Take off the smartwatch.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "151",
+        "annotation": "Put it back on the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "152",
+        "annotation": "Grab the earphone case to prepare for opening.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "153",
+        "annotation": "Open the earphone case to reveal the earphones.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "154",
+        "annotation": "Take the earphones out of the earphone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "155",
+        "annotation": "Place the earphones on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "156",
+        "annotation": "Insert the earphones back into the earphone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "157",
+        "annotation": "Close the earphone case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-06-20",
+        "sequence": "158",
+        "annotation": "Put the earphone case back on the charging station.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

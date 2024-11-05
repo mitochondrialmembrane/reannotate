@@ -1,0 +1,597 @@
+[
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "000",
+        "annotation": "Attach the snap buttons at the two front corners of the replanting mat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "001",
+        "annotation": "Unpack the bag of soil from its packaging to get ready for filling the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "002",
+        "annotation": "Grasp the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "003",
+        "annotation": "Scoop soil from the bag and hold it in the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "004",
+        "annotation": "Transfer the soil to the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "005",
+        "annotation": "Break apart any large clumps in the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "006",
+        "annotation": "Fill the pot halfway with potting soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "007",
+        "annotation": "Put down the shovel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "008",
+        "annotation": "Insert the transplant tool into the soil to prepare a hole for transplanting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "009",
+        "annotation": "Remove the transplant tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "010",
+        "annotation": "Ease the plant out of its nursery container, supporting the root ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "011",
+        "annotation": "Place the plant in the soil-filled pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "012",
+        "annotation": "Scoop additional soil around the plant in the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "013",
+        "annotation": "Fill the whole pot by repeatedly scooping the soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "014",
+        "annotation": "Hold the base of the plant to keep it steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "015",
+        "annotation": "Press the soil down to eliminate air pockets.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "016",
+        "annotation": "Penetrate the soil with your fingers to create a loose layer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "017",
+        "annotation": "Aerate the soil with the rake.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "018",
+        "annotation": "Squeeze the watering bottle to water the plant.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "019",
+        "annotation": "Scatter mulch over the soil to retain moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "020",
+        "annotation": "Distribute the mulch with your hands to even it out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "021",
+        "annotation": "Straighten the plant to ensure it is upright.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "022",
+        "annotation": "Pump the air dust blower to blow away dust on leaves.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "023",
+        "annotation": "Spray the foliage of the plant evenly with the spray bottle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "024",
+        "annotation": "Dig around the plant to loosen the soil with the rake.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "025",
+        "annotation": "Uproot the plant carefully to avoid damaging the roots.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "026",
+        "annotation": "Shake the plant gently to remove excess soil.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "027",
+        "annotation": "Store the plant properly in the nursery container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "028",
+        "annotation": "Pick up the pot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "029",
+        "annotation": "Empty all remaining soil from the pot to the zip bag, tapping the bottom of the pot to release soil and tipping the pot over to continue removing remains.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "030",
+        "annotation": "Unseal the instant noodle container by tearing the lid halfway off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "031",
+        "annotation": "Remove the veggie bag and oil packet from the container and put them on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "032",
+        "annotation": "Pick up the veggie bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "033",
+        "annotation": "Tear open the veggie bag by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "034",
+        "annotation": "Empty the veggie contents into the noodle container by shaking the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "035",
+        "annotation": "Trash the empty veggie bag into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "036",
+        "annotation": "Pinch the oil packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "037",
+        "annotation": "Tear open the oil packet by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "038",
+        "annotation": "Squeeze the oil into the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "039",
+        "annotation": "Dispose the empty oil packet into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "040",
+        "annotation": "Pull the tissue upwards out of the tissue box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "041",
+        "annotation": "Wipe the oil off your fingers with the tissue.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "042",
+        "annotation": "Throw away the used tissue into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "043",
+        "annotation": "Pour hot water into the noodle container up to the fill line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "044",
+        "annotation": "Reseal the container lid to trap the heat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "045",
+        "annotation": "Hover your hand over the container to feel the temperature.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "046",
+        "annotation": "Tear the lid off the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "047",
+        "annotation": "Dispose the noodle container lid to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "048",
+        "annotation": "Grab the fork\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "049",
+        "annotation": "Submerge any floating noodles into the soup with the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "050",
+        "annotation": "Untangle the noodles with the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "051",
+        "annotation": "Stir the fork to further untangle the noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "052",
+        "annotation": "Twirl the noodles on the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "053",
+        "annotation": "Deliver the noodles to your mouth with the fork and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "054",
+        "annotation": "Shake off any remaining noodles back into the bowl\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "055",
+        "annotation": "Put the fork down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "056",
+        "annotation": "Grasp the disposable chopstick wrapper with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "057",
+        "annotation": "Tear open the wrapper by pulling apart the sealed edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "058",
+        "annotation": "Slide the chopsticks from the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "059",
+        "annotation": "Hold the chopsticks and get ready for splitting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "060",
+        "annotation": "Split the chopsticks apart by gently pulling them in opposite directions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "061",
+        "annotation": "Hold the chopsticks in one hand to prepare for eating noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "062",
+        "annotation": "Lift the noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "063",
+        "annotation": "Split any entangled noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "064",
+        "annotation": "Dip the noodles back into the soup to absorb more flavor.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "065",
+        "annotation": "Deliver the noodles to your mouth with the chopsticks and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "066",
+        "annotation": "Drop any remaining noodles on the chopsticks back into the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "067",
+        "annotation": "Put the chopsticks back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "068",
+        "annotation": "Hold the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "069",
+        "annotation": "Swirl the spoon in the noodle soup to cool it slightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "070",
+        "annotation": "Skim off excess oil from the soup with the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "071",
+        "annotation": "Dispose the skimmed oil to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "072",
+        "annotation": "Spoon some noodle soup into the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "073",
+        "annotation": "Carry the soup to your mouth with the spoon and drink.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "074",
+        "annotation": "Put the spoon down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "075",
+        "annotation": "Hold the ramen container securely with two hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "076",
+        "annotation": "Tilt the container to sip the remaining soup directly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "077",
+        "annotation": "Put the container back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "078",
+        "annotation": "Tear off a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "079",
+        "annotation": "Wipe the chopsticks with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "080",
+        "annotation": "Clean the spoon with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "081",
+        "annotation": "Dry the fork with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "082",
+        "annotation": "Discard the used kitchen towels into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "083",
+        "annotation": "Dump the remaining noodle in the container to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-17-action-hongyu-tablet-plant-patrick-noodle",
+        "sequence": "084",
+        "annotation": "Take out and zip the trash bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

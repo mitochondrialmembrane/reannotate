@@ -1,0 +1,366 @@
+[
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "094",
+        "annotation": "Grip the string of the button envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "095",
+        "annotation": "Unroll the string to open the button envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "096",
+        "annotation": "Remove the files from the file folder by grasping them with your fingers and lifting them out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "097",
+        "annotation": "Invert the file folder over a flat surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "098",
+        "annotation": "Shake the file folder to ensure all contents have fallen out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "099",
+        "annotation": "Set aside the file folder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "100",
+        "annotation": "Reorder all the contents into a pile, making sure the letter envelope is on top and the clasp envelope is on bottom\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "101",
+        "annotation": "Slit the top edge of the envelope with a letter opener, ensuring not to damage the contents inside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "102",
+        "annotation": "Extract the bound letter carefully to avoid tearing any pages.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "103",
+        "annotation": "Unfold the letter by reversing the folds with gentle hand movements.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "104",
+        "annotation": "Press down on the unfolded letter with both hands to flatten and remove any creases.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "105",
+        "annotation": "Lay the unfolded letter on a flat surface for reading.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "106",
+        "annotation": "Adjust the angles to straighten the paper for easy reading.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "107",
+        "annotation": "Read the letter by moving your eyes while your hands hold the edges to keep the paper steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "108",
+        "annotation": "Remove the staple bind with the staple remover.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "109",
+        "annotation": "Grasp the pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "110",
+        "annotation": "Uncap the pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "111",
+        "annotation": "Write \"Roses are red, Violets are blue\" on one line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "112",
+        "annotation": "Switch to another line and prepare for writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "113",
+        "annotation": "Write \"That's what they say, But it just isn't true.\" on another line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "114",
+        "annotation": "Cap the pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "115",
+        "annotation": "Place the pen on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "116",
+        "annotation": "Realign letter papers to get ready for binding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "117",
+        "annotation": "Staple the letter to secure documents together with the stapler.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "118",
+        "annotation": "Fold the letter into thirds, making precise folds to ensure a compact shape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "119",
+        "annotation": "Put the letter into the envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "120",
+        "annotation": "Uncap the glue stick.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "121",
+        "annotation": "Glue along the edge of the envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "122",
+        "annotation": "Press the envelope to seal.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "123",
+        "annotation": "Cap the glue stick.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "125",
+        "annotation": "Put down the glue stick.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "126",
+        "annotation": "Stamp the corner of the envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "127",
+        "annotation": "Unclasp the metal clasp of the envelope by lifting and pulling it away from the slot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "128",
+        "annotation": "Carefully pull out the file clipped at the top from the envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "129",
+        "annotation": "Reverse the folds of the clipped document.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "130",
+        "annotation": "Read the document attentively, holding it with one hand and using the other to help navigate pages.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "131",
+        "annotation": "Unclip the clip from the top of the file by sliding it off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "132",
+        "annotation": "Take out one page of the paper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "133",
+        "annotation": "Crumple the taken-out page into a ball and set it aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "134",
+        "annotation": "Attach a paper clip to the top of the remaining aligned files to keep them together.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "135",
+        "annotation": "Fold the stacked files along the predetermined lines for compact storage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "136",
+        "annotation": "Insert the folded files into a clasp envelope, aligning them within.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "137",
+        "annotation": "Clasp the metal clasp of the envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "138",
+        "annotation": "Flip the file to the third page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "139",
+        "annotation": "Sign the third page using a smooth, flowing motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "140",
+        "annotation": "Open the side clamp by pressing the lever and gently pulling it away from the file.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "141",
+        "annotation": "Switch the signed page to the front page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "142",
+        "annotation": "Arrange the signed files side by side, aligning them by their edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "143",
+        "annotation": "Secure the signed document within a clamp holder by pressing down on the clamp and sliding it into place.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "144",
+        "annotation": "Pile the clamped file, the clasp envelope and the letter envelope into a stack, with the letter envelope on bottom and the clasp envelope on top.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "145",
+        "annotation": "Insert the stacked content into the button envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    },
+    {
+        "scene": "2024-09-11-action-yixin-instrument-varun-files",
+        "sequence": "146",
+        "annotation": "Roll the string to close the button envelope.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

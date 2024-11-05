@@ -1,0 +1,681 @@
+[
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "001",
+        "annotation": "Position your fingers over the holes or keys as a starting pose.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 270
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "000",
+        "annotation": "Grasp the flute with both hands, placing your left hand closer to the mouthpiece and your right hand near the end.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 146
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "001",
+        "annotation": "Position your fingers over the holes or keys as a starting pose.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 270
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "002",
+        "annotation": "Press down on the holes or keys with your fingers to change the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 242
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "003",
+        "annotation": "Release the holes or keys to return to the open note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "004",
+        "annotation": "Slide your fingers to different positions to play different notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 445
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "005",
+        "annotation": "Trill by rapidly alternating between two adjacent notes by quickly pressing and releasing the holes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 310
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "006",
+        "annotation": "Gradually speed up the alternation of the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 317
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "007",
+        "annotation": "Gradually slow down the alternation of the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 420
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "008",
+        "annotation": "Try to play a piece of music.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 681
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "009",
+        "annotation": "Put down the flute.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "010",
+        "annotation": "Grip the drumsticks firmly with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 148
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "011",
+        "annotation": "Balance the drumsticks in your hands, ensuring they are comfortable to hold.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "012",
+        "annotation": "Poke the drum with a drumstick to test the elasticity of the drumhead.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 242
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "013",
+        "annotation": "Raise the drumsticks above the drumhead.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "014",
+        "annotation": "Strike the drumhead with one drumstick, then the other, in a rhythmic pattern.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 230
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "015",
+        "annotation": "Tap the drumhead lightly for softer sounds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "016",
+        "annotation": "Pound the drumhead harder for louder sounds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "017",
+        "annotation": "Roll the drumsticks across the drumhead for a continuous sound.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 486
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "018",
+        "annotation": "Rapidly alternate strikes between the two drumsticks to create a trill effect.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "019",
+        "annotation": "Gradually speed up the alternation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "020",
+        "annotation": "Gradually slow down the alternation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 267
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "021",
+        "annotation": "Crescendo by gradually increasing the volume of the strikes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 331
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "022",
+        "annotation": "Decrescendo by gradually decreasing the volume of the strikes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 266
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "023",
+        "annotation": "Play a piece of music.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 649
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "024",
+        "annotation": "Put down the drumsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "025",
+        "annotation": "Tap the drumhead lightly with your fingertips for softer sounds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "026",
+        "annotation": "Pound the drumhead with the palms of your hands for louder sounds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "027",
+        "annotation": "Alternate between tapping and pounding to create different rhythms.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 306
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "028",
+        "annotation": "Grasp the body of the ukulele.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "029",
+        "annotation": "Place your left-hand fingers on the fretboard to form chords.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 203
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "030",
+        "annotation": "Press down on the strings with your fingertips to produce clear notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "031",
+        "annotation": "Strum the strings with your right hand, using your thumb or a pick.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "032",
+        "annotation": "Brush your fingers lightly across the strings for a softer sound.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 291
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "033",
+        "annotation": "Pluck individual strings with your thumb and fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 322
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "034",
+        "annotation": "Rapidly alternate between two adjacent notes to create a trill effect.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 515
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "035",
+        "annotation": "Gradually speed up the alternation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 287
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "036",
+        "annotation": "Gradually slow down the alternation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 596
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "037",
+        "annotation": "Crescendo by gradually increasing the volume of the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 367
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "038",
+        "annotation": "Decrescendo by gradually decreasing the volume of the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "039",
+        "annotation": "Change chords by lifting your fingers off the fretboard and sliding your fingers to new positions to form different chords.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 454
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "040",
+        "annotation": "Press down on the strings again to play the new chords.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 444
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "041",
+        "annotation": "None\n",
+        "start_frame_id": 0,
+        "end_frame_id": 902
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "042",
+        "annotation": "Put down the ukulele.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 229
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "044",
+        "annotation": "Grasp the Otamatone's stem firmly with your non-dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "045",
+        "annotation": "Support the base of the Otamatone with your dominant hand, keeping it steady.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "046",
+        "annotation": "Slide your finger along the stem while squeezing the face of the otamatone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 320
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "047",
+        "annotation": "Press down on the stem to ensure the note is clear and precise.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "048",
+        "annotation": "Squeeze the cheeks of the Otamatone's face to control the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "049",
+        "annotation": "Wobble your finger back and forth on the stem while holding a note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 329
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "050",
+        "annotation": "Gradually speed up the wobbling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 290
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "051",
+        "annotation": "Gradually slow down the wobbling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "052",
+        "annotation": "Play a piece of music.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 491
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "053",
+        "annotation": "Put down the Otamatone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "054",
+        "annotation": "Place your hands on the keyboard, with your fingers resting lightly on the keys.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "055",
+        "annotation": "Space your fingers by spreading them comfortably across the keys.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "056",
+        "annotation": "Press down on and hold the keys with your fingertips to play notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "057",
+        "annotation": "Release the keys to stop the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "058",
+        "annotation": "Slide your fingers to adjacent keys to play different notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "059",
+        "annotation": "Position your fingers over multiple keys to form chords.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "060",
+        "annotation": "Press down on the keys simultaneously to play the chords.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "061",
+        "annotation": "Coordinate your left and right hands to play a piece of music.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1364
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "062",
+        "annotation": "Alternate between your left and right hands to create a dynamic sound.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 645
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "063",
+        "annotation": "Turn the volume knob to adjust the overall volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "064",
+        "annotation": "Play a piece of music.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1962
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "065",
+        "annotation": "Rapidly alternate between two adjacent keys to create a trill effect.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "066",
+        "annotation": "Gradually speed up the alternation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "067",
+        "annotation": "Gradually slow down the alternation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "068",
+        "annotation": "Crescendo by gradually increasing the volume of the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 510
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "069",
+        "annotation": "Decrescendo by gradually decreasing the volume of the notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "070",
+        "annotation": "Grasp the triangle with one hand by holding the holder at the top.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 270
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "071",
+        "annotation": "Suspend the triangle in the air to allow it to resonate freely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 233
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "072",
+        "annotation": "Tap the triangle with the striker, hitting the inside of the triangle to produce a clear tone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 428
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "073",
+        "annotation": "Roll the striker around the edges of the triangle to create a continuous ringing sound.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 318
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "074",
+        "annotation": "Put down the triangle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "075",
+        "annotation": "Position the harp on the surface, ensuring it is stable.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 308
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "076",
+        "annotation": "Grasp the harp with both hands, placing your fingers on the strings.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 280
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "077",
+        "annotation": "Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 596
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "078",
+        "annotation": "Slide your fingers to different strings to change notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1381
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "079",
+        "annotation": "Pluck the strings simultaneously to play the chords.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 498
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "080",
+        "annotation": "Pluck the strings with varying pressure to control the volume. Pluck harder for louder notes and softer for quieter notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 861
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "081",
+        "annotation": "Gradually speed up your plucking.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 445
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "082",
+        "annotation": "Gradually slow down your plucking.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 551
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "083",
+        "annotation": "Crescendo by gradually increasing the volume of your plucking.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 361
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "084",
+        "annotation": "Decrescendo by gradually decreasing the volume of your plucking.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 494
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "085",
+        "annotation": "Lay the harp on the flat surface, now using it as a zither.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 203
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "086",
+        "annotation": "Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 469
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "087",
+        "annotation": "Slide your fingers to different strings to change notes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 477
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "088",
+        "annotation": "Pluck the strings simultaneously to play the chords.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 546
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "089",
+        "annotation": "Strum the strings with your fingers or a pick to produce a continuous sound.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 379
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "090",
+        "annotation": "Brush your fingers lightly across the strings for a softer sound.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 419
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "091",
+        "annotation": "Touch the strings lightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 561
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "092",
+        "annotation": "Pluck the strings while maintaining the light touch with the left hand to produce harmonic sounds.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 842
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "093",
+        "annotation": "Gradually speed up your plucking.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 371
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "094",
+        "annotation": "Gradually slow down your plucking.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 623
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "095",
+        "annotation": "Crescendo by gradually increasing the volume of your plucking.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 470
+    },
+    {
+        "scene": "2024-07-19-action-kylie-instruments",
+        "sequence": "096",
+        "annotation": "Decrescendo by gradually decreasing the volume of your plucking.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

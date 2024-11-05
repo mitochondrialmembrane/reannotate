@@ -1,0 +1,261 @@
+[
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "001",
+        "annotation": "Lay the stone block on the surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "000",
+        "annotation": "Turn on the lamp overhead to illuminate the work area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 620
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "001",
+        "annotation": "Lay the stone block on the surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "002",
+        "annotation": "Sand the short side of the stone with sandpaper for 10 times to flatten the surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "003",
+        "annotation": "Fix the stone onto the carving bed using clamps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 381
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "004",
+        "annotation": "Tighten the clamps securely to ensure the stone is held firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "005",
+        "annotation": "Park your stone carving tools neatly beside the work area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "006",
+        "annotation": "Align a ruler along the edge of the stone with your non-dominant hand to draw the margin lines.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "007",
+        "annotation": "Grasp a marker with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "008",
+        "annotation": "Uncap the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 286
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "009",
+        "annotation": "Draw a line along the ruler's edge with a marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "010",
+        "annotation": "Rotate the stone 90 degrees to continue drawing lines along the other margins.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "011",
+        "annotation": "Align a ruler along the new edge of the stone to draw the margin lines.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "012",
+        "annotation": "Draw a line along the ruler's edge with a marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 135
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "013",
+        "annotation": "Cap the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 252
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "014",
+        "annotation": "Put down the marker.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 57
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "015",
+        "annotation": "Grasp the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 173
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "016",
+        "annotation": "Aim at the intersection of the margin lines with the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "017",
+        "annotation": "Strike the chisel at the intersection of the margin lines to knock off a small piece of the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "018",
+        "annotation": "Carve along one of the margin lines with the thinner side of the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "019",
+        "annotation": "Shave the margin of the stone with the wider side of the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "020",
+        "annotation": "Pick up the brush",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "020",
+        "annotation": "Brush off the stone dust using a brush.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 173
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "021",
+        "annotation": "Put down the chisel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 73
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "022",
+        "annotation": "Grab the sandpaper",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "022",
+        "annotation": "Polish the surface of the stone with the sandpaper.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 348
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "023",
+        "annotation": "Lightly loosen the clamps.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 212
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "024",
+        "annotation": "Release the stone from the carving bed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "025",
+        "annotation": "Uncover the lid of the stamp pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "026",
+        "annotation": "Grasp the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "027",
+        "annotation": "Press the stone into the stamp pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "028",
+        "annotation": "Stamp the stone on the stamp paper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 274
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "029",
+        "annotation": "Put down the stone.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 143
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "030",
+        "annotation": "Cover the stamp pad with the lid.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "031",
+        "annotation": "Pick up the chisel",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "031",
+        "annotation": "Sharpen the chisel with the sharpening stone.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 369
+    },
+    {
+        "scene": "2024-09-17-action-yuxin-stone",
+        "sequence": "032",
+        "annotation": "Shut off the lamp to complete the process.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

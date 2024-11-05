@@ -1,0 +1,478 @@
+[
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "000",
+        "annotation": "Unseal the instant noodle container by tearing the lid halfway off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 365
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "001",
+        "annotation": "Remove the veggie bag and oil packet from the container and put them on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 402
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "002",
+        "annotation": "Pick up the veggie bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "003",
+        "annotation": "Tear open the veggie bag by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 445
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "004",
+        "annotation": "Empty the veggie contents into the noodle container by shaking the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 556
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "005",
+        "annotation": "Open the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 87
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "005",
+        "annotation": "Trash the empty veggie bag into the trash can.\n",
+        "start_frame_id": 88,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "005",
+        "annotation": "Close the trash can",
+        "start_frame_id": 160,
+        "end_frame_id": 296
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "006",
+        "annotation": "Pinch the oil packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "007",
+        "annotation": "Tear open the oil packet by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 554
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "008",
+        "annotation": "Squeeze the oil into the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 497
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "009",
+        "annotation": "Dispose the empty oil packet into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 287
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "010",
+        "annotation": "Pull the tissue upwards out of the tissue box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "011",
+        "annotation": "Wipe the oil off your fingers with the tissue.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 430
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "012",
+        "annotation": "Open the trash can",
+        "start_frame_id": 109,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "012",
+        "annotation": "Throw away the used tissue into the trash can",
+        "start_frame_id": 110,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "013",
+        "annotation": "Pick up the kettle",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "013",
+        "annotation": "Pour hot water into the noodle container up to the fill line.\n",
+        "start_frame_id": 105,
+        "end_frame_id": 324
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "013",
+        "annotation": "Put down the kettle",
+        "start_frame_id": 325,
+        "end_frame_id": 479
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "014",
+        "annotation": "Reseal the container lid to trap the heat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 367
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "015",
+        "annotation": "Hover your hand over the container to feel the temperature.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "016",
+        "annotation": "Wait for the noodles to cook for the recommended time.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 277
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "017",
+        "annotation": "Tear the lid off the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 508
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "018",
+        "annotation": "Open the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "018",
+        "annotation": "Dispose the noodle container lid to the trash can.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 289
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "018",
+        "annotation": "Close the trash can",
+        "start_frame_id": 290,
+        "end_frame_id": 393
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "019",
+        "annotation": "Grab the fork\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "020",
+        "annotation": "Submerge any floating noodles into the soup with the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 448
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "021",
+        "annotation": "Untangle the noodles with the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 786
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "022",
+        "annotation": "Stir the fork to further untangle the noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 759
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "023",
+        "annotation": "Twirl the noodles on the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 442
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "024",
+        "annotation": "Deliver the noodles to your mouth with the fork and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "025",
+        "annotation": "Shake off any remaining noodles back into the bowl\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "026",
+        "annotation": "Put the fork down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "027",
+        "annotation": "Grasp the disposable chopstick wrapper with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "028",
+        "annotation": "Tear open the wrapper by pulling apart the sealed edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 277
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "029",
+        "annotation": "Slide the chopsticks from the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 322
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "030",
+        "annotation": "Hold the chopsticks together in one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "031",
+        "annotation": "Split the chopsticks apart by gently pulling them in opposite directions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 194
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "032",
+        "annotation": "Hold the chopsticks in one hand to prepare for eating noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "033",
+        "annotation": "Lift the noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "034",
+        "annotation": "Split any entangled noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 696
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "035",
+        "annotation": "Dip the noodles back into the soup to absorb more flavor.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "036",
+        "annotation": "Deliver the noodles to your mouth with the chopsticks and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 268
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "037",
+        "annotation": "Drop any remaining noodles on the chopsticks back into the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "038",
+        "annotation": "Put the chopsticks back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "039",
+        "annotation": "Hold the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "040",
+        "annotation": "Swirl the spoon in the noodle soup to cool it slightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 496
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "041",
+        "annotation": "Skim off excess oil from the soup with the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 283
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "042",
+        "annotation": "Open the trash can lid",
+        "start_frame_id": 0,
+        "end_frame_id": 102
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "042",
+        "annotation": "Dispose the skimmed oil to the trash can.\n",
+        "start_frame_id": 103,
+        "end_frame_id": 289
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "042",
+        "annotation": "Close the trash can",
+        "start_frame_id": 290,
+        "end_frame_id": 422
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "043",
+        "annotation": "Spoon some noodle soup into the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "044",
+        "annotation": "Carry the soup to your mouth with the spoon and drink.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 284
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "045",
+        "annotation": "Put the spoon down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "046",
+        "annotation": "Hold the ramen container securely with two hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "047",
+        "annotation": "Tilt the container to sip the remaining soup directly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 232
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "048",
+        "annotation": "Put the container back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "049",
+        "annotation": "Tear off a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 231
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "050",
+        "annotation": "Wipe the chopsticks with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 495
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "051",
+        "annotation": "Clean the spoon with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 584
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "052",
+        "annotation": "Dry the fork with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 529
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "053",
+        "annotation": "Open the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "053",
+        "annotation": "Discard the used kitchen towels into the trash can.\n",
+        "start_frame_id": 115,
+        "end_frame_id": 249
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "053",
+        "annotation": "Close the trash can",
+        "start_frame_id": 250,
+        "end_frame_id": 358
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "054",
+        "annotation": "Open the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "054",
+        "annotation": "Move the trash can closer",
+        "start_frame_id": 120,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-09-04-action-austin-noodle",
+        "sequence": "054",
+        "annotation": "Empty the remaining contents of the container into the trash can.\n",
+        "start_frame_id": 140,
+        "end_frame_id": 359
+    }
+]

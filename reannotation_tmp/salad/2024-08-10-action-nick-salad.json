@@ -1,0 +1,408 @@
+[
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "000",
+        "annotation": "Turn the faucet on.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 134
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "001",
+        "annotation": "Pick up the lettuce",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "001",
+        "annotation": "Thoroughly wash the lettuce leaves under the faucet.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 758
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "002",
+        "annotation": "Grab the apple",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "002",
+        "annotation": "Rinse the apple under running water.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 331
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "003",
+        "annotation": "Turn the faucet off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "004",
+        "annotation": "Grab the lettuce",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "004",
+        "annotation": "Peel the lettuce leaves one by one, placing them into a bowl.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 640
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "005",
+        "annotation": "Fill the bowl with cold water",
+        "start_frame_id": 0,
+        "end_frame_id": 233
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "005",
+        "annotation": "Soak the lettuce in a bowl of cold water.\n",
+        "start_frame_id": 234,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "006",
+        "annotation": "Drain the lettuce leaves in a colander.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 221
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "007",
+        "annotation": "Gently shrink the lettuce leaves with your hands to wring out the water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 289
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "008",
+        "annotation": "Tear the lettuce leaves into square pieces .\n",
+        "start_frame_id": 0,
+        "end_frame_id": 592
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "009",
+        "annotation": "Unsheathe a fruit knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "011",
+        "annotation": "Shred the lettuce leaves into smaller pieces with the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 395
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "012",
+        "annotation": "Strip a banana of its peel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "013",
+        "annotation": "Lay the banana on the chopping board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "014",
+        "annotation": "Slice the banana into three pieces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 306
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "015",
+        "annotation": "Retrieve a bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "015",
+        "annotation": "Transfer the sliced banana into the salad bowl.\n",
+        "start_frame_id": 137,
+        "end_frame_id": 299
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "016",
+        "annotation": "Grab the apple",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "016",
+        "annotation": "Grab the peeler",
+        "start_frame_id": 90,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "016",
+        "annotation": "Peel the apple with a peeler.\n",
+        "start_frame_id": 150,
+        "end_frame_id": 697
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "017",
+        "annotation": "Place the apple on the chopping board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "018",
+        "annotation": "Pick up the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 197
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "019",
+        "annotation": "Chop the apple into halves.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 216
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "020",
+        "annotation": "Cut the apple into smaller segments.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 383
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "021",
+        "annotation": "Dice the apple into smaller pieces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 307
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "022",
+        "annotation": "Mince the apple pieces into small dice sizes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 249
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "023",
+        "annotation": "Squash the apple dice with the flat side of the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 212
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "024",
+        "annotation": "Place the chopping board over the chopping board",
+        "start_frame_id": 0,
+        "end_frame_id": 244
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "024",
+        "annotation": "Scrape the squashed apple from the chopping board into the salad bowl.\n",
+        "start_frame_id": 245,
+        "end_frame_id": 489
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "025",
+        "annotation": "Put down the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 76
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "026",
+        "annotation": "Grab the bag of nuts",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "026",
+        "annotation": "Unzip the zipped bag with nuts\n",
+        "start_frame_id": 90,
+        "end_frame_id": 216
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "027",
+        "annotation": "Take out nuts from the bag and place them on the chopping board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "028",
+        "annotation": "Zip the bag closed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "029",
+        "annotation": "Crush the nuts with the flat side of the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "030",
+        "annotation": "Sweep the crushed nuts from the chopping board into the mortar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 522
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "031",
+        "annotation": "Pick up the pestle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "032",
+        "annotation": "Mash the nuts with a pestle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 180
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "033",
+        "annotation": "Grind the mashed nuts into smaller chunks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "034",
+        "annotation": "Pound the ground nuts into a fine consistency with the mortar pounder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 313
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "035",
+        "annotation": "Put down the pestle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "036",
+        "annotation": "Grab the cheese and cheese grater",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "036",
+        "annotation": "Grate cheese with a cheese grater.\n",
+        "start_frame_id": 150,
+        "end_frame_id": 365
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "037",
+        "annotation": "Pick two grapes from the bunk and drop them into the salad bowl.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 305
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "038",
+        "annotation": "In a large salad bowl, combine all the chopped ingredients. Use clean hands to toss the ingredients gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 420
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "039",
+        "annotation": "Grab the dressing bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "039",
+        "annotation": "Uncap the dressing bottle",
+        "start_frame_id": 60,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "039",
+        "annotation": "Drizzle the dressing over the salad.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "039",
+        "annotation": "Cap the dressing bottle",
+        "start_frame_id": 170,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "039",
+        "annotation": "Put down the dressing bottle",
+        "start_frame_id": 200,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "040",
+        "annotation": "Toss the salad in the bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 267
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "041",
+        "annotation": "Spear a variety of ingredients with a fork and bring them to your mouth to eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 408
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "042",
+        "annotation": "Clear the table by disposing of any remaining food.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 342
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "043",
+        "annotation": "Mop the table surface with a damp cloth or mop.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 456
+    },
+    {
+        "scene": "2024-08-10-action-nick-salad",
+        "sequence": "044",
+        "annotation": "Dry your hands with a hand towel.",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]

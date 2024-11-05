@@ -1,0 +1,233 @@
+[
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "000",
+        "annotation": "Place the tablet on the bracket in landscape orientation.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 235
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "001",
+        "annotation": "Adjust the angle of the bracket for comfortable viewing of the tablet screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "002",
+        "annotation": "Connect the Type-C charging cable to the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "003",
+        "annotation": "Press the power button to turn on the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "004",
+        "annotation": "Touch the touch id bar to unlock the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "005",
+        "annotation": "Swipe up from the bottom to reveal the password interface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "006",
+        "annotation": "Type the password to unlock the tablet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "007",
+        "annotation": "Swipe left to move to the next page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "008",
+        "annotation": "Swipe right to return to the previous page.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "009",
+        "annotation": "Press the volume up button to increase the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "010",
+        "annotation": "Press the volume down button to decrease the volume.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 175
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "011",
+        "annotation": "Tap the 'Note' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "012",
+        "annotation": "Pinch to zoom out and reveal the whole note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "013",
+        "annotation": "Spread fingers to zoom in to a writable size.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "014",
+        "annotation": "Fetch the Digital Pen and prepare for writing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "015",
+        "annotation": "Write Brown@1746 with the digital pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 390
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "016",
+        "annotation": "Draw a star shape on the note.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "017",
+        "annotation": "Press the pen on the 'brush' icon to switch the writing tool.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "018",
+        "annotation": "Put down the digital pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "019",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "021",
+        "annotation": "Drag the 'Note' app to the dock.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 133
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "022",
+        "annotation": "Press and hold the 'Note' app on the dock.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "023",
+        "annotation": "Tap 'Remove app.'\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "024",
+        "annotation": "Disconnect the type-c to test the connection and disconnection process.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "025",
+        "annotation": "Tap the 'Car Race' app to open it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "026",
+        "annotation": "Hold the tablet like a steering wheel to play the car racing game.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "027",
+        "annotation": "Turn the tablet left, pretending to drive.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "028",
+        "annotation": "Swerve the tablet right.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "029",
+        "annotation": "Press the honk, pretending to honk.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "030",
+        "annotation": "Swipe up to return to the home screen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "031",
+        "annotation": "Rotate the tablet from landscape to portrait mode.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 129
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "032",
+        "annotation": "Rotate the tablet from portrait to landscape mode\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-08-28-action-austin-tablet",
+        "sequence": "033",
+        "annotation": "Lock the tablet by pressing the locking button.\n",
+        "start_frame_id": 0,
+        "end_frame_id": -1
+    }
+]
