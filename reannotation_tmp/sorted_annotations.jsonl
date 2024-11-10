@@ -951,7 +951,7 @@
 {"scene": "2024-06-28-action-fastfood", "sequence": "001", "annotation": "Take out the dipping sauce from the food bag", "start_frame_id": 450, "end_frame_id": 602}
 {"scene": "2024-06-28-action-fastfood", "sequence": "002", "annotation": "Reposition the utensils in front of you.\n", "start_frame_id": 0, "end_frame_id": 151}
 {"scene": "2024-06-28-action-fastfood", "sequence": "003", "annotation": "Set up the food items in a reachable area.\n", "start_frame_id": 0, "end_frame_id": 225}
-{"scene": "2024-06-28-action-fastfood", "sequence": ["004", ".mp4"], "annotation": "Pick up the hand sanitizer bottle", "start_frame_id": 0, "end_frame_id": 79}
+{"scene": "2024-06-28-action-fastfood", "sequence": "004", "annotation": "Pick up the hand sanitizer bottle", "start_frame_id": 0, "end_frame_id": 79}
 {"scene": "2024-06-28-action-fastfood", "sequence": "004", "annotation": "Uncap the hand sanitizer bottle.\n", "start_frame_id": 80, "end_frame_id": 157}
 {"scene": "2024-06-28-action-fastfood", "sequence": "005", "annotation": "Apply a generous amount of sanitizer to your dominant hand.\n", "start_frame_id": 0, "end_frame_id": 125}
 {"scene": "2024-06-28-action-fastfood", "sequence": "006", "annotation": "Cap the hand sanitizer bottle.\n", "start_frame_id": 0, "end_frame_id": 89}
@@ -1249,7 +1249,7 @@
 {"scene": "2024-06-30-action-baking", "sequence": "011", "annotation": "Pick up the spatula", "start_frame_id": 0, "end_frame_id": 59}
 {"scene": "2024-06-30-action-baking", "sequence": "011", "annotation": "Stir the ingredients with a spatula.\n", "start_frame_id": 60, "end_frame_id": 352}
 {"scene": "2024-06-30-action-baking", "sequence": "012", "annotation": "Beat the mixture with the spatula, using vigorous circular hand motions to fully incorporate air and blend the ingredients smoothly.\n", "start_frame_id": 0, "end_frame_id": 503}
-{"scene": "2024-06-30-action-baking", "sequence": ["013", ".mp4"], "annotation": "Unzip the flour bag", "start_frame_id": 0, "end_frame_id": 69}
+{"scene": "2024-06-30-action-baking", "sequence": "013", "annotation": "Unzip the flour bag", "start_frame_id": 0, "end_frame_id": 69}
 {"scene": "2024-06-30-action-baking", "sequence": "013", "annotation": "Pinch some extra flour from the flour bag.\n", "start_frame_id": 70, "end_frame_id": 189}
 {"scene": "2024-06-30-action-baking", "sequence": "013", "annotation": "None", "start_frame_id": 190, "end_frame_id": 214}
 {"scene": "2024-06-30-action-baking", "sequence": "014", "annotation": "Gently scatter the extra flour on the chopping board.\n", "start_frame_id": 0, "end_frame_id": 193}
@@ -1307,7 +1307,7 @@
 {"scene": "2024-06-30-action-folder", "sequence": "004", "annotation": "Shake the file folder to ensure all contents have fallen out.\n", "start_frame_id": 0, "end_frame_id": 142}
 {"scene": "2024-06-30-action-folder", "sequence": "005", "annotation": "Set aside the file folder.\n", "start_frame_id": 0, "end_frame_id": 124}
 {"scene": "2024-06-30-action-folder", "sequence": "006", "annotation": "Reorder all the contents into a pile, making sure the letter envelope is on top and the clasp envelope is on bottom\n", "start_frame_id": 0, "end_frame_id": 246}
-{"scene": "2024-06-30-action-folder", "sequence": ["007", ".mp4"], "annotation": "Grab the letter opener", "start_frame_id": 0, "end_frame_id": 99}
+{"scene": "2024-06-30-action-folder", "sequence": "007", "annotation": "Grab the letter opener", "start_frame_id": 0, "end_frame_id": 99}
 {"scene": "2024-06-30-action-folder", "sequence": "007", "annotation": "Slit the top edge of the envelope with a letter opener, ensuring not to damage the contents inside.\n", "start_frame_id": 100, "end_frame_id": 480}
 {"scene": "2024-06-30-action-folder", "sequence": "008", "annotation": "Extract the bound letter carefully to avoid tearing any pages.\n", "start_frame_id": 0, "end_frame_id": 154}
 {"scene": "2024-06-30-action-folder", "sequence": "009", "annotation": "Unfold the letter by reversing the folds with gentle hand movements.\n", "start_frame_id": 0, "end_frame_id": 188}
