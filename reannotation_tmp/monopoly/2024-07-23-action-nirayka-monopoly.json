@@ -1,0 +1,506 @@
+[
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "001",
+        "annotation": "Grab the deck from the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "000",
+        "annotation": "Grab the game board",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "000",
+        "annotation": "Unfold the game board.\n",
+        "start_frame_id": 160,
+        "end_frame_id": 573
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "001",
+        "annotation": "Grab the deck from the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 251
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "002",
+        "annotation": "Split the deck into chance, community chest, and property cards.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 220
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "003",
+        "annotation": "Shuffle the chance and community chest decks separately.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 857
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "004",
+        "annotation": "Place the chance and community chest decks on their designated spaces on the board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 371
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "005",
+        "annotation": "Grasp the player piece and place it on the GO space.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "006",
+        "annotation": "Grab one pile of dollars from the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "007",
+        "annotation": "Distribute one of each dollar type to yourself.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 534
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "008",
+        "annotation": "Fetch the dice from the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "009",
+        "annotation": "Shake the dice in your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "010",
+        "annotation": "Roll the dice.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 102
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "011",
+        "annotation": "Move your game piece according to the dice roll.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 195
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "012",
+        "annotation": "Pay $100 to the bank.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "013",
+        "annotation": "Take a light-blue property card.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "014",
+        "annotation": "Pretend to pass the dice to the next player.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 139
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "015",
+        "annotation": "Grab the dice.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "016",
+        "annotation": "Draw a chance card.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "017",
+        "annotation": "Display the card to other players.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 218
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "018",
+        "annotation": "Tuck the chance card at the bottom of the chance deck\n",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "019",
+        "annotation": "Withdraw $50 from the bank.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "020",
+        "annotation": "Pay $50 to the bank.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 219
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "021",
+        "annotation": "Place a house and hotel on two properties.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 306
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "022",
+        "annotation": "Count your money.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 285
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "023",
+        "annotation": "Remove your player piece from the board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "024",
+        "annotation": "Combine the chance, community chest, and property card decks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 355
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "025",
+        "annotation": "Return the chance, community chest, and property card decks to the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "026",
+        "annotation": "Return your money to the bank.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "027",
+        "annotation": "Return the house and hotel to the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "028",
+        "annotation": "Place the dice back in the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "029",
+        "annotation": "Flip the game board for playing other props.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 242
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "030",
+        "annotation": "Grab the deck of cards from the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "030",
+        "annotation": "Take the cards out of the box",
+        "start_frame_id": 145,
+        "end_frame_id": 293
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "031",
+        "annotation": "Hold the deck with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "032",
+        "annotation": "Split the deck into two halves, with one half in each hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "033",
+        "annotation": "Grip the deck on the short sides with your thumb and middle finger.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "034",
+        "annotation": "Do the bridge shuffle, allowing the cards to arc and fall into place.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "035",
+        "annotation": "Shuffle in another interesting way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 491
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "036",
+        "annotation": "Straighten the cards in one hand so that they are even.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "037",
+        "annotation": "Perform a two-hand cut, taking the upper half of the deck and placing it face-down underneath the bottom half.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 96
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "038",
+        "annotation": "Fan out the cards facing yourself to create a broad display that is easy to view.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 165
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "039",
+        "annotation": "Choose and grab a card from the fan.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "040",
+        "annotation": "Compose the cards back into a single deck, keeping the chosen card separate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "041",
+        "annotation": "Place the card on top of the deck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "042",
+        "annotation": "Deal three piles of three cards.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 221
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "043",
+        "annotation": "Place the deck on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "044",
+        "annotation": "Swap the locations of two piles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "045",
+        "annotation": "Alter back the location of two piles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "046",
+        "annotation": "Slide one pile to be directly in front of you.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 77
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "047",
+        "annotation": "Pick up and look at one card from that pile before returning it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 223
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "048",
+        "annotation": "Lift a portion of the main deck slightly off the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "049",
+        "annotation": "Flip the portion of the cards so that they are face-up.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "050",
+        "annotation": "Fan the face-up cards.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "051",
+        "annotation": "Sort the cards by taking two cards from the right side of the fan and placing it on the left side.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "052",
+        "annotation": "Draw a card from the main deck to add to your hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "053",
+        "annotation": "Play a card by placing it face-up next to the main deck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "054",
+        "annotation": "Reassemble the cards into a single deck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 214
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "055",
+        "annotation": "Stack one three-card pile on top of another.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "056",
+        "annotation": "Flip over the face-up deck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "057",
+        "annotation": "Scramble the cards on the table while keeping them face-down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 234
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "058",
+        "annotation": "Put the cards back in the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 698
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "059",
+        "annotation": "Grip a fake coin out of the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "060",
+        "annotation": "Spin the coin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "061",
+        "annotation": "Toss the coin into the air and let it fall.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 171
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "062",
+        "annotation": "Toss the coin into the air and catch it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 133
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "063",
+        "annotation": "Flip a coin using your right thumb, catch it in the palm of your right hand, flip your right hand onto the back of your left hand, and remove your right hand to reveal the coin on the back of your left hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 147
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "064",
+        "annotation": "Play a round of knucklebones with the coin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "065",
+        "annotation": "Collect the coin and put them in the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "066",
+        "annotation": "Fold up the game board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 157
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "067",
+        "annotation": "Put the game board back in the game box\n",
+        "start_frame_id": 0,
+        "end_frame_id": 130
+    },
+    {
+        "scene": "2024-07-23-action-nirayka-monopoly",
+        "sequence": "068",
+        "annotation": "Close the game box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    }
+]
