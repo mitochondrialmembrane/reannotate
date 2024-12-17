@@ -1,0 +1,107 @@
+[
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "329",
+        "annotation": "Grasp the portable vacuum cleaner with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "330",
+        "annotation": "Vacuum the tabletop to remove dust and debris.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 662
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "331",
+        "annotation": "Grab the glass cleaner",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "331",
+        "annotation": "Spray glass cleaner evenly across the glass surface.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 329
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "331",
+        "annotation": "Put down the glass cleaner",
+        "start_frame_id": 330,
+        "end_frame_id": 391
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "332",
+        "annotation": "Grab the glass wiper with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "333",
+        "annotation": "Wipe the glass surface with the wiper in smooth, even strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 345
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "334",
+        "annotation": "Apply pressure with the wiper to remove smudges and streaks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 284
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "335",
+        "annotation": "Dry the wiper blade after each stroke with a clean cloth or paper towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 410
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "336",
+        "annotation": "Grab a clean table cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "337",
+        "annotation": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "338",
+        "annotation": "Polish the glass surface with the table cloth using circular motions for a gleaming finish.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 274
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "339",
+        "annotation": "Tear open the Windex wiper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 308
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "340",
+        "annotation": "Pick one piece of the wiper from the wiper pack.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-06-18-action-alex-firstaid",
+        "sequence": "341",
+        "annotation": "Touch up any missed spots with the table cloth or glass wiper as needed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 789
+    }
+]

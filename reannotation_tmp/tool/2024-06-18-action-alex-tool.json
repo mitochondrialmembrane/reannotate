@@ -1,0 +1,247 @@
+[
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "342",
+        "annotation": "Position the wood over the clamp.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 194
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "343",
+        "annotation": "Tighten the clamp by turning the screw handle until the wood pieces are securely held.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 361
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "344",
+        "annotation": "Grip the handle of the handsaw firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 90
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "345",
+        "annotation": "(Pretending) Saw back and forth along the cutting line, applying even pressure to make a straight cut.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 263
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "346",
+        "annotation": "Position the nail at any holes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "347",
+        "annotation": "Hammer the nail into the hole using the hammer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "348",
+        "annotation": "Position the screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "349",
+        "annotation": "Grip the drill handle firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "350",
+        "annotation": "Pull the drill trigger to start the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "351",
+        "annotation": "Drill the screw into the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 193
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "352",
+        "annotation": "Detach the drill bit from the drill.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "353",
+        "annotation": "Position another screw at the desired spot on the wood.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "354",
+        "annotation": "Select the appropriate screwdriver for the screw type.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "355",
+        "annotation": "Grasp the handle of the screwdriver with your dominant hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 93
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "356",
+        "annotation": "Turn the screwdriver clockwise to drive the screw into the hole.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 322
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "357",
+        "annotation": "Run your hands over the workbench to inspect any defects.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 194
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "359",
+        "annotation": "Grab the pliers to prepare for gripping the nail.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "360",
+        "annotation": "Open the pliers by pushing the handles apart.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 82
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "361",
+        "annotation": "Grip the nail with the jaws of the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 185
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "362",
+        "annotation": "Pull out the nail with the pliers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "363",
+        "annotation": "Unhook the monkey wrench from the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "364",
+        "annotation": "Srew the bolt into the screw with hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 355
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "365",
+        "annotation": "Grasp the money wrench and align it with the bolt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "366",
+        "annotation": "Adjust the jaws of the monkey wrench to fit the size of the bolt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 168
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "367",
+        "annotation": "Secure the bolt to one of the holes on the bench with the monkey wrench.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 765
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "368",
+        "annotation": "Hook the monkey wrench back on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 91
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "369",
+        "annotation": "Unmount the wrench from the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "370",
+        "annotation": "Position the wrench on the bolt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "371",
+        "annotation": "Turn the wrench to unfasten the bolts.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 640
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "372",
+        "annotation": "Reposition the wrench on the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "373",
+        "annotation": "Turn the wrench to unfasten the screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 633
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "374",
+        "annotation": "Mount the wrench back on the hook.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "375",
+        "annotation": "Grasp the skate tool to prepare for unscrewing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "376",
+        "annotation": "Position the skate tool on top of the other screw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-06-18-action-alex-tool",
+        "sequence": "377",
+        "annotation": "Unscrew the other screw from the hole.",
+        "start_frame_id": 0,
+        "end_frame_id": 635
+    }
+]

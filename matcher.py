@@ -12,19 +12,19 @@ from PyQt5.QtGui import QImage, QPixmap
 
 # file with current annotations
 # TEXT_FILE_PATH = "brics-mini-annotation-gui/alex_0620/scene17.txt"
-TEXT_FILE_PATH = "brics-mini/2024-06-18/scripts.txt"
+TEXT_FILE_PATH = "/Users/alexj/Documents/matcher/brics-mini-annotation-gui/scripts.txt"
 # True if processing a scene#.txt file, False if processing a scripts.txt file
 PROCESSING_SCENE_TXT = False
 # path to folder with videos
 VIDEO_FOLDER_PATH = "brics-mini/2024-06-18/mano"
 # output json path
-OUTPUT_PATH = "reannotate/reannotation_tmp/instruments/2024-06-18-action-alex-instruments.json"
+OUTPUT_PATH = "reannotate/reannotation_tmp/tool/2024-06-18-action-alex-tool.json"
 # scene string for annotations in the output json
-SCENE="2024-06-18-action-alex-instruments"
+SCENE="2024-06-18-action-alex-tool"
 # specifies the start and end video files (for folders with multiple scenes)
 # just put 0 and None otherwise 
-START=94
-END=94
+START=339
+END=None
 
 actions = []
 

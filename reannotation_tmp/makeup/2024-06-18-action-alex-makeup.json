@@ -1,0 +1,653 @@
+[
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "134",
+        "annotation": "Grab the toner",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "134",
+        "annotation": "Grab a cotton pad from the bag",
+        "start_frame_id": 95,
+        "end_frame_id": 503
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "135",
+        "annotation": "Uncap the toner cap and put the cotton pad on the pump.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 476
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "136",
+        "annotation": "Pour a small amount of toner onto a cotton pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 276
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "137",
+        "annotation": "Sweep the cotton pad across your face.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "138",
+        "annotation": "Dab the toner gently around your eyes and nose.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 283
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "139",
+        "annotation": "Put on the cotton pad aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 70
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "140",
+        "annotation": "Set the toner bottle aside",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "140",
+        "annotation": "Uncap the serum bottle",
+        "start_frame_id": 150,
+        "end_frame_id": 349
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "140",
+        "annotation": "Dispense a few drops of serum onto your fingertips.\n",
+        "start_frame_id": 350,
+        "end_frame_id": 604
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "141",
+        "annotation": "Tap the serum onto your face, focusing on areas that need extra care.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 385
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "142",
+        "annotation": "Spread the serum evenly over your face using gentle upward strokes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 309
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "143",
+        "annotation": "Move the moisturizer container in front of ou",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "143",
+        "annotation": "Uncap the moisturizer container",
+        "start_frame_id": 200,
+        "end_frame_id": 544
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "143",
+        "annotation": "Scoop a small amount of moisturizer from the container.\n",
+        "start_frame_id": 545,
+        "end_frame_id": 689
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "143",
+        "annotation": "Cap the moisturizer container",
+        "start_frame_id": 690,
+        "end_frame_id": 910
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "144",
+        "annotation": "Dot the moisturizer onto your forehead, cheeks, nose, and chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "145",
+        "annotation": "Rub the moisturizer into your skin using upward and outward motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 577
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "146",
+        "annotation": "Grab the foundation bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "146",
+        "annotation": "Pump a small amount of foundation onto the back of your hand.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 239
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "146",
+        "annotation": "Put down the foundation bottle",
+        "start_frame_id": 240,
+        "end_frame_id": 319
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "147",
+        "annotation": "Grab the makeup sponge",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "147",
+        "annotation": "Dab the foundation onto your face using the makeup sponge",
+        "start_frame_id": 120,
+        "end_frame_id": 727
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "148",
+        "annotation": "Blend the foundation evenly over your face, paying attention to the hairline and jawline.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 495
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "149",
+        "annotation": "Uncap the lid of the loose powder case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 739
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "150",
+        "annotation": "Scoop a small amount of loose powder onto a powder pad.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 207
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "151",
+        "annotation": "Pat the powder pad onto your face, focusing on areas that tend to get oily.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 262
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "152",
+        "annotation": "Press the powder into your skin gently to set the foundation and concealer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 278
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "153",
+        "annotation": "Dust off any excess powder with a powder brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 365
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "154",
+        "annotation": "Grab the blush brush",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "154",
+        "annotation": "Swirl a blush brush in the blush.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 222
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "155",
+        "annotation": "Tap off any excess blush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "156",
+        "annotation": "Sweep the blush onto the apples of your cheeks in an upward motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "157",
+        "annotation": "Put down the blush brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "158",
+        "annotation": "Pick up the tweezers",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "158",
+        "annotation": "Pick a layer of fake eyelash using the tweezer.\n",
+        "start_frame_id": 125,
+        "end_frame_id": 482
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "159",
+        "annotation": "Apply a layer of eyelash glue to the base of the fake eyelashes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1510
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "160",
+        "annotation": "Grab the eyelash glue",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "160",
+        "annotation": "Uncap the eyelash glue",
+        "start_frame_id": 200,
+        "end_frame_id": 369
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "160",
+        "annotation": "Apply a layer of eyelash glue to the base of the fake eyelashes.\n",
+        "start_frame_id": 370,
+        "end_frame_id": 524
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "160",
+        "annotation": "Cap the eyelash glue",
+        "start_frame_id": 525,
+        "end_frame_id": 664
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "160",
+        "annotation": "Put down the eyelash glue",
+        "start_frame_id": 665,
+        "end_frame_id": 710
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "162",
+        "annotation": "Position the fake eyelashes as close to your natural lash line as possible using tweezers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 396
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "163",
+        "annotation": "Press the fake eyelashes gently onto your eyelid to secure them.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "164",
+        "annotation": "Put the tweezer back to the eyelash tray.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "165",
+        "annotation": "Rearrange items on the table",
+        "start_frame_id": 0,
+        "end_frame_id": 299
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "165",
+        "annotation": "Open the eyeshadow box",
+        "start_frame_id": 300,
+        "end_frame_id": 384
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "165",
+        "annotation": "Dip an eyeshadow brush into the eyeshadow.\n",
+        "start_frame_id": 385,
+        "end_frame_id": 996
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "166",
+        "annotation": "Dip the eyeshadow brush in the eyeshadow tray",
+        "start_frame_id": 0,
+        "end_frame_id": 111
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "167",
+        "annotation": "Sweep the eyeshadow across your eyelids.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 361
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "168",
+        "annotation": "Blend the eyeshadow into the crease for a seamless look.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 257
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "169",
+        "annotation": "Put on the eyeshadow brush back to the eyeshadow case.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 208
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "170",
+        "annotation": "Grab the eyeliner",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "170",
+        "annotation": "Uncap the eyeliner",
+        "start_frame_id": 90,
+        "end_frame_id": 209
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "170",
+        "annotation": "Draw a line along your upper lash line with the eyeliner.\n",
+        "start_frame_id": 210,
+        "end_frame_id": 721
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "171",
+        "annotation": "Extend the line slightly past the outer corner of your eye for a winged effect.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 399
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "172",
+        "annotation": "Cap the eyeliner and put it back to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "173",
+        "annotation": "Grab the mascara tube",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "173",
+        "annotation": "Twist the mascara wand out of the tube.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 667
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "174",
+        "annotation": "Wiggle the wand at the base of your lashes and sweep upwards to coat each lash.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 376
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "175",
+        "annotation": "Twist the mascara brush back.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 330
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "176",
+        "annotation": "Brush your eyebrows with a spoolie brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 339
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "177",
+        "annotation": "Fill in any sparse areas with an eyebrow pencil or powder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1444
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "178",
+        "annotation": "Grab the lipstick tube",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "178",
+        "annotation": "Twist the lipstick tube to reveal the product.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 334
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "179",
+        "annotation": "Apply the lipstick to your lips, starting from the center and moving outwards.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1282
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "180",
+        "annotation": "Put the lipstick back to the tube and put the tube down to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 356
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "181",
+        "annotation": "Grab a tissue",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "181",
+        "annotation": "Blot your lips with a tissue to remove any excess product.\n",
+        "start_frame_id": 110,
+        "end_frame_id": 485
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "182",
+        "annotation": "Grab the nail buffer",
+        "start_frame_id": 0,
+        "end_frame_id": 64
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "182",
+        "annotation": "Buff the surface of your nails to smooth out any ridges.\n",
+        "start_frame_id": 65,
+        "end_frame_id": 1136
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "183",
+        "annotation": "Shake the nail polish bottle to mix the contents.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "184",
+        "annotation": "Unscrew the nail polish cap and remove the brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "185",
+        "annotation": "Paint each nail with the brush, starting from the base and moving towards the tip.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 608
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "186",
+        "annotation": "Display the polished nails.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "187",
+        "annotation": "Place the nail polish brush back to the nail polish bottle and screw the cap tight.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 214
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "188",
+        "annotation": "Pick up one earring with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "189",
+        "annotation": "Insert the earring post through your right earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 691
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "190",
+        "annotation": "Insert the earring post through your left earlobe.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 638
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "191",
+        "annotation": "Hold the necklace with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 228
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "192",
+        "annotation": "Clasp the necklace around your neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1254
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "193",
+        "annotation": "Wrap the bracelet around your wrist.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 234
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "194",
+        "annotation": "Clasp the bracelet securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 617
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "195",
+        "annotation": "Slide the ring onto your finger.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 475
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "196",
+        "annotation": "Pluck off the fake eyelashes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "197",
+        "annotation": "Grab the makeup remover bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "197",
+        "annotation": "Unscrew the cap of the makeup remover",
+        "start_frame_id": 200,
+        "end_frame_id": 499
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "197",
+        "annotation": "Dispense makeup remover onto a cotton pad.\n",
+        "start_frame_id": 500,
+        "end_frame_id": 1008
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "198",
+        "annotation": "Wipe the cotton pad over your face to remove makeup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2639
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "199",
+        "annotation": "Apply a small amount of facial cleanser to your fingertips.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "200",
+        "annotation": "Lather the cleanser in your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 197
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "201",
+        "annotation": "Massage the cleanser onto your face in circular motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 339
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "202",
+        "annotation": "Rinse your face with water to remove the cleanser.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 185
+    }
+]

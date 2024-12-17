@@ -1,0 +1,338 @@
+[
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "203",
+        "annotation": "Unbuckle the stripe belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 252
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "204",
+        "annotation": "Unzip the main compartment of the gym bag",
+        "start_frame_id": 0,
+        "end_frame_id": 464
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "205",
+        "annotation": "Lift clothes out of the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 796
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "206",
+        "annotation": "Fold the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 253
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "207",
+        "annotation": "Apply shoe polish to a cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 348
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "208",
+        "annotation": "Shine shoes with the cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 615
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "209",
+        "annotation": "Buff shoes with a clean cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 432
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "210",
+        "annotation": "Untie shoelaces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 374
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "211",
+        "annotation": "Unfold the T-shirt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 584
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "212",
+        "annotation": "Examine the stained area closely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "213",
+        "annotation": "Hold the stain removing pen firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 203
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "214",
+        "annotation": "Uncap the pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "215",
+        "annotation": "Rub the tip of the pen gently over the stain in small, circular motions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 688
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "216",
+        "annotation": "Cap the stain removal pen.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 229
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "217",
+        "annotation": "Rub the stained area in a circular motion with your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 205
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "218",
+        "annotation": "Scrub clothes with a clothes brush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 314
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "219",
+        "annotation": "Wring out the excess solution.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 272
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "220",
+        "annotation": "Lay the T-shirt flat",
+        "start_frame_id": 0,
+        "end_frame_id": 214
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "220",
+        "annotation": "Grab the iron",
+        "start_frame_id": 215,
+        "end_frame_id": 319
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "220",
+        "annotation": "Iron the T-shirt.\n",
+        "start_frame_id": 320,
+        "end_frame_id": 817
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "221",
+        "annotation": "Unbutton shirts.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 454
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "222",
+        "annotation": "Set the T-shirt aside",
+        "start_frame_id": 0,
+        "end_frame_id": 165
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "223",
+        "annotation": "Slide the umbrella out of the umbrella cover.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 192
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "224",
+        "annotation": "Unbuckle the umbrella strap.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "225",
+        "annotation": "Untie the tie.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 470
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "226",
+        "annotation": "Unfold socks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "227",
+        "annotation": "Unfold pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 243
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "228",
+        "annotation": "Exame the belt and hold the ends of the belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "229",
+        "annotation": "Unbuckle the belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 382
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "231",
+        "annotation": "Unthread the belt by sliding the loose end of the belt out of the belt loops on the pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 649
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "232",
+        "annotation": "Unzip pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 784
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "233",
+        "annotation": "Zip up pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 313
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "234",
+        "annotation": "Unroll belts.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "235",
+        "annotation": "Thread the belt into the pants.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1150
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "236",
+        "annotation": "Buckle the belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 780
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "237",
+        "annotation": "Fold pants in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 944
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "238",
+        "annotation": "Fold socks in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 442
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "239",
+        "annotation": "Tie the tie in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 2492
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "240",
+        "annotation": "Fold the umbrella.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 390
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "241",
+        "annotation": "Place the umbrella into the umbrella protector.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 637
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "242",
+        "annotation": "Button up T-shirt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1623
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "243",
+        "annotation": "Fold the T-shirt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 767
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "244",
+        "annotation": "Tie shoelaces in a preferred way.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1087
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "245",
+        "annotation": "Place the shoes in the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 188
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "246",
+        "annotation": "Place folded clothes in the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 625
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "247",
+        "annotation": "Adjust items for a snug fit.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 161
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "248",
+        "annotation": "Zip the main cabinet of the gym bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 282
+    },
+    {
+        "scene": "2024-06-18-action-alex-makeup",
+        "sequence": "249",
+        "annotation": "Buckle the stripe belt.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "095",
+        "annotation": "Grab the treat bag",
+        "start_frame_id": 0,
+        "end_frame_id": 74
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "095",
+        "annotation": "Feed the puppy with treats.\n",
+        "start_frame_id": 75,
+        "end_frame_id": 231
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "096",
+        "annotation": "Pet the puppy to establish a connection.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 403
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "097",
+        "annotation": "Gently stroke the puppy's head and back.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "098",
+        "annotation": "Pat the puppy gently on the sides, using a soft, rhythmic patting motion with the palm of your hand to make the puppy feel loved and secure.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "099",
+        "annotation": "Scratch behind the ears and under the chin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "100",
+        "annotation": "Tickle the puppy gently on its belly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "101",
+        "annotation": "Toss a toy gently near the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 213
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "102",
+        "annotation": "Clap your hands softly to praise the puppy as it brings the item back, encouraging it to chase and retrieve.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "103",
+        "annotation": "Throw another toy for the puppy to chase.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "104",
+        "annotation": "Point towards the thrown object to guide the puppy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "105",
+        "annotation": "Grip one end of a tug toy firmly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "106",
+        "annotation": "Tug the toy gently, engaging the puppy in a playful tug-of-war.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 174
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "107",
+        "annotation": "Pull the toy back and forth with gentle resistance.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 216
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "108",
+        "annotation": "Swing a snack-shaped toy enticingly to catch the puppy's attention.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "109",
+        "annotation": "Put the toy back to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "110",
+        "annotation": "Hold the comb in one hand and gently run it through the puppy\ufffd\ufffds fur.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 383
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "111",
+        "annotation": "Untangle any knots in the puppy's fur using the comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 280
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "112",
+        "annotation": "Pluck any loose fur or debris from the puppy's coat as you comb.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "113",
+        "annotation": "Put the comb back to the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 83
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "114",
+        "annotation": "Grab the razor",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "114",
+        "annotation": "Shave the hair around the puppy's paws carefully.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 429
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "115",
+        "annotation": "Grab the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "115",
+        "annotation": "Shear the underbelly hair of the puppy gently to keep it neat.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 306
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "115",
+        "annotation": "Put down the scissors",
+        "start_frame_id": 307,
+        "end_frame_id": 372
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "116",
+        "annotation": "Grab the showerhead",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "116",
+        "annotation": "Wet the puppy's fur thoroughly with water.\n",
+        "start_frame_id": 70,
+        "end_frame_id": 367
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "117",
+        "annotation": "Apply the dog shampoo to the dog's fur",
+        "start_frame_id": 0,
+        "end_frame_id": 289
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "117",
+        "annotation": "Create a lather with the shampoo on the dog's fur",
+        "start_frame_id": 290,
+        "end_frame_id": 450
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "118",
+        "annotation": "Scrub the fur gently to clean it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 238
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "119",
+        "annotation": "Rinse off the shampoo thoroughly with water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 324
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "120",
+        "annotation": "Dry the puppy with a towel, gently patting and rubbing to remove excess moisture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 494
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "121",
+        "annotation": "Unbuckle the collar gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 165
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "122",
+        "annotation": "Position the collar around the puppy's neck.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 228
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "123",
+        "annotation": "Buckle the collar securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 158
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "124",
+        "annotation": "Adjust the fit of the collar for comfort.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 229
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "125",
+        "annotation": "Hold the clothes with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "126",
+        "annotation": "Fasten the Velcro straps to secure the clothes in place.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 946
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "127",
+        "annotation": "Adjust the fit of the clothes to ensure comfort.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "128",
+        "annotation": "Hold the paw gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 125
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "129",
+        "annotation": "Grab the nail clippers",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "129",
+        "annotation": "Trim the nails carefully with nail clippers.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 224
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "129",
+        "annotation": "Put down the nail clippers",
+        "start_frame_id": 225,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "130",
+        "annotation": "Dab ear cleaning solution onto a cotton ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 312
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "131",
+        "annotation": "Clean the outer ears gently with the cotton ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "132",
+        "annotation": "Apply dog toothpaste to a toothbrush.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 285
+    },
+    {
+        "scene": "2024-06-18-action-alex-dog",
+        "sequence": "133",
+        "annotation": "Brush the puppy's teeth gently, ensuring to cover all areas.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 318
+    }
+]
