@@ -1,0 +1,128 @@
+[
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "022",
+        "annotation": "Snap once with your right hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 69
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "023",
+        "annotation": "Snap once with your left hand.",
+        "start_frame_id": 0,
+        "end_frame_id": 68
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "024",
+        "annotation": "Snap once with both hands together.",
+        "start_frame_id": 0,
+        "end_frame_id": 73
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "025",
+        "annotation": "Flick your hands in a water motion",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "026",
+        "annotation": "Perform a salt sprinkling motion with your right hand",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "027",
+        "annotation": "Perform a clapping motion.",
+        "start_frame_id": 0,
+        "end_frame_id": 90
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "028",
+        "annotation": "Give a thumbs up gesture.",
+        "start_frame_id": 0,
+        "end_frame_id": 70
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "029",
+        "annotation": "Interlock your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 84
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "030",
+        "annotation": "Interlock your fingers.",
+        "start_frame_id": 0,
+        "end_frame_id": 93
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "031",
+        "annotation": "Make a heart gesture with your hands.",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "032",
+        "annotation": "Perform the action of driving by mimicking steering wheel movements.",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "033",
+        "annotation": "Swerve to simulate avoiding an obstacle while driving.",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "034",
+        "annotation": "Make a honking gesture as if pressing a car horn.",
+        "start_frame_id": 0,
+        "end_frame_id": 71
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "035",
+        "annotation": "Point in a direction to indicate a specific area or item.",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "036",
+        "annotation": "Make expressive gestures with your hands to convey additional meaning or emotion.",
+        "start_frame_id": 0,
+        "end_frame_id": 81
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "037",
+        "annotation": "Mimic the motion of climbing a ladder or scaling a height.",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "038",
+        "annotation": "Make a greeting gesture, such as waving or a hand-shake motion, to represent welcoming someone.",
+        "start_frame_id": 0,
+        "end_frame_id": 58
+    },
+    {
+        "scene": "2024-05-09-action-sign-language",
+        "sequence": "039",
+        "annotation": "Turn one hand over",
+        "start_frame_id": 0,
+        "end_frame_id": 90
+    }
+]

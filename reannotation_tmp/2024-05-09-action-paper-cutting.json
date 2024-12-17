@@ -1,0 +1,121 @@
+[
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "066",
+        "annotation": "Grasp the scissors",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "067",
+        "annotation": "Cut out a circle from a piece of paper using scissors.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 275
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "068",
+        "annotation": "Display the cut circle by holding it up.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 208
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "069",
+        "annotation": "Hold the paper art up for viewing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 217
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "070",
+        "annotation": "Use your hands to reinforce the folds and creases.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "071",
+        "annotation": "Unfold a previously folded paper to show its original form.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "072",
+        "annotation": "Create a rough edge by tearing the paper along a designated line or shape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 245
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "073",
+        "annotation": "Trim the edges of a piece of paper using scissors.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 677
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "074",
+        "annotation": "",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "075",
+        "annotation": "Press along the fold line to reinforce the crease.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 113
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "076",
+        "annotation": "Pick up another piece of paper",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "077",
+        "annotation": "Roll a strip of paper into a cylindrical shape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 392
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "078",
+        "annotation": "Flatten a rolled piece of paper to straighten it out.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "079",
+        "annotation": "Roll or curl the edges of a paper strip or shape.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 404
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "080",
+        "annotation": "Fold the tube in half",
+        "start_frame_id": 0,
+        "end_frame_id": 220
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "081",
+        "annotation": "Pick up the glue stick",
+        "start_frame_id": 0,
+        "end_frame_id": 421
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "082",
+        "annotation": "Apply glue to the edges or surfaces of paper pieces.",
+        "start_frame_id": 0,
+        "end_frame_id": 725
+    }
+]

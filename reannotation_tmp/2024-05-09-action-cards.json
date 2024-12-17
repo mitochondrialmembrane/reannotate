@@ -1,0 +1,184 @@
+[
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "040",
+        "annotation": "Grip the cards",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "041",
+        "annotation": "Shuffle the cards",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "042",
+        "annotation": "Use your thumb and middle finger to grip the deck on the short sides.",
+        "start_frame_id": 0,
+        "end_frame_id": 220
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "043",
+        "annotation": "Fan the cards",
+        "start_frame_id": 0,
+        "end_frame_id": 221
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "044",
+        "annotation": "Interweave the cards together",
+        "start_frame_id": 0,
+        "end_frame_id": 117
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "045",
+        "annotation": "Distribute the cards to the players one by one.",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "046",
+        "annotation": "Separate the deck into two smaller decks, readying them for play.",
+        "start_frame_id": 0,
+        "end_frame_id": 180
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "047",
+        "annotation": "Slide the dealt cards across the table while keeping their faces hidden.",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "048",
+        "annotation": "Pick up and display one card",
+        "start_frame_id": 0,
+        "end_frame_id": 75
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "049",
+        "annotation": "Place a card from one deck face down on the table",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "050",
+        "annotation": "Divide one of the decks into three piles",
+        "start_frame_id": 0,
+        "end_frame_id": 227
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "051",
+        "annotation": "Swap the locations of two piles",
+        "start_frame_id": 0,
+        "end_frame_id": 450
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "052",
+        "annotation": "Swap back the two piles' locations",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "053",
+        "annotation": "Flip over the top card of one deck",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "054",
+        "annotation": "Gently scatter a few cards from the top of the deck onto the table.",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "055",
+        "annotation": "Fan out the cards to create a broad display that is easy to view.",
+        "start_frame_id": 0,
+        "end_frame_id": 471
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "056",
+        "annotation": " Sort the cards in your hand according to their suits or numerical order.",
+        "start_frame_id": 0,
+        "end_frame_id": 238
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "057",
+        "annotation": "Add a new card to your hand from the deck.",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "058",
+        "annotation": "Add the picked up card to your hand",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "059",
+        "annotation": "Take a card from the fan",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "060",
+        "annotation": "Add the discarded card to the deck",
+        "start_frame_id": 0,
+        "end_frame_id": 106
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "061",
+        "annotation": "Add the scattered cards to your hand",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "062",
+        "annotation": "Combine the cards in your hand into a single pile",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "063",
+        "annotation": "Form a single pile with all the cards",
+        "start_frame_id": 0,
+        "end_frame_id": 316
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "064",
+        "annotation": "Align the edges of the cards",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-05-09-action-cards",
+        "sequence": "064",
+        "annotation": "Align the edges of the cards",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    }
+]

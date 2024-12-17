@@ -11,19 +11,20 @@ from PyQt5.QtCore import QTimer, Qt
 from PyQt5.QtGui import QImage, QPixmap
 
 # file with current annotations
-TEXT_FILE_PATH = "/Users/alexj/Downloads/brics-mini-annotation-gui/nick_0901/scene16.txt"
+# TEXT_FILE_PATH = "brics-mini-annotation-gui/alex_0620/scene17.txt"
+TEXT_FILE_PATH = "brics-mini/2024-06-18/scripts.txt"
 # True if processing a scene#.txt file, False if processing a scripts.txt file
-PROCESSING_SCENE_TXT = True
+PROCESSING_SCENE_TXT = False
 # path to folder with videos
-VIDEO_FOLDER_PATH = "brics-mini/2024-09-27-action-joyceli-monopoly/mano"
+VIDEO_FOLDER_PATH = "brics-mini/2024-06-18/mano"
 # output json path
-OUTPUT_PATH = "reannotate/reannotation_tmp/monopoly/2024-09-27-action-joyceli-monopoly.json"
+OUTPUT_PATH = "reannotate/reannotation_tmp/instruments/2024-06-18-action-alex-instruments.json"
 # scene string for annotations in the output json
-SCENE="2024-09-27-action-joyceli-monopoly"
+SCENE="2024-06-18-action-alex-instruments"
 # specifies the start and end video files (for folders with multiple scenes)
 # just put 0 and None otherwise 
-START=0
-END=None
+START=94
+END=94
 
 actions = []
 
@@ -314,6 +315,7 @@ class VideoPlayerWidget(QWidget):
             if len(self.splits) == 1:
                 out_dict["end_frame_id"] = get_end_frame(self.curr_video_path)
                 self.curr_start = 0
+                self.final_annotations.append(out_dict)
                 if self.video_paths:
                     self.curr_video_path = self.video_paths.pop(0)
                 else: 
@@ -321,8 +323,8 @@ class VideoPlayerWidget(QWidget):
             else:
                 self.curr_start = self.splits.pop(0)
                 out_dict["end_frame_id"] = self.curr_start - 1
+                self.final_annotations.append(out_dict)
 
-            self.final_annotations.append(out_dict)
             self.new_annotations += 1
             self.show_annotate_buttons()
             self.change_video()

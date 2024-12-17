@@ -1,0 +1,408 @@
+[
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "056",
+        "annotation": "Turn the faucet on.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "057",
+        "annotation": "Thoroughly wash the lettuce leaves under the faucet",
+        "start_frame_id": 0,
+        "end_frame_id": 508
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "058",
+        "annotation": "Place the lettuce on the chopping board",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "059",
+        "annotation": "Grab the apple",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "059",
+        "annotation": "Rinse the apple under running water.\n",
+        "start_frame_id": 145,
+        "end_frame_id": 319
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "060",
+        "annotation": "Place the apple on the chopping board",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "061",
+        "annotation": "Turn the faucet off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 142
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "062",
+        "annotation": "Grab a bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 352
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "063",
+        "annotation": "Peel the lettuce leaves one by one, placing them into a bowl.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 603
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "064",
+        "annotation": "Soak the lettuce and apple in a bowl of cold water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 527
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "066",
+        "annotation": "Take the apple out of the bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "066",
+        "annotation": "Drain the lettuce leaves in a colander.\n",
+        "start_frame_id": 120,
+        "end_frame_id": 448
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "067",
+        "annotation": "Gently shrink the lettuce leaves with your hands to wring out the water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 293
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "068",
+        "annotation": "Tear the lettuce leaves into square pieces .\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1026
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "069",
+        "annotation": "Transfer the lettuce to the chopping board",
+        "start_frame_id": 0,
+        "end_frame_id": 201
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "070",
+        "annotation": "Grab the fruit knife",
+        "start_frame_id": 0,
+        "end_frame_id": 114
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "070",
+        "annotation": "Unsheathe a fruit knife.\n",
+        "start_frame_id": 115,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "071",
+        "annotation": "Shred the lettuce leaves into smaller pieces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 717
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "072",
+        "annotation": "Clear the chopping board except the lettuce",
+        "start_frame_id": 0,
+        "end_frame_id": 364
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "073",
+        "annotation": "Grab the salad bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 704
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "074",
+        "annotation": "Put down the fruit knife",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "075",
+        "annotation": "Grab the banana",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "075",
+        "annotation": "Strip a banana of its peel.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 571
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "076",
+        "annotation": "Slice the banana into three pieces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "077",
+        "annotation": "Transfer the sliced banana into the salad bowl.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 381
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "078",
+        "annotation": "Grab the apple and peeler",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "078",
+        "annotation": "Peel the apple with a peeler.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 1011
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "079",
+        "annotation": "Take the apple stem out of the apple",
+        "start_frame_id": 0,
+        "end_frame_id": 128
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "080",
+        "annotation": "Chop the apple into halves.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 368
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "081",
+        "annotation": "Cut the apple into smaller segments.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1206
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "082",
+        "annotation": "Dice the apple into smaller pieces.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 692
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "083",
+        "annotation": "Mince the apple pieces into small dice sizes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 667
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "084",
+        "annotation": "Squash the apple dice with the flat side of the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 375
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "085",
+        "annotation": "Dispose the banana peel into the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 234
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "086",
+        "annotation": "Scrape the apple from the chopping board into the salad bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 637
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "087",
+        "annotation": "Grab the nuts bag",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "087",
+        "annotation": "Take out nuts from the zipped bag and place them on the chopping board.\n",
+        "start_frame_id": 120,
+        "end_frame_id": 496
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "088",
+        "annotation": "Zip the bag closed.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "089",
+        "annotation": "Crush the nuts with the flat side of the knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "090",
+        "annotation": "Sweep the crushed nuts from the chopping board into a mortar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 549
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "091",
+        "annotation": "Mash the nuts with a pestle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 221
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "092",
+        "annotation": "Grind the mashed nuts into smaller chunks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 190
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "093",
+        "annotation": "Pound the ground nuts into a fine consistency with the mortar pounder.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "094",
+        "annotation": "Add the nuts to the salad bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 198
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "095",
+        "annotation": "Hold the cheese grater with your left hand",
+        "start_frame_id": 0,
+        "end_frame_id": 229
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "095",
+        "annotation": "Grab the cheese with your right hand",
+        "start_frame_id": 230,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "095",
+        "annotation": "Grate cheese with a cheese grater.\n",
+        "start_frame_id": 280,
+        "end_frame_id": 894
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "096",
+        "annotation": "Pick two grapes from the bunk and drop them into the salad bowl.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 222
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "097",
+        "annotation": "In a large salad bowl, combine all the chopped ingredients. Use clean hands to toss the ingredients gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 499
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "098",
+        "annotation": "Grab the dressing bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 59
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "098",
+        "annotation": "Drizzle the dressing over the salad.\n",
+        "start_frame_id": 60,
+        "end_frame_id": 424
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "098",
+        "annotation": "Put down the dressing bottle",
+        "start_frame_id": 425,
+        "end_frame_id": 507
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "099",
+        "annotation": "Toss the salad in the bowl to coat all the ingredients thoroughly with the dressing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 319
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "100",
+        "annotation": "Grab the fork",
+        "start_frame_id": 0,
+        "end_frame_id": 54
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "100",
+        "annotation": "Spear a variety of ingredients with a fork and bring them to your mouth to eat.\n",
+        "start_frame_id": 55,
+        "end_frame_id": 401
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "101",
+        "annotation": "Move the mortar and pestle aside",
+        "start_frame_id": 0,
+        "end_frame_id": 104
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "101",
+        "annotation": "Mop the table surface with a damp cloth or mop.\n",
+        "start_frame_id": 105,
+        "end_frame_id": 720
+    },
+    {
+        "scene": "2024-06-17-action-alex-salad",
+        "sequence": "102",
+        "annotation": "Dry your hands with a hand towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 233
+    }
+]

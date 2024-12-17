@@ -1,0 +1,478 @@
+[
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "103",
+        "annotation": "Place the sieve atop the bowl",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "104",
+        "annotation": "Unzip the flour bag",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "104",
+        "annotation": "Pour the flour into the sieve.\n",
+        "start_frame_id": 200,
+        "end_frame_id": 1102
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "105",
+        "annotation": "Sieve the flour using the sieve.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 306
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "106",
+        "annotation": "Gently shake the sieve to sift the remaining flour.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "107",
+        "annotation": "Tap the edge of the sieve to allow the flour to fall evenly into the bowl.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 131
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "108",
+        "annotation": "Remove the sieve from the bowl.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 103
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "109",
+        "annotation": "Grab the bottle of water",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "109",
+        "annotation": "Uncap a bottle of water.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 335
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "110",
+        "annotation": "Use a measuring cup to measure a cup of water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 594
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "111",
+        "annotation": "Pour the water into the mixing bowl.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "112",
+        "annotation": "put down the measuring cup\n",
+        "start_frame_id": 0,
+        "end_frame_id": 200
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "113",
+        "annotation": "Cap the water bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 580
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "114",
+        "annotation": "Grab the yeast bag",
+        "start_frame_id": 0,
+        "end_frame_id": 189
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "114",
+        "annotation": "Unzip the yeast bag",
+        "start_frame_id": 190,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "114",
+        "annotation": "Scoop a spoonful of yeast.\n",
+        "start_frame_id": 255,
+        "end_frame_id": 992
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "115",
+        "annotation": "Stir the ingredients with a spatula.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 434
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "116",
+        "annotation": "Beat the mixture with the spatula, using vigorous circular hand motions to fully incorporate air and blend the ingredients smoothly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 360
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "117",
+        "annotation": "Pinch some extra flour from the flour bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 435
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "118",
+        "annotation": "Gently scatter the extra flour on the chopping board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 182
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "119",
+        "annotation": "Move the dough to the floured chopping board.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "120",
+        "annotation": "Scrape down the sides of the mixing bowl with a dough scraper to gather the dough.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 552
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "121",
+        "annotation": "Knead the dough on the floured surface.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 473
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "122",
+        "annotation": "Push the dough with the heels of your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 164
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "123",
+        "annotation": "Fold the dough repeatedly 6 times.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 748
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "124",
+        "annotation": "Gently pat the dough to even out the surface and remove any air pockets.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 220
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "125",
+        "annotation": "Stretch and fold the dough to help develop structure and trap air bubbles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 262
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "126",
+        "annotation": "Lift the stretched dough from one side.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "127",
+        "annotation": "Fold the lifted dough over to the opposite side.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "128",
+        "annotation": "Widen the dough by gently stretching it with both hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 215
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "129",
+        "annotation": "Divide the dough into two portions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "130",
+        "annotation": "Shape the first portion into a roll.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 414
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "131",
+        "annotation": "Roll the dough into a pancake shape with a rolling pin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 764
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "132",
+        "annotation": "Mold the pancake into a straw shape by rolling the pancake.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "133",
+        "annotation": "Crimp the ends of the straw to seal them and add texture.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 260
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "134",
+        "annotation": "Transfer the first portion to the baking tray.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 167
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "135",
+        "annotation": "Tuck the edges of the second portion to form smooth, tight shapes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 331
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "136",
+        "annotation": "Score the surface of the dough with shallow cuts using a sharp knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 305
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "137",
+        "annotation": "Grasp the empty container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "138",
+        "annotation": "Compress the second portion into the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 264
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "139",
+        "annotation": "Set the sieve aside",
+        "start_frame_id": 0,
+        "end_frame_id": 89
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "139",
+        "annotation": "Switch on the oven.\n",
+        "start_frame_id": 90,
+        "end_frame_id": 617
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "140",
+        "annotation": "Open the oven door.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "141",
+        "annotation": "Stick hand into the oven to check the temperature.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "142",
+        "annotation": "Transfer the baking tray into the oven.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 276
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "143",
+        "annotation": "Shut the oven door.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 129
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "144",
+        "annotation": "Open the oven door.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "145",
+        "annotation": "Pull out the baking tray from the oven.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "146",
+        "annotation": "Tap the bottom of the loaf to check for doneness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 155
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "147",
+        "annotation": "Waving your hands around the loaves for even cooling.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "148",
+        "annotation": "Grasp a knife for sawing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "149",
+        "annotation": "Saw the bread gently into a square shape with the sawing knife.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 257
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "150",
+        "annotation": "Put down the sawing knife",
+        "start_frame_id": 0,
+        "end_frame_id": 95
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "151",
+        "annotation": "Place the rotating cake stand in front of you",
+        "start_frame_id": 0,
+        "end_frame_id": 395
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "152",
+        "annotation": "Place the bread on the rotating cake stand",
+        "start_frame_id": 0,
+        "end_frame_id": 102
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "153",
+        "annotation": "Rotate the cake stand to ensure it moves smoothly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 163
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "154",
+        "annotation": "Hold a spatula for spreading frosting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "155",
+        "annotation": "Squeeze icing on the bread",
+        "start_frame_id": 0,
+        "end_frame_id": 1383
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "156",
+        "annotation": "Hold the spatula for spreading",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "157",
+        "annotation": "Dip the spatula into the frosting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "158",
+        "annotation": "Spread the frosting evenly across the top surface of the bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 324
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "159",
+        "annotation": "Apply a thin layer of frosting on the bread to seal in crumbs and provide a smooth base layer for the final frosting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 577
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "160",
+        "annotation": "Spread frosting along the sides of the bread.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 487
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "161",
+        "annotation": "Turn the cake stand while spreading as needed for even coverage.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 305
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "162",
+        "annotation": "Smooth the frosting on the bread's surface with the spatula.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 232
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "163",
+        "annotation": "Put down the spatula.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 127
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "164",
+        "annotation": "Grip a piping bag for piped frosting.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 148
+    },
+    {
+        "scene": "2024-06-17-action-alex-baking",
+        "sequence": "165",
+        "annotation": "Squeeze the piping bag to add circular decorations.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 821
+    }
+]

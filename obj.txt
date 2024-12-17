@@ -1,0 +1,51 @@
+[Cutting]: Cut out a circle from a piece of paper using scissors.
+[Applying]: Apply pressure with your hands to ensure a clean cut.
+[Making]: Make the necessary adjustments with your hands to maintain precision.
+[Displaying]: Display the cut circle by holding it up.
+[Holding]: Hold the paper art up for viewing.
+[Using]: Use your hands to steady the paper while showcasing.
+[Showcasing]: Showcase the paper art by positioning it effectively.
+[Creating]: Create folds in a sheet of paper by folding it in half or into specific shapes.
+[Folding]: Fold the paper using precise hand movements to ensure crisp creases.
+[Using]: Use your hands to reinforce the folds and creases.
+[Unfolding]: Unfold a previously folded paper to show its original form.
+[Opening]: Open the folded paper gently using both hands.
+[Revealing]: Reveal the initial shape and content of the paper by unfolding it.
+[Using]: Use your hands to handle the paper delicately during the unfolding process.
+[Creating]: Create a rough edge by tearing the paper along a designated line or shape.
+[Tearing]: Tear the paper using a controlled motion with your hands.
+[Using]: Use your hands to guide the tearing to follow the designated shape.
+[Designating]: Designate the line or shape for tearing by marking it beforehand.
+[Trimming]: Trim the edges of a piece of paper using scissors.
+[Using]: Use scissors carefully to cut off excess or uneven parts of the paper.
+[Cutting]: Cut precisely to achieve clean edges.
+[Creating]: Create a fold line on a piece of paper.
+[Running]: Run your fingernail or a folding tool along the paper to mark the fold.
+[Creasing]: Crease the paper along the line by pressing down firmly.
+[Pressing]: Press along the fold line to reinforce the crease.
+[Tucking]: Tuck one part of the paper into another to secure it.
+[Using]: Use your hands to adjust and fit the paper parts together.
+[Securing]: Secure the tucked paper by adjusting the folds.
+[Manipulating]: Manipulate the paper folds to ensure a snug fit.
+[Rolling]: Roll a strip of paper into a cylindrical shape.
+[Guiding]: Guide the paper with your hands as you roll.
+[Using]: Use a steady hand movement to maintain the roll's shape.
+[Flattening]: Flatten a rolled piece of paper to straighten it out.
+[Using]: Use your hands to gently unroll the paper.
+[Straightening]: Straighten the paper by smoothing it with your hands.
+[Unrolling]: Unroll the paper fully to remove any curves.
+[Unwinding]: Unwind the roll completely to lay the paper flat.
+[Rolling]: Roll or curl the edges of a paper strip or shape.
+[Using]: Use your hands to initiate the curling motion.
+[Bending]: Bend the paper edges inward or outward as desired.
+[Curling]: Curl the edges to achieve the intended decorative effect.
+[Securing]: Secure different pieces of paper together.
+[Applying]: Apply tape to the joint areas.
+[Joining]: Join the pieces by aligning them before taping.
+[Pressing]: Press down on the tape with your hands to ensure strong adhesion.
+[Taping]: Tape the pieces together firmly.
+[Applying]: Apply glue to the edges or surfaces of paper pieces.
+[Gluing]: Use glue or adhesive for bonding.
+[Bonding]: Bond the pieces together by aligning and pressing.
+[Sticking]: Stick the paper pieces firmly using your hands.
+[Using]: Use your hands to press the glued areas to enhance adhesion.

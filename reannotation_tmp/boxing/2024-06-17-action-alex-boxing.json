@@ -1,0 +1,198 @@
+[
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "235",
+        "annotation": "Insert the pump nozzle into the boxing bag",
+        "start_frame_id": 0,
+        "end_frame_id": 664
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "236",
+        "annotation": "Pump air into the boxing bag by pressing down on the pump handle repeatedly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1274
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "237",
+        "annotation": "Squeeze the bag with your hand to check for firmness.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 133
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "238",
+        "annotation": "Remove the pump nozzle from the air valve once the bag is fully inflated.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 154
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "239",
+        "annotation": "Align the stand with the base, ensuring the holes for connectors are properly positioned.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "240",
+        "annotation": "Insert the stand into the aligned holes.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 406
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "241",
+        "annotation": "Tighten the stand until it is securely attached to the base.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "242",
+        "annotation": "Attach the inflated boxing bag to the top of the stand by sliding it onto the rod.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 850
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "243",
+        "annotation": "Wrap boxing hand wraps on both hands to protect your hands.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1929
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "244",
+        "annotation": "Unwrap the hand wraps",
+        "start_frame_id": 0,
+        "end_frame_id": 170
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "245",
+        "annotation": "Position your hands to get ready for boxing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 94
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "246",
+        "annotation": "Clench your fists, keeping your thumbs outside your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 81
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "247",
+        "annotation": "Jab the boxing bag with your dominant hand, using a quick, snapping motion.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 100
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "248",
+        "annotation": "Follow with a cross punch using your non-dominant hand, rotating your body slightly for added power.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 88
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "249",
+        "annotation": "Deliver a hook punch by swinging your dominant hand in a horizontal arc.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "250",
+        "annotation": "Perform an uppercut by driving your fist upward from a low position.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 107
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "251",
+        "annotation": "Combine punches in sequences, such as jab-cross-hook-uppercut.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 151
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "252",
+        "annotation": "Punch the bag with controlled force for one strike.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "253",
+        "annotation": "Aim your punches at specific targets on the boxing bag to improve accuracy.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "254",
+        "annotation": "Shoot quick, sharp punches at the bag in rapid succession to practice speed and precision.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 148
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "255",
+        "annotation": "Slap the sides of the bag with an open hand to vary your training technique.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "256",
+        "annotation": "Block by raising your arms to shield your face and body from imaginary punches.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 121
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "257",
+        "annotation": "Dodge by leaning or stepping to the side to avoid imaginary attacks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 124
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "258",
+        "annotation": "Feint by making a quick, deceptive movement to trick an imaginary opponent.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "259",
+        "annotation": "Separate the boxing bag from the stand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 401
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "260",
+        "annotation": "Press the bag to expel air, starting from the top and working your way down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 222
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "261",
+        "annotation": "Unscrew the stand from the base using a wrench or screwdriver.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 482
+    },
+    {
+        "scene": "2024-06-17-action-alex-boxing",
+        "sequence": "262",
+        "annotation": "Separate the stand from the base by pulling them apart.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 92
+    }
+]

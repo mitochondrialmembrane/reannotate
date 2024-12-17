@@ -1,0 +1,471 @@
+[
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "056",
+        "annotation": "Take out all the food items and utensils from the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 1040
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "057",
+        "annotation": "Fold the paper bag and place it on the table",
+        "start_frame_id": 0,
+        "end_frame_id": 554
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "058",
+        "annotation": "Set up the food items in a reachable area.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "059",
+        "annotation": "Pick up the hand sanitizer bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "059",
+        "annotation": "Uncap the hand sanitizer",
+        "start_frame_id": 150,
+        "end_frame_id": 254
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "060",
+        "annotation": "Squeeze the sanitizer onto your hand",
+        "start_frame_id": 0,
+        "end_frame_id": 236
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "061",
+        "annotation": "Close the hand sanitizer bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 153
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "062",
+        "annotation": "Put down the hand sanitizer bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "063",
+        "annotation": "Rub your hands together to sanitize them thoroughly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 316
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "064",
+        "annotation": "Hold the can of soda.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 138
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "065",
+        "annotation": "Pull the ring tab to open the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 132
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "066",
+        "annotation": "Rip the ring off of the soda can",
+        "start_frame_id": 0,
+        "end_frame_id": 271
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "067",
+        "annotation": "Pick up the straw",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "067",
+        "annotation": "Insert a straw into the soda can.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 288
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "068",
+        "annotation": "Drink the soda with the straw.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 212
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "069",
+        "annotation": "Put the soda can down.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "070",
+        "annotation": "Open the burger box by lifting the lid.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 279
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "071",
+        "annotation": "Unwrap the burger from the paper wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 380
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "072",
+        "annotation": "Deliver the burger to your mouth and take one or several bites.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 226
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "073",
+        "annotation": "Grasp the ketchup bottle and get ready for squeezing.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 156
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "074",
+        "annotation": "Uncap the ketchup bottle",
+        "start_frame_id": 0,
+        "end_frame_id": 44
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "074",
+        "annotation": "Squeeze some ketchup out from the ketchup bottle onto the plate.\n",
+        "start_frame_id": 45,
+        "end_frame_id": 255
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "075",
+        "annotation": "Put the ketchup bottle back down on the table",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "076",
+        "annotation": "Grip a fry with your fingers.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 110
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "077",
+        "annotation": "Dip the fry into the ketchup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 136
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "078",
+        "annotation": "Deliver the fry to your mouth and eat it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 312
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "079",
+        "annotation": "Sprinkle any remaining salt on your fingers over the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "080",
+        "annotation": "Peel off the lid of the dipping sauce container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 405
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "081",
+        "annotation": "Dispose the lid of the dipping sauce into the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 286
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "082",
+        "annotation": "Grasp a piece of fried chicken thigh.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "083",
+        "annotation": "Dip the fried chicken thigh into the dipping sauce.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 248
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "084",
+        "annotation": "Rotate the chicken thigh as you eat it to get all sides.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 358
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "085",
+        "annotation": "Put down the chicken thigh",
+        "start_frame_id": 0,
+        "end_frame_id": 118
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "087",
+        "annotation": "Wipe your hands with the napkin",
+        "start_frame_id": 0,
+        "end_frame_id": 342
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "088",
+        "annotation": "Wipe any crumbs or spills off the table with a napkin.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 328
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "089",
+        "annotation": "Scrunch the napkin into a ball.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "090",
+        "annotation": "Drop the napkin ball into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 191
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "091",
+        "annotation": "Grasp the jar containing the pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "092",
+        "annotation": "Pinch the rubber band around the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "093",
+        "annotation": "Stretch the rubber band and slide it off the jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 137
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "094",
+        "annotation": "Remove the cloth covering the jar to reveal the pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 172
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "095",
+        "annotation": "Set the fry box aside",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "095",
+        "annotation": "Hold the pudding jar over a plate.\n",
+        "start_frame_id": 180,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "096",
+        "annotation": "Invert the pudding jar to dump the pudding onto the plate.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 339
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "097",
+        "annotation": "put the pudding jar back to the table\n",
+        "start_frame_id": 0,
+        "end_frame_id": 109
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "098",
+        "annotation": "Grab the spoon",
+        "start_frame_id": 0,
+        "end_frame_id": 79
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "098",
+        "annotation": "Scoop with a spoon to ensure all the puddings are transferred.\n",
+        "start_frame_id": 80,
+        "end_frame_id": 374
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "099",
+        "annotation": "Put down the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 185
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "100",
+        "annotation": "Grip the pudding spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "101",
+        "annotation": "Scoop a piece of pudding.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 317
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "102",
+        "annotation": "Deliver the pudding to your mouth and eat it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 144
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "103",
+        "annotation": "Put down the pudding spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "104",
+        "annotation": "Cover the remaining pudding with the pudding jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 509
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "105",
+        "annotation": "Flip the pudding jar and plate to transfer the remaining pudding back into the jar.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 178
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "106",
+        "annotation": "put the plate back to the table\n",
+        "start_frame_id": 0,
+        "end_frame_id": 141
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "107",
+        "annotation": "Lift the piece of cloth off the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "108",
+        "annotation": "Cover the pudding jar with the cloth.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 122
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "109",
+        "annotation": "Grip the rubber band.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 97
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "110",
+        "annotation": "Bind the pudding jar with the rubber band.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 674
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "111",
+        "annotation": "Put the pudding jar back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 485
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "112",
+        "annotation": "Wrap the remaining burger with the paper wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 688
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "113",
+        "annotation": "Pull out the straw from the soda can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 257
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "114",
+        "annotation": "Wedge the used straw into the soda can opening.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 262
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "115",
+        "annotation": "Unfold the paper bag",
+        "start_frame_id": 0,
+        "end_frame_id": 334
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "116",
+        "annotation": "Gather the remaining food items and place them back into the paperback\n",
+        "start_frame_id": 0,
+        "end_frame_id": 632
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "117",
+        "annotation": "Fold the top of the paper bag to close it.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 439
+    },
+    {
+        "scene": "2024-06-12-action-alex-fastfood",
+        "sequence": "118",
+        "annotation": "Clean your hands with hand sanitizer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 557
+    }
+]

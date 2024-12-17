@@ -1,0 +1,380 @@
+[
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "001",
+        "annotation": "Unseal the instant noodle container by tearing the lid halfway off.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "002",
+        "annotation": "Remove the veggie bag and oil packet from the container and put them on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 270
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "003",
+        "annotation": "Pick up the veggie bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 116
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "004",
+        "annotation": "Tear open the veggie bag by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 283
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "005",
+        "annotation": "Empty the veggie contents into the noodle container by shaking the bag.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 586
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "006",
+        "annotation": "Trash the empty veggie bag into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 399
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "007",
+        "annotation": "Pinch the oil packet.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "008",
+        "annotation": "Tear open the oil packet by pulling apart the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 399
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "009",
+        "annotation": "Squeeze the oil into the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 513
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "010",
+        "annotation": "Dispose the empty oil packet into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 206
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "011",
+        "annotation": "Pull the tissue upwards out of the tissue box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 162
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "012",
+        "annotation": "Wipe the oil off your fingers with the tissue.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 184
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "013",
+        "annotation": "Throw away the used tissue into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 179
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "014",
+        "annotation": "Hold the kettle securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "015",
+        "annotation": "Pour hot water into the noodle container up to the fill line.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 441
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "016",
+        "annotation": "Reseal the container lid to trap the heat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "017",
+        "annotation": "Hover your hand over the container to feel the temperature.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 211
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "018",
+        "annotation": "Tearing the lid off the noodle container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 238
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "019",
+        "annotation": "Dispose the noodle container lid to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 237
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "020",
+        "annotation": "Grab the fork",
+        "start_frame_id": 0,
+        "end_frame_id": 85
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "020",
+        "annotation": "Submerge any floating noodles into the soup with a fork.\n",
+        "start_frame_id": 86,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "021",
+        "annotation": "Untangle the noodles with forks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 292
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "022",
+        "annotation": "Stri the fork to further untangle the noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 207
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "023",
+        "annotation": "Tangle the noodles on the fork.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 259
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "024",
+        "annotation": "Deliver the noodles to your mouth with the fork and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 280
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "025",
+        "annotation": "Put the fork down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 129
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "026",
+        "annotation": "Grasp the disposable chopstick wrapper with one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 108
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "027",
+        "annotation": "Tear open the wrapper by pulling apart the sealed edges.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 250
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "028",
+        "annotation": "Sliding the chopsticks from the wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "029",
+        "annotation": "Hold the chopsticks together in one hand.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 199
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "030",
+        "annotation": "Dispose the chopstick wrapper in the trash can",
+        "start_frame_id": 0,
+        "end_frame_id": 261
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "032",
+        "annotation": "Split the chopsticks apart by gently pulling them in opposite directions.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 225
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "033",
+        "annotation": "Hold the chopsticks to prepare for eating noodles.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "034",
+        "annotation": "Lift the noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 301
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "035",
+        "annotation": "Split any entangled noodles with the chopsticks.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 258
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "036",
+        "annotation": "Dip the noodles back into the soup to absorb more flavor.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 261
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "037",
+        "annotation": "Deliver the noodles to your mouth with the chopsticks and eat.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 183
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "038",
+        "annotation": "Drop any remaining noodles on the chopsticks back into the container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 194
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "039",
+        "annotation": "Put the chopsticks back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 115
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "040",
+        "annotation": "Hold the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "041",
+        "annotation": "Flick the spoon in the noodle soup to cool it slightly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 176
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "042",
+        "annotation": "Skim off excess oil from the soup with the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 269
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "043",
+        "annotation": "Dispose the skimmed oil to the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 617
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "044",
+        "annotation": "Spoon some noodle soup into the spoon.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 215
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "045",
+        "annotation": "Put the spoon down on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 126
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "046",
+        "annotation": "Hold the ramen container securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 119
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "047",
+        "annotation": "Tilt the container to sip the remaining soup directly.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 240
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "048",
+        "annotation": "Put the container back on the table.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 123
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "049",
+        "annotation": "Tear off a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 447
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "050",
+        "annotation": "Wipe the chopsticks with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 340
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "051",
+        "annotation": "Clean the spoon with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 273
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "052",
+        "annotation": "Dry the fork with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 245
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "053",
+        "annotation": "Discard the used kitchen towels into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 231
+    },
+    {
+        "scene": "2024-06-12-action-alex-noodle",
+        "sequence": "054",
+        "annotation": "Empty the remaining contents of the container into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 326
+    }
+]

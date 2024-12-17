@@ -1,0 +1,289 @@
+[
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "000",
+        "annotation": "Grasp the teapot lid.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 31
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "001",
+        "annotation": "Lift the lid off the teapot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 87
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "002",
+        "annotation": "Set the lid aside.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 157
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "003",
+        "annotation": "Grasp the kettle handle securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 112
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "004",
+        "annotation": "Grasp the kettle handle securely",
+        "start_frame_id": 0,
+        "end_frame_id": 150
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "005",
+        "annotation": "Pour hot water from the kettle into the teapot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 412
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "006",
+        "annotation": "Grasp the teapot lid securely",
+        "start_frame_id": 0,
+        "end_frame_id": 157
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "007",
+        "annotation": "Set the teapot lid aside",
+        "start_frame_id": 0,
+        "end_frame_id": 187
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "008",
+        "annotation": "Grab the tea bag box",
+        "start_frame_id": 0,
+        "end_frame_id": 169
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "008",
+        "annotation": "Open the tea bag box.\n",
+        "start_frame_id": 170,
+        "end_frame_id": 296
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "009",
+        "annotation": "Select and remove a tea bag from the box.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 157
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "010",
+        "annotation": "Tear the tea bag wrapper.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 195
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "011",
+        "annotation": "Hold the tea bag by the string.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 493
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "012",
+        "annotation": "Steep the tea bag in the hot water.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 397
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "013",
+        "annotation": "Place the lid back onto the teapot.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 177
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "014",
+        "annotation": "Grasp the teapot handle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 98
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "015",
+        "annotation": "Pour the tea into the teacup from the kettle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 302
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "016",
+        "annotation": "put the teapot on the table\n",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "017",
+        "annotation": "Hold the box or bottle of cream securely.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "018",
+        "annotation": "Unscrew the cap of the cream container.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 249
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "019",
+        "annotation": "Pour the cream into the teacup containing the steeped tea.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 196
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "020",
+        "annotation": "Reseal the cream container by screwing the cap back on.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 208
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "021",
+        "annotation": "put the cream box back to the table\n",
+        "start_frame_id": 0,
+        "end_frame_id": 140
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "022",
+        "annotation": "Grab the sugar canister",
+        "start_frame_id": 0,
+        "end_frame_id": 159
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "022",
+        "annotation": "Unfasten the lid of the sugar canister.\n",
+        "start_frame_id": 160,
+        "end_frame_id": 411
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "023",
+        "annotation": "Grab the spoon",
+        "start_frame_id": 0,
+        "end_frame_id": 99
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "023",
+        "annotation": "Scoop a spoonful of sugar with a teaspoon from the sugar canister.\n",
+        "start_frame_id": 100,
+        "end_frame_id": 391
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "024",
+        "annotation": "Add the sugar into the teacup.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 302
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "025",
+        "annotation": "Put down the spoon",
+        "start_frame_id": 0,
+        "end_frame_id": 215
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "026",
+        "annotation": "Fasten the lid of the sugar canister back on.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 243
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "027",
+        "annotation": "Pick up a pre-cut lemon half and a citrus reamer.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 198
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "028",
+        "annotation": "Open the citrus reamer",
+        "start_frame_id": 0,
+        "end_frame_id": 149
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "028",
+        "annotation": "Extract the juice by pressing and twisting the reamer into the lemon over the teacup.\n",
+        "start_frame_id": 150,
+        "end_frame_id": 419
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "029",
+        "annotation": "Put down the lemon and citrus reamer once sufficient juice is extracted.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 210
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "030",
+        "annotation": "Lift the teacup carefully by its handle.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 152
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "031",
+        "annotation": "Take a small, careful sip of the tea.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 222
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "032",
+        "annotation": "Repeat sipping the tea twice.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 337
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "033",
+        "annotation": "Lower the teacup back onto the saucer or table gently.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 166
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "034",
+        "annotation": "Pick up a piece of kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 395
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "035",
+        "annotation": "Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 730
+    },
+    {
+        "scene": "2024-06-09-action-alex-tea",
+        "sequence": "036",
+        "annotation": "Discard the used kitchen towel into the trash can.\n",
+        "start_frame_id": 0,
+        "end_frame_id": 235
+    }
+]
